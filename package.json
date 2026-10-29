@@ -1,0 +1,11 @@
+{
+  "name": "learning-garden-grade3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "2022 개정 교육과정과 연결한 초등 3학년 아홉 교과 학습정원",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/verify.mjs",
+    "dev": "python -m http.server 8765 --directory dist --bind 127.0.0.1"
+  }
+}

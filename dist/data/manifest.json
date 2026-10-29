@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-29",
+  "title": "배움정원",
+  "curriculum": "2022 개정 교육과정 · 3~4학년군에서 3학년 주제 선정",
+  "lessonCount": 157,
+  "questionCount": 471,
+  "subjects": [
+    {
+      "name": "국어",
+      "count": 26
+    },
+    {
+      "name": "수학",
+      "count": 28
+    },
+    {
+      "name": "사회",
+      "count": 16
+    },
+    {
+      "name": "과학",
+      "count": 25
+    },
+    {
+      "name": "영어",
+      "count": 16
+    },
+    {
+      "name": "도덕",
+      "count": 10
+    },
+    {
+      "name": "체육",
+      "count": 10
+    },
+    {
+      "name": "음악",
+      "count": 12
+    },
+    {
+      "name": "미술",
+      "count": 14
+    }
+  ],
+  "dataSource": "korean-elementary-learning-map-mcp@0.5.1"
+}

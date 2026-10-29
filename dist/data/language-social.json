@@ -1,0 +1,4262 @@
+[
+  {
+    "id": "korean-01",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "감각과 표현",
+    "title": "눈앞에 그려지는 말",
+    "goal": "감각적 표현을 찾아 생생하게 말할 수 있어요.",
+    "paragraphs": [
+      "감각적 표현은 눈으로 본 색과 모양, 귀로 들은 소리, 손으로 느낀 촉감처럼 몸의 감각을 살려 나타내는 말이에요. 읽는 사람은 그 장면을 더 생생하게 떠올릴 수 있어요.",
+      "그냥 “비가 온다.”보다 “빗방울이 창문을 톡톡 두드린다.”가 소리를 잘 느끼게 해요. 직접 보고 듣고 느낀 것에서 표현을 찾아보세요."
+    ],
+    "example": "“노란 은행잎이 팔랑팔랑 내려앉는다.”에서는 색과 움직임이 느껴져요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "소리가 느껴지는 표현을 골라요.",
+        "options": [
+          "종이 울린다.",
+          "종이 땡땡 울린다.",
+          "종이 있다."
+        ],
+        "answer": "종이 땡땡 울린다.",
+        "explanation": "“땡땡”이 종소리를 생생하게 들려줘요."
+      },
+      {
+        "type": "short",
+        "prompt": "“수박이 맛있다.”를 맛이나 촉감이 드러나게 바꾸어 보세요.",
+        "answer": "아삭아삭 씹히는 수박에서 달콤한 즙이 나와요.",
+        "explanation": "맛과 씹는 느낌을 구체적으로 나타내면 좋아요."
+      },
+      {
+        "type": "activity",
+        "prompt": "창밖에서 보이는 한 장면을 감각적 표현 하나 이상을 넣어 써 보세요.",
+        "answer": "초록 나뭇잎이 바람에 살랑살랑 흔들려요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "실제 관찰한 장면과 감각적 표현이 함께 드러나는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국05-04"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국05-04",
+        "text": "감각적 표현에 유의하여 작품을 감상하고, 감각적 표현을 활용하여 자신의 생각이나 감정을 표현한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "korean-02",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "감각과 표현",
+    "title": "표정과 목소리로 마음 전하기",
+    "goal": "상황에 맞는 표정·몸짓·목소리를 사용할 수 있어요.",
+    "paragraphs": [
+      "같은 말도 표정과 목소리에 따라 느낌이 달라져요. 말의 빠르기나 높낮이, 얼굴 표정과 몸짓은 말의 뜻을 더 잘 전해 줍니다.",
+      "기쁜 소식을 전할 때는 밝은 표정이 어울려요. 친구를 위로할 때는 차분한 목소리로 말하고 상대의 반응도 살펴요. 몸짓이 불편한 친구에게는 다른 편안한 표현을 써도 좋아요."
+    ],
+    "example": "“괜찮아?”를 걱정하는 표정과 부드러운 목소리로 말해 보세요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "넘어져 속상한 친구를 위로할 때 알맞은 모습은?",
+        "options": [
+          "웃으며 큰 소리로 놀린다.",
+          "차분한 목소리로 상태를 묻는다.",
+          "말을 빨리 끝내고 돌아선다."
+        ],
+        "answer": "차분한 목소리로 상태를 묻는다.",
+        "explanation": "친구의 마음을 생각한 표정과 목소리가 필요해요."
+      },
+      {
+        "type": "short",
+        "prompt": "발표할 때 목소리가 너무 작으면 어떤 점을 바꾸면 좋을까요?",
+        "answer": "친구들이 들을 수 있을 만큼 목소리를 또렷하게 내요.",
+        "explanation": "상대가 편하게 듣는지를 생각하며 소리 크기를 조절해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "“정말 고마워!”를 표정과 목소리를 바꾸어 두 번 말하고 느낌을 비교해요.",
+        "answer": "밝게 웃으며 말하니 고마운 마음이 더 잘 전해졌어요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "표현을 두 가지로 바꾸고 어떤 차이가 있었는지 말해요."
+      }
+    ],
+    "standardCodes": [
+      "4국01-03"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국01-03",
+        "text": "상황에 적절한 준언어⋅비언어적 표현을 활용하여 듣고 말한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "korean-03",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "바르게 읽고 쓰기",
+    "title": "누가, 무엇이, 어찌하였나요?",
+    "goal": "문장의 기본 짜임에 맞게 문장을 만들 수 있어요.",
+    "paragraphs": [
+      "문장은 낱말을 아무렇게나 늘어놓은 것이 아니에요. “누가 또는 무엇이”와 “어찌한다, 어떠하다, 무엇이다”가 어울려야 뜻이 분명해져요.",
+      "“고양이가 잔다.”에서 고양이는 누구인지, 잔다는 무엇을 하는지 알려 줘요. 문장을 쓰고 나서 빠진 부분이나 서로 어울리지 않는 부분을 찾아보세요."
+    ],
+    "example": "“민수가 / 공원에서 / 달립니다.”에서는 누가 무엇을 하는지가 분명해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "뜻이 자연스럽게 완성된 문장은?",
+        "options": [
+          "동생이 그림을.",
+          "동생이 그림을 그린다.",
+          "동생이 그리고."
+        ],
+        "answer": "동생이 그림을 그린다.",
+        "explanation": "누가 무엇을 하는지 끝까지 드러나요."
+      },
+      {
+        "type": "short",
+        "prompt": "“운동장에서 뛰어놉니다.”에 누가 하는지 넣어 문장을 완성해요.",
+        "answer": "친구들이 운동장에서 뛰어놉니다.",
+        "explanation": "“누가”에 해당하는 말을 넣으면 뜻이 더 분명해져요."
+      },
+      {
+        "type": "activity",
+        "prompt": "주변 물건 하나를 골라 “무엇이 어떠하다” 꼴의 문장을 써요.",
+        "answer": "책상 위의 연필이 뾰족하다.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "무엇을 설명하는지와 그 모습이 서로 어울리는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국04-03"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국04-03",
+        "text": "기본적인 문장의 짜임을 이해하고 적절하게 사용한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "id": "korean-04",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "바르게 읽고 쓰기",
+    "title": "뜻을 생각하며 소리 내어 읽기",
+    "goal": "의미가 이어지는 말끼리 묶어 자연스럽게 읽을 수 있어요.",
+    "paragraphs": [
+      "글을 소리 내어 읽을 때는 글자를 빨리 읽는 것보다 뜻이 전해지는 것이 중요해요. 의미가 이어지는 말끼리 묶고 문장 끝에서는 알맞게 쉬어요.",
+      "처음에는 뜻을 살펴보고, 다음에는 말하는 사람의 마음과 장면을 생각하며 읽어 보세요. 어색한 부분을 다시 읽으면 조금씩 자연스러워져요."
+    ],
+    "example": "“봄바람이 불자 / 나뭇가지가 살랑살랑 흔들렸어요.”처럼 읽어 봐요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "소리 내어 읽는 좋은 방법은?",
+        "options": [
+          "모든 글자 사이에서 쉰다.",
+          "뜻이 이어지는 말끼리 묶어 읽는다.",
+          "항상 가장 빠르게 읽는다."
+        ],
+        "answer": "뜻이 이어지는 말끼리 묶어 읽는다.",
+        "explanation": "의미를 살려 읽으면 듣는 사람이 내용을 이해하기 쉬워요."
+      },
+      {
+        "type": "short",
+        "prompt": "“작은 강아지가 마당에서 뛰어요.”에서 한 번 쉴 곳을 /로 나타내요.",
+        "answer": "작은 강아지가 / 마당에서 뛰어요.",
+        "explanation": "문장의 뜻이 자연스럽게 이어지는 곳에서 잠깐 쉴 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "예시 문장을 두 번 읽고 두 번째에 바꾼 점을 말해요.",
+        "answer": "처음보다 천천히 읽고 “살랑살랑”을 부드럽게 표현했어요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "내용을 이해하며 읽고 쉼이나 목소리를 스스로 조절했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국02-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국02-01",
+        "text": "글의 의미를 파악하며 유창하게 글을 읽는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "korean-05",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "문단과 감상",
+    "title": "중심 문장과 뒷받침 문장",
+    "goal": "하나의 중심 생각으로 문단을 쓸 수 있어요.",
+    "paragraphs": [
+      "문단은 하나의 중심 생각을 담은 문장들의 모임이에요. 중심 문장은 하고 싶은 말을 드러내고, 뒷받침 문장은 그 말을 구체적으로 설명하거나 예를 들어요.",
+      "“우리 학교 도서관은 편리하다.”를 중심 문장으로 정했다면 책을 찾기 쉽다는 설명이나 조용한 자리가 있다는 예가 어울려요. 다른 주제의 문장은 빼거나 다른 문단으로 옮겨요."
+    ],
+    "example": "중심: 우리 반은 식물을 잘 돌본다. 뒷받침: 매일 돌아가며 물을 주고 잎의 모습을 살핀다.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "“우리 동네 공원은 쉬기 좋다.”를 뒷받침하는 말은?",
+        "options": [
+          "그늘 아래 벤치가 많다.",
+          "어제 수학 숙제를 했다.",
+          "내 연필은 파란색이다."
+        ],
+        "answer": "그늘 아래 벤치가 많다.",
+        "explanation": "공원에서 쉬기 좋은 까닭을 구체적으로 설명해요."
+      },
+      {
+        "type": "short",
+        "prompt": "“비 오는 날에는 우산을 준비한다. 장화를 신으면 발이 덜 젖는다.”의 중심 생각을 한 문장으로 써요.",
+        "answer": "비 오는 날에는 비에 젖지 않도록 준비해요.",
+        "explanation": "두 문장을 함께 아우르는 생각을 찾으면 돼요."
+      },
+      {
+        "type": "activity",
+        "prompt": "좋아하는 놀이를 소개하는 중심 문장 하나와 뒷받침 문장 두 개를 써요.",
+        "answer": "나는 숨바꼭질을 좋아한다. 친구들과 함께할 수 있다. 숨을 곳을 찾는 것도 재미있다.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "세 문장이 하나의 주제를 설명하고 구체적인 까닭이나 예를 담았는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국03-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국03-01",
+        "text": "중심 문장과 뒷받침 문장을 갖추어 문단을 쓰고, 문장과 문단을 중심으로 고쳐 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "korean-06",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "문단과 감상",
+    "title": "재미와 감동을 말로 나누기",
+    "goal": "작품의 장면을 근거로 느낌을 표현할 수 있어요.",
+    "paragraphs": [
+      "작품을 읽고 느낀 재미나 감동은 사람마다 달라요. “재미있다.”에서 한 걸음 더 나아가 어떤 장면에서 왜 그렇게 느꼈는지 말해 보세요.",
+      "친구와 느낌이 다르더라도 틀렸다고 하지 않아요. 서로 고른 장면과 까닭을 들으며 작품을 더 풍부하게 즐길 수 있어요."
+    ],
+    "example": "작은 새가 친구들과 힘을 모아 잃어버린 씨앗을 찾았어요. “친구들이 도와주는 장면에서 따뜻함을 느꼈어요.”",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "작품의 느낌을 구체적으로 말한 것은?",
+        "options": [
+          "그냥 좋다.",
+          "책이 책이다.",
+          "친구를 도와주는 장면이 따뜻해서 좋다."
+        ],
+        "answer": "친구를 도와주는 장면이 따뜻해서 좋다.",
+        "explanation": "장면과 느낌의 까닭이 함께 드러나요."
+      },
+      {
+        "type": "short",
+        "prompt": "예시 이야기에서 감동을 느낄 수 있는 행동은 무엇인가요?",
+        "answer": "친구들이 힘을 모아 씨앗을 찾아준 행동이에요.",
+        "explanation": "함께 돕는 모습에서 따뜻함을 느낄 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "최근 읽은 작품에서 기억에 남는 장면과 그때의 느낌을 두 문장으로 말해요.",
+        "answer": "주인공이 실수한 뒤 다시 도전하는 장면이 기억나요. 나도 용기를 내고 싶었어요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "작품 속 구체적인 장면과 자신의 느낌이 연결되는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국05-05"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국05-05",
+        "text": "재미나 감동을 느끼며 작품을 즐겨 감상하는 태도를 지닌다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "korean-07",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "중요한 내용 찾기",
+    "title": "귀 기울여 듣고 간추리기",
+    "goal": "들은 내용에서 중요한 정보를 골라 요약할 수 있어요.",
+    "paragraphs": [
+      "중요한 내용을 찾으려면 무엇에 관한 이야기인지 먼저 생각해요. 안내를 들을 때는 언제, 어디서, 무엇을 하는지처럼 꼭 필요한 정보를 기억하거나 적어요.",
+      "요약은 들은 말을 모두 옮기는 일이 아니에요. 반복되는 내용과 중심 내용을 골라 짧고 분명하게 다시 말하는 일이에요."
+    ],
+    "example": "안내: “금요일 점심시간에 도서관에서 책 나눔을 합니다. 읽은 책 한 권을 가져오세요.”",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "예시 안내에서 책 나눔 장소는 어디인가요?",
+        "options": [
+          "운동장",
+          "도서관",
+          "급식실"
+        ],
+        "answer": "도서관",
+        "explanation": "안내에서 장소를 직접 알려 주었어요."
+      },
+      {
+        "type": "short",
+        "prompt": "예시 안내에서 준비할 것은 무엇인가요?",
+        "answer": "읽은 책 한 권이에요.",
+        "explanation": "행사에 참여하려면 필요한 준비물도 중요해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "보호자나 친구에게 예시 안내를 읽어 달라고 하고, 듣고 난 뒤 필요한 정보 세 가지를 말해요.",
+        "answer": "금요일 점심시간, 도서관, 읽은 책 한 권 준비예요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "들은 뒤 시각·장소·준비물을 빠뜨리지 않고 간추렸는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국01-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국01-01",
+        "text": "중요한 내용과 주제를 파악하며 듣고 그 내용을 요약한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "korean-08",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "중요한 내용 찾기",
+    "title": "글의 중심 생각 한 문장",
+    "goal": "글을 읽고 중요한 내용을 간추릴 수 있어요.",
+    "paragraphs": [
+      "글을 읽으며 반복되는 낱말과 문장들이 공통으로 말하는 내용을 찾아요. 중심 생각은 글쓴이가 가장 전하고 싶은 말이에요.",
+      "여러 예를 길게 나열하기보다 예들이 가리키는 생각을 한 문장으로 묶어 보세요. 문단별 중심 생각을 찾아 연결하면 긴 글도 간추릴 수 있어요."
+    ],
+    "example": "글: “식물을 가꾸면 공기를 맑게 하는 데 도움이 된다. 초록 잎을 보며 마음도 편안해진다. 식물은 우리 생활에 도움을 준다.”",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "예시 글의 중심 생각은?",
+        "options": [
+          "식물은 우리 생활에 도움을 준다.",
+          "잎은 늘 파랗다.",
+          "화분은 모두 크다."
+        ],
+        "answer": "식물은 우리 생활에 도움을 준다.",
+        "explanation": "앞의 두 문장은 식물이 주는 도움의 예예요."
+      },
+      {
+        "type": "short",
+        "prompt": "중심 생각을 찾을 때 도움이 되는 방법을 하나 쓰세요.",
+        "answer": "반복되는 낱말과 문장들의 공통 내용을 찾아요.",
+        "explanation": "구체적인 예를 묶어 보는 것도 좋아요."
+      },
+      {
+        "type": "activity",
+        "prompt": "“책은 새로운 사실을 알려 준다. 다른 사람의 마음도 알게 한다.”를 한 문장으로 간추려요.",
+        "answer": "책을 읽으면 여러 가지를 배울 수 있어요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "두 문장의 공통 내용을 포함하고 뜻을 바꾸지 않았는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국02-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국02-02",
+        "text": "문단과 글에서 중심 생각을 파악하고 내용을 간추린다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "korean-09",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "인물과 마음",
+    "title": "말과 행동으로 인물 알기",
+    "goal": "인물의 말과 행동을 근거로 성격을 짐작할 수 있어요.",
+    "paragraphs": [
+      "이야기 속 인물의 성격은 설명으로 드러나기도 하고 말과 행동 속에 숨어 있기도 해요. 인물이 어려운 일을 만났을 때 어떻게 하는지 살펴보세요.",
+      "성격을 말할 때는 근거가 되는 장면을 함께 말해요. 한 장면만으로 단정하기보다 이야기의 앞뒤도 확인하면 더 정확히 이해할 수 있어요."
+    ],
+    "example": "이야기: “비가 오자 다은이는 우산이 없는 친구에게 함께 쓰자고 말했다.”",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "예시에서 짐작할 수 있는 다은이의 모습은?",
+        "options": [
+          "친구를 배려한다.",
+          "친구를 놀린다.",
+          "약속을 잊는다."
+        ],
+        "answer": "친구를 배려한다.",
+        "explanation": "우산 없는 친구에게 먼저 함께 쓰자고 했어요."
+      },
+      {
+        "type": "short",
+        "prompt": "다은이의 성격을 짐작한 근거가 되는 행동을 쓰세요.",
+        "answer": "우산이 없는 친구에게 함께 쓰자고 말했어요.",
+        "explanation": "느낌만 적기보다 실제 행동을 찾아야 해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "다은이가 다음에 할 법한 말을 상상하고, 성격과 어울리는 까닭을 설명해요.",
+        "answer": "“너도 젖지 않게 이쪽으로 와.”라고 말할 것 같아요. 친구를 배려하기 때문이에요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "인물의 성격과 이어지는 말이 자연스럽게 연결되는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국05-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국05-01",
+        "text": "인물과 이야기의 흐름을 중심으로 작품을 감상한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "korean-10",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "인물과 마음",
+    "title": "마음을 담아 편지 쓰기",
+    "goal": "상대와 목적에 맞게 마음을 전하는 글을 쓸 수 있어요.",
+    "paragraphs": [
+      "마음을 전하는 글은 누구에게 왜 쓰는지가 중요해요. 고마움, 미안함, 응원처럼 전하려는 마음을 정하고 그 마음이 생긴 일을 구체적으로 떠올려요.",
+      "받는 사람에게 어울리는 표현을 쓰고, 전하고 싶은 마음을 솔직하게 적어요. 편지라면 받는 사람, 내용, 쓴 사람과 날짜를 넣으면 알아보기 편해요."
+    ],
+    "example": "“지우에게. 어제 어려운 문제를 함께 풀어줘서 고마워. 네가 차근차근 설명해 줘서 이해했어. 민서가.”",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "고마운 마음이 가장 잘 드러나는 말은?",
+        "options": [
+          "그냥 편지야.",
+          "어제 도와줘서 고마워. 덕분에 잘 마쳤어.",
+          "내가 더 잘했어."
+        ],
+        "answer": "어제 도와줘서 고마워. 덕분에 잘 마쳤어.",
+        "explanation": "구체적인 일과 고마운 마음이 함께 담겨 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "예시 편지는 누구에게 어떤 마음을 전하나요?",
+        "answer": "지우에게 고마운 마음을 전해요.",
+        "explanation": "받는 사람과 목적을 구분해 보세요."
+      },
+      {
+        "type": "activity",
+        "prompt": "고마운 사람에게 고마웠던 일을 넣어 짧은 편지를 써요.",
+        "answer": "할머니께. 지난번 제 이야기를 끝까지 들어주셔서 고마워요. 마음이 편해졌어요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "상대, 구체적인 일, 전하려는 마음이 드러나고 예의를 갖추었는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국03-04"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국03-04",
+        "text": "목적과 주제를 고려하여 독자에게 마음을 전하는 글을 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "korean-11",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "자신 있게 읽고 쓰기",
+    "title": "사실과 의견 구분하기",
+    "goal": "확인할 수 있는 사실과 사람의 생각을 구분할 수 있어요.",
+    "paragraphs": [
+      "사실은 실제로 있었거나 자료로 확인할 수 있는 내용이에요. 의견은 어떤 일에 대한 사람의 생각이나 판단이에요. 같은 사실을 보고도 의견은 달라질 수 있어요.",
+      "“운동장에 나무가 다섯 그루 있다.”는 세어 확인할 수 있어요. “우리 운동장이 가장 멋지다.”는 느끼는 사람에 따라 달라지는 의견이에요."
+    ],
+    "example": "“오늘 수업은 네 교시다.”는 사실, “오늘 수업이 가장 재미있다.”는 의견이에요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "의견에 해당하는 것은?",
+        "options": [
+          "연필이 세 자루 있다.",
+          "도서관은 2층에 있다.",
+          "이 책이 제일 재미있다."
+        ],
+        "answer": "이 책이 제일 재미있다.",
+        "explanation": "재미에 대한 판단은 사람마다 다를 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "“우리 반 학생은 24명이다.”는 사실인가요, 의견인가요? 까닭도 말해요.",
+        "answer": "사실이에요. 학생 수를 세어 확인할 수 있기 때문이에요.",
+        "explanation": "확인할 수 있는지를 생각하면 구분하기 쉬워요."
+      },
+      {
+        "type": "activity",
+        "prompt": "급식에 관한 사실 한 문장과 의견 한 문장을 써요.",
+        "answer": "오늘 급식에 사과가 나왔다. 나는 사과가 가장 맛있었다.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "첫 문장은 확인 가능한 내용인지, 둘째 문장은 자신의 판단인지 살펴요."
+      }
+    ],
+    "standardCodes": [
+      "4국02-04"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국02-04",
+        "text": "글에 나타난 사실과 의견을 구분하고 필자와 자신의 의견을 비교한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "korean-12",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "자신 있게 읽고 쓰기",
+    "title": "글쓰기 계획과 돌아보기",
+    "goal": "쓸 내용을 계획하고 고쳐 쓸 점을 찾을 수 있어요.",
+    "paragraphs": [
+      "글을 쓰기 전에는 누구에게 무엇을 왜 전할지 정해요. 떠오르는 내용을 적고 비슷한 것끼리 묶으면 글의 차례를 만들기 쉬워요.",
+      "다 쓴 뒤에는 읽는 사람이 이해할지 생각하며 다시 읽어요. 빠진 내용, 반복되는 말, 어색한 문장을 고쳐요. 한 번에 완벽하지 않아도 고쳐 쓰면서 좋아져요."
+    ],
+    "example": "놀이터 소개 글의 계획: 소개할 장소 → 할 수 있는 놀이 → 지켜야 할 약속.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "글쓰기 전에 할 일로 알맞은 것은?",
+        "options": [
+          "읽을 사람과 쓸 목적을 정한다.",
+          "주제와 관계없는 말을 모두 넣는다.",
+          "고쳐 쓰지 않기로 정한다."
+        ],
+        "answer": "읽을 사람과 쓸 목적을 정한다.",
+        "explanation": "목적과 독자를 생각하면 필요한 내용을 고르기 쉬워요."
+      },
+      {
+        "type": "short",
+        "prompt": "“공원이 좋다. 좋다. 정말 좋다.”를 고칠 때 무엇을 보충하면 좋을까요?",
+        "answer": "공원이 좋은 까닭이나 구체적인 모습을 보충해요.",
+        "explanation": "같은 말을 반복하기보다 독자가 궁금해할 정보를 넣어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "쓰고 싶은 글의 독자·목적·내용 세 가지를 계획표로 적어 보세요.",
+        "answer": "독자: 새 친구 / 목적: 도서관 소개 / 내용: 위치, 책 빌리는 법, 이용 약속.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "독자와 목적에 맞는 내용으로 계획했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국03-05"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국03-05",
+        "text": "자신의 쓰기 과정을 점검하며 쓰기에 자신감을 갖는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "korean-13",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "경험과 이해",
+    "title": "내 경험과 작품 연결하기",
+    "goal": "비슷한 경험을 떠올리며 인물의 마음을 이해할 수 있어요.",
+    "paragraphs": [
+      "작품 속 인물이 겪은 일과 비슷한 경험을 떠올리면 마음을 더 잘 이해할 수 있어요. 나와 똑같은 일이 아니어도 비슷한 감정이 들었던 때를 생각해 보세요.",
+      "작품은 실제 생활을 바탕으로 상상해 만들기도 해요. 작품 속 일과 현실에서 가능한 일을 비교하며 읽으면 이야기의 재미도 더 잘 느낄 수 있어요."
+    ],
+    "example": "처음 전학 온 인물이 떨려 하는 장면을 읽으며, 새 모둠에서 처음 발표하던 날의 긴장을 떠올릴 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "인물의 마음을 이해하는 데 도움이 되는 방법은?",
+        "options": [
+          "비슷한 감정을 느낀 경험을 떠올린다.",
+          "작품을 읽지 않는다.",
+          "내 느낌만 정답이라고 한다."
+        ],
+        "answer": "비슷한 감정을 느낀 경험을 떠올린다.",
+        "explanation": "경험을 연결하면 인물의 상황에 공감하기 쉬워요."
+      },
+      {
+        "type": "short",
+        "prompt": "말하는 나무가 등장하는 이야기와 현실의 다른 점은 무엇인가요?",
+        "answer": "이야기에서는 나무가 사람처럼 말하지만 현실의 나무는 사람의 말로 이야기하지 않아요.",
+        "explanation": "작품의 상상과 현실을 구분하며 감상해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "기억나는 이야기의 장면과 비슷한 자신의 경험을 연결해 써요.",
+        "answer": "인물이 길을 잃어 무서워할 때, 나도 큰 가게에서 가족을 잠깐 놓쳤던 일이 떠올랐어요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "작품 속 장면과 자신의 경험에서 비슷한 점을 구체적으로 설명해요."
+      }
+    ],
+    "standardCodes": [
+      "4국05-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국05-02",
+        "text": "자신의 경험을 바탕으로 작품 속 세계와 현실 세계를 비교하여 작품을 감상한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "korean-14",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "경험과 이해",
+    "title": "문단의 내용을 간추리기",
+    "goal": "여러 문단의 중심 생각을 이어 글을 요약할 수 있어요.",
+    "paragraphs": [
+      "문단마다 무엇을 설명하는지 짧게 적어 보세요. 글 전체의 주제와 관련된 중심 생각을 골라 자연스럽게 연결하면 요약이 돼요.",
+      "예시와 세부 설명을 모두 적을 필요는 없어요. 하지만 원래 글에 없는 생각을 넣거나 중요한 내용을 빼면 글의 뜻이 달라질 수 있어요."
+    ],
+    "example": "첫 문단: 종이를 아껴야 하는 이유. 둘째 문단: 종이를 아끼는 방법. 요약: 종이를 아끼려면 필요한 만큼 쓰고 뒷면도 활용한다.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "요약할 때 지켜야 할 점은?",
+        "options": [
+          "모든 예를 빠짐없이 길게 옮긴다.",
+          "원래 글의 중요한 내용을 짧게 정리한다.",
+          "글에 없는 이야기를 넣는다."
+        ],
+        "answer": "원래 글의 중요한 내용을 짧게 정리한다.",
+        "explanation": "요약은 글의 핵심을 유지하면서 분량을 줄이는 일이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“손을 씻으면 먼지를 없앨 수 있다. 비누를 쓰고 구석구석 씻는다.”의 내용을 짧게 간추려요.",
+        "answer": "먼지를 없애려면 비누로 손을 구석구석 씻어요.",
+        "explanation": "중요한 이유와 방법을 연결했어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "읽은 짧은 설명글에서 문단별 중심 생각을 적고 두 문장으로 요약해요.",
+        "answer": "첫 문단은 나무의 역할, 둘째 문단은 보호 방법이었어요. 나무는 생활에 도움을 주므로 함부로 꺾지 않고 돌봐야 해요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "문단별 핵심을 연결하고 글에 없는 정보를 더하지 않았는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국02-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국02-02",
+        "text": "문단과 글에서 중심 생각을 파악하고 내용을 간추린다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "korean-15",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "읽기와 발표",
+    "title": "장면에 맞게 유창하게 읽기",
+    "goal": "분위기와 인물의 마음을 살려 글을 읽을 수 있어요.",
+    "paragraphs": [
+      "유창하게 읽기는 뜻을 이해하며 정확하고 자연스럽게 읽는 것이에요. 기쁜 장면과 조용한 장면을 모두 같은 목소리로 읽기보다 분위기에 어울리게 표현해요.",
+      "어려운 낱말은 뜻을 먼저 확인해요. 녹음해 듣거나 친구의 의견을 들어 보면 너무 빠른 부분과 잘 들리지 않는 부분을 찾을 수 있어요."
+    ],
+    "example": "“드디어 해냈다!”는 기쁜 목소리로, “괜찮니?”는 걱정하는 마음을 담아 읽어 보세요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "조용히 잠든 아기를 바라보는 장면에 어울리는 읽기는?",
+        "options": [
+          "무조건 큰 소리로 외친다.",
+          "차분하고 부드럽게 읽는다.",
+          "뜻을 생각하지 않고 읽는다."
+        ],
+        "answer": "차분하고 부드럽게 읽는다.",
+        "explanation": "장면의 분위기를 생각해 목소리를 조절해요."
+      },
+      {
+        "type": "short",
+        "prompt": "글을 읽다가 뜻 모르는 낱말이 나오면 어떻게 하면 좋을까요?",
+        "answer": "앞뒤 내용을 살피고 사전에서 뜻을 확인한 뒤 다시 읽어요.",
+        "explanation": "뜻을 이해해야 자연스럽게 읽을 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "예시의 두 문장을 마음이 드러나도록 읽고, 목소리를 어떻게 바꾸었는지 말해요.",
+        "answer": "기쁜 문장은 힘 있게, 걱정하는 문장은 천천히 읽었어요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "장면과 마음을 이해하고 소리의 크기·빠르기 등을 조절했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국02-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국02-01",
+        "text": "글의 의미를 파악하며 유창하게 글을 읽는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "korean-16",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "읽기와 발표",
+    "title": "글과 그림으로 발표하기",
+    "goal": "주제에 맞는 글과 그림으로 발표 자료를 만들 수 있어요.",
+    "paragraphs": [
+      "발표 자료는 듣는 사람이 내용을 쉽게 이해하도록 도와요. 긴 글을 가득 쓰기보다 핵심 낱말과 내용을 보여 주는 그림을 골라요.",
+      "무엇을 먼저 말하고 나중에 말할지 차례를 정해요. 자료를 읽기만 하지 말고 그림이 무엇을 보여 주는지 설명하며 듣는 사람을 바라보세요."
+    ],
+    "example": "식물 관찰 발표: 첫 장에는 식물 이름, 다음 장에는 자라는 순서의 그림, 마지막 장에는 알게 된 점을 넣어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "발표 자료를 만드는 좋은 방법은?",
+        "options": [
+          "주제와 관계없는 사진을 많이 넣는다.",
+          "핵심 낱말과 내용을 돕는 그림을 넣는다.",
+          "아주 작은 글씨로 가득 채운다."
+        ],
+        "answer": "핵심 낱말과 내용을 돕는 그림을 넣는다.",
+        "explanation": "필요한 정보가 잘 보이도록 정리해요."
+      },
+      {
+        "type": "short",
+        "prompt": "“우리 학교 도서관 이용법” 발표에 어울리는 그림을 하나 제안해요.",
+        "answer": "책을 빌리는 순서를 보여 주는 그림이에요.",
+        "explanation": "발표 주제를 이해하는 데 도움이 되어야 해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "좋아하는 장소를 소개하는 발표 자료 세 장의 제목과 넣을 그림을 계획해요.",
+        "answer": "1장 공원의 위치·간단한 위치 그림 / 2장 놀이 시설·미끄럼틀 / 3장 이용 약속·정리하는 모습.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "주제에 맞는 글과 그림이 있고 발표 순서가 자연스러운지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국01-05",
+      "4국06-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국01-05",
+        "text": "목적과 주제에 알맞게 자료를 정리하여 자신감 있게 발표한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 26
+      },
+      {
+        "code": "4국06-02",
+        "text": "매체를 활용하여 간단한 발표 자료를 만든다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 34
+      }
+    ]
+  },
+  {
+    "id": "korean-17",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "정확한 정보와 글쓰기",
+    "title": "믿을 만한 출처 확인하기",
+    "goal": "누가 언제 만든 자료인지 확인하며 읽을 수 있어요.",
+    "paragraphs": [
+      "출처는 정보가 어디에서 왔는지 알려 줘요. 자료를 읽을 때 만든 사람이나 기관, 만든 날짜, 내용을 뒷받침하는 근거가 있는지 확인해요.",
+      "인터넷에서 먼저 보였다고 반드시 정확하지는 않아요. 다른 믿을 만한 자료와 비교하고, 오래된 정보라면 지금도 맞는지 살펴보세요."
+    ],
+    "example": "도서관 휴관일을 찾을 때는 오래된 개인 글보다 해당 도서관의 최신 공지를 먼저 확인해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "오늘 도서관 운영 시간을 확인하기에 가장 알맞은 자료는?",
+        "options": [
+          "작성자가 없는 오래된 글",
+          "해당 도서관의 최신 공식 안내",
+          "친구가 짐작한 말"
+        ],
+        "answer": "해당 도서관의 최신 공식 안내",
+        "explanation": "직접 운영하는 기관이 낸 최신 정보를 확인해요."
+      },
+      {
+        "type": "short",
+        "prompt": "자료의 믿을 만함을 판단할 때 확인할 정보를 두 가지 쓰세요.",
+        "answer": "만든 사람이나 기관, 만든 날짜를 확인해요.",
+        "explanation": "근거와 다른 자료와의 일치 여부도 살필 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "같은 주제를 다룬 두 자료의 제목·출처·날짜를 비교해 어느 자료를 쓸지 설명해요.",
+        "answer": "최근에 갱신된 기상청 자료를 골랐어요. 날씨를 전문적으로 다루는 기관이고 날짜도 최신이기 때문이에요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "실제 출처와 날짜를 확인하고 선택한 까닭을 설명했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국02-05"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국02-05",
+        "text": "글이나 자료의 출처가 믿을 만한지 판단한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "korean-18",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "정확한 정보와 글쓰기",
+    "title": "순서와 방법을 정확하게 쓰기",
+    "goal": "일의 순서와 결과가 드러나도록 설명할 수 있어요.",
+    "paragraphs": [
+      "방법을 설명하는 글은 읽는 사람이 그대로 따라 할 수 있어야 해요. 필요한 준비물과 행동을 빠뜨리지 않고 정확한 낱말로 써요.",
+      "“먼저, 다음으로, 마지막으로”와 같은 말을 쓰면 순서가 잘 드러나요. 관찰이나 활동을 보고할 때는 어떻게 했는지와 어떤 결과가 나왔는지를 구분해 적어요."
+    ],
+    "example": "책갈피 만들기: 먼저 종이를 길게 접어요. 다음으로 끝을 꾸며요. 마지막으로 책 사이에 끼워 확인해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "순서가 잘 드러나는 표현은?",
+        "options": [
+          "어쩌면, 아마도",
+          "먼저, 다음으로, 마지막으로",
+          "그냥, 아무거나"
+        ],
+        "answer": "먼저, 다음으로, 마지막으로",
+        "explanation": "행동이 이어지는 순서를 알려 줘요."
+      },
+      {
+        "type": "short",
+        "prompt": "“종이를 잘라요.”를 더 정확하게 쓰려면 어떤 정보를 넣으면 좋을까요?",
+        "answer": "어떤 모양이나 크기로 자르는지 넣으면 좋아요.",
+        "explanation": "읽는 사람이 같은 방법으로 따라 할 수 있게 자세히 써요."
+      },
+      {
+        "type": "activity",
+        "prompt": "손 씻는 방법을 순서가 드러나도록 세 문장 이상으로 써요.",
+        "answer": "먼저 손에 물을 묻히고 비누를 칠해요. 다음으로 손바닥과 손등, 손가락 사이를 문질러요. 마지막으로 흐르는 물에 헹구고 깨끗하게 말려요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "필요한 행동이 빠지지 않고 실제 순서대로 쓰였는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국03-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국03-02",
+        "text": "절차와 결과가 드러나게 정확한 표현으로 보고하는 글을 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "korean-19",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "존중하는 대화",
+    "title": "높임 표현 바르게 쓰기",
+    "goal": "상대와 상황에 맞는 높임 표현을 쓸 수 있어요.",
+    "paragraphs": [
+      "높임 표현은 듣는 사람이나 문장에서 말하는 사람을 높여 예의를 나타내는 말이에요. 상대와의 관계, 대화하는 상황을 생각하며 써요.",
+      "“먹다”를 “드시다”로, “있다”를 “계시다”로 바꾸기도 해요. 높임말을 많이 넣기만 하기보다 누구를 높이는지 생각하고 문장 전체가 어울리게 표현해요."
+    ],
+    "example": "친구에게 “물 마셔.”, 선생님께 “물 드세요.”처럼 상대를 생각하며 말해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "할아버지께 알맞게 말한 것은?",
+        "options": [
+          "할아버지, 밥 먹어.",
+          "할아버지, 진지 드세요.",
+          "할아버지, 밥 먹는다."
+        ],
+        "answer": "할아버지, 진지 드세요.",
+        "explanation": "높임 대상과 상황에 어울리는 표현이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“선생님이 교실에 있다.”를 높임 표현으로 바꾸어 써요.",
+        "answer": "선생님께서 교실에 계세요.",
+        "explanation": "선생님을 높여 “계시다”를 쓸 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "보호자나 어른에게 부탁하는 말을 높임 표현을 넣어 써요.",
+        "answer": "이 책을 함께 읽어 주실 수 있나요?",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "상대에게 어울리는 말끝과 정중한 부탁 표현을 썼는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국04-04"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국04-04",
+        "text": "글과 담화에 쓰인 높임 표현과 지시⋅접속 표현을 이해하고 상황에 맞게 표현한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "id": "korean-20",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "존중하는 대화",
+    "title": "상대의 입장에서 대화하기",
+    "goal": "상대의 마음을 이해하고 예의를 지키며 대화할 수 있어요.",
+    "paragraphs": [
+      "대화는 내 말만 하는 시간이 아니에요. 상대가 끝까지 말하도록 기다리고 표정과 말에서 어떤 마음인지 생각해요. 잘 이해되지 않으면 부드럽게 다시 물어봐요.",
+      "생각이 다를 때도 상대를 비난하지 않고 내 생각과 까닭을 말할 수 있어요. “너는 틀렸어.”보다 “나는 이런 까닭으로 다르게 생각해.”라고 말해 보세요."
+    ],
+    "example": "“네가 속상했구나. 나는 장난이라고 생각했는데 미안해.”처럼 마음을 확인하고 말해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "친구와 생각이 다를 때 바람직한 말은?",
+        "options": [
+          "네 말은 들을 필요가 없어.",
+          "나는 이런 까닭으로 다르게 생각해.",
+          "넌 늘 틀려."
+        ],
+        "answer": "나는 이런 까닭으로 다르게 생각해.",
+        "explanation": "상대를 존중하면서도 자신의 생각을 전할 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "친구의 말을 잘 못 알아들었을 때 할 수 있는 말을 쓰세요.",
+        "answer": "미안하지만 마지막 부분을 한 번 더 말해 줄래?",
+        "explanation": "모르는 내용을 정중하게 확인하면 오해를 줄일 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "약속 시간에 늦은 친구에게 마음을 상하게 하지 않고 이야기하는 말을 써요.",
+        "answer": "기다리면서 걱정됐어. 다음에는 늦게 되면 미리 알려 줄래?",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "비난 대신 자신의 마음과 바라는 행동을 구체적으로 말했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국01-04",
+      "4국04-05"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국01-04",
+        "text": "상황과 상대의 입장을 이해하고 예의를 지키며 대화한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 26
+      },
+      {
+        "code": "4국04-05",
+        "text": "언어가 의사소통과 관계 형성의 수단임을 이해하고 국어를 소중히 여기는 태도를 지닌다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "id": "korean-21",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "낱말과 사전",
+    "title": "기준에 따라 낱말 나누기",
+    "goal": "뜻과 쓰임을 살펴 낱말을 분류할 수 있어요.",
+    "paragraphs": [
+      "낱말은 같은 기준으로 묶어 볼 수 있어요. “사과, 배, 포도”는 과일 이름이라는 공통점이 있어요. “걷다, 달리다”는 움직임을 나타내는 말이에요.",
+      "뜻이 비슷한 말과 반대되는 말도 찾아보세요. 분류할 때는 중간에 기준을 바꾸지 말고 왜 같은 묶음인지 설명하는 것이 중요해요."
+    ],
+    "example": "“크다·작다”는 반대되는 뜻, “기쁘다·즐겁다”는 비슷한 뜻으로 살펴볼 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "“사자, 토끼, 고양이”를 한데 묶은 기준은?",
+        "options": [
+          "동물 이름",
+          "색 이름",
+          "움직임을 나타내는 말"
+        ],
+        "answer": "동물 이름",
+        "explanation": "세 낱말 모두 동물의 이름이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“밝다”와 반대되는 뜻의 낱말을 써요.",
+        "answer": "어둡다",
+        "explanation": "뜻의 반대 관계를 생각해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "책상, 뛰다, 의자, 웃다를 두 묶음으로 나누고 기준을 말해요.",
+        "answer": "책상·의자: 물건의 이름 / 뛰다·웃다: 움직임을 나타내는 말.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "한 묶음에 같은 기준을 적용하고 그 기준을 설명했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국04-01",
+      "4국04-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국04-01",
+        "text": "단어와 단어 간의 의미 관계를 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 32
+      },
+      {
+        "code": "4국04-02",
+        "text": "단어를 분류하고 국어사전을 활용하여 능동적인 국어 활동을 한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "id": "korean-22",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "낱말과 사전",
+    "title": "국어사전으로 뜻 찾기",
+    "goal": "사전의 차례와 기본형을 이용해 낱말을 찾을 수 있어요.",
+    "paragraphs": [
+      "국어사전에는 낱말의 뜻, 발음, 쓰는 예 등이 담겨 있어요. 종이 사전은 낱말을 자모 순서로 배열하고, 전자 사전은 검색창에 낱말을 입력해 찾아요.",
+      "“달렸어요”처럼 모양이 바뀐 말은 “달리다”처럼 기본형으로 찾아요. 뜻이 여러 개라면 앞뒤 문장에 어울리는 뜻을 골라야 해요."
+    ],
+    "example": "“배를 타고 섬에 갔다.”의 “배”는 먹는 과일이나 몸의 부분이 아니라 물 위로 다니는 탈것이에요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "“먹었어요”를 사전에서 찾을 때 알맞은 기본형은?",
+        "options": [
+          "먹었",
+          "먹다",
+          "먹어요다"
+        ],
+        "answer": "먹다",
+        "explanation": "모양이 바뀐 말은 기본형으로 찾을 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "“눈이 내려 길이 하얘졌다.”에서 “눈”은 무엇을 뜻하나요?",
+        "answer": "하늘에서 내리는 하얀 얼음 결정이에요.",
+        "explanation": "앞뒤 내용에 맞는 뜻을 선택해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "뜻이 궁금한 낱말 하나를 사전에서 찾아 뜻과 예문을 적어 보세요.",
+        "answer": "“관찰”: 사물이나 현상을 주의 깊게 살펴봄. 예문: 나는 새싹의 모습을 관찰했다.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "사전에서 실제로 찾고 문장에 어울리는 뜻과 예문을 정리했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국04-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국04-02",
+        "text": "단어를 분류하고 국어사전을 활용하여 능동적인 국어 활동을 한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "id": "korean-23",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "감상과 의견",
+    "title": "작품의 재미를 함께 즐기기",
+    "goal": "좋아하는 작품을 장면과 느낌을 들어 소개할 수 있어요.",
+    "paragraphs": [
+      "좋아하는 작품을 소개할 때는 제목과 어떤 이야기인지 간단히 알려 줘요. 그다음 마음에 든 장면과 이유를 말하면 듣는 사람도 읽고 싶어져요.",
+      "친구가 소개한 작품을 들으며 나와 비슷하거나 다른 느낌을 찾아보세요. 줄거리 전체와 결말을 모두 말하기보다 작품을 즐길 수 있는 단서를 골라요."
+    ],
+    "example": "“제가 소개할 작품은 작은 거북이의 여행 이야기예요. 느려도 포기하지 않는 모습이 멋져서 추천해요.”",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "작품 소개에 꼭 도움이 되는 내용은?",
+        "options": [
+          "제목과 추천하는 까닭",
+          "책장의 먼지 양",
+          "내가 가진 연필 수"
+        ],
+        "answer": "제목과 추천하는 까닭",
+        "explanation": "듣는 사람이 어떤 작품인지, 왜 읽으면 좋을지 알게 돼요."
+      },
+      {
+        "type": "short",
+        "prompt": "작품이 “좋았다”는 말에 무엇을 더하면 좋을까요?",
+        "answer": "마음에 든 장면과 그렇게 느낀 까닭을 더해요.",
+        "explanation": "구체적인 근거가 있으면 감상이 잘 전해져요."
+      },
+      {
+        "type": "activity",
+        "prompt": "친구에게 권하고 싶은 작품을 세 문장으로 소개해요.",
+        "answer": "제목은 “씨앗의 여행”이에요. 작은 씨앗이 어려움을 이겨내는 이야기예요. 끝까지 노력하는 모습이 감동적이라 추천해요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "실제 읽은 작품의 제목·간단한 내용·추천 이유를 담았는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국05-03",
+      "4국05-05"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국05-03",
+        "text": "작품을 듣거나 읽고 마음에 드는 작품을 소개한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 33
+      },
+      {
+        "code": "4국05-05",
+        "text": "재미나 감동을 느끼며 작품을 즐겨 감상하는 태도를 지닌다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "korean-24",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "감상과 의견",
+    "title": "의견과 까닭을 짝지어 쓰기",
+    "goal": "의견과 관련 있는 까닭을 들어 글을 쓸 수 있어요.",
+    "paragraphs": [
+      "의견은 어떤 일에 대한 내 생각이에요. 의견을 글로 쓸 때는 왜 그렇게 생각하는지 까닭을 밝혀야 읽는 사람이 이해하기 쉬워요.",
+      "까닭은 의견과 관련이 있어야 해요. 다른 사람의 의견도 읽고 비교하면서 내 까닭이 충분한지 살펴보세요. 서로 다른 의견을 존중하는 태도도 중요해요."
+    ],
+    "example": "의견: 쉬는 시간에 교실 환기를 하자. 까닭: 여러 사람이 머문 교실의 공기를 바꿀 수 있기 때문이다.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "“도서관에서는 조용히 하자.”와 관련 있는 까닭은?",
+        "options": [
+          "다른 사람이 책 읽는 데 방해가 되지 않기 때문이다.",
+          "내 신발이 파랗기 때문이다.",
+          "내일은 토요일이기 때문이다."
+        ],
+        "answer": "다른 사람이 책 읽는 데 방해가 되지 않기 때문이다.",
+        "explanation": "의견을 뒷받침하는 관련된 까닭이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“학교에서 종이를 아껴 쓰자.”의 까닭을 하나 써요.",
+        "answer": "필요한 만큼 쓰면 자원을 낭비하지 않을 수 있기 때문이에요.",
+        "explanation": "의견이 필요한 이유를 구체적으로 설명해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "학급에서 바꾸면 좋을 일을 정해 의견 한 문장과 까닭 두 문장을 써요.",
+        "answer": "책꽂이를 종류별로 정리하자. 원하는 책을 빨리 찾을 수 있다. 읽은 책을 제자리에 놓기도 쉽다.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "의견이 분명하고 두 까닭이 의견을 뒷받침하는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국03-03",
+      "4국01-06"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국03-03",
+        "text": "대상에 대한 자신의 의견과 그렇게 생각한 이유가 드러나게 글을 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 30
+      },
+      {
+        "code": "4국01-06",
+        "text": "주제에 적절한 의견과 이유를 제시하고 서로의 생각을 교환하며 토의한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "korean-25",
+    "subject": "국어",
+    "semester": "year",
+    "unit": "책과 만나는 시간",
+    "title": "나만의 독서 계획",
+    "goal": "관심에 맞는 책을 골라 꾸준히 읽을 수 있어요.",
+    "paragraphs": [
+      "읽기 습관은 나에게 맞는 책과 작은 계획에서 시작해요. 표지와 차례, 짧은 부분을 읽어 보고 관심이 가는 책인지, 혼자 읽을 수 있는지 살펴요.",
+      "하루에 읽을 분량이나 시간을 무리하지 않게 정해요. 읽다가 궁금한 점을 적고 다음 내용을 예상해 보면 능동적으로 책을 읽을 수 있어요."
+    ],
+    "example": "계획: 저녁 식사 뒤 10분씩 읽고, 마음에 남은 문장 대신 그날의 느낌을 한 줄로 적기.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "지키기 쉬운 독서 계획은?",
+        "options": [
+          "매일 나에게 맞는 시간과 분량을 정한다.",
+          "하루에 어려운 책 스무 권을 무조건 읽는다.",
+          "읽지 않고 제목만 적는다."
+        ],
+        "answer": "매일 나에게 맞는 시간과 분량을 정한다.",
+        "explanation": "작고 꾸준한 계획이 읽기 습관을 만드는 데 도움이 돼요."
+      },
+      {
+        "type": "short",
+        "prompt": "책을 고르기 전에 표지와 차례를 살펴보는 까닭은 무엇인가요?",
+        "answer": "어떤 내용인지, 내 관심과 수준에 맞는지 알아보기 위해서예요.",
+        "explanation": "자신에게 맞는 책을 고르면 즐겁게 읽기 쉬워요."
+      },
+      {
+        "type": "activity",
+        "prompt": "읽고 싶은 책 한 권, 읽을 시간, 읽으며 궁금한 점을 적는 방법을 계획해요.",
+        "answer": "곤충 책을 고르고 자기 전 10분 읽을 거예요. 모르는 곤충 이름은 쪽지에 적을 거예요.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "자신에게 맞는 책과 실천 가능한 시간, 읽기 점검 방법을 정했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4국02-03",
+      "4국02-06"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국02-03",
+        "text": "질문을 활용하여 글을 예측하며 읽고 자신의 읽기 과정을 점검한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      },
+      {
+        "code": "4국02-06",
+        "text": "바람직한 읽기 습관을 형성하고 읽기에 대한 자신감을 기른다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "korean-26",
+    "subject": "국어",
+    "semester": "year",
+    "unit": "안전한 매체 생활",
+    "title": "온라인에서도 다정하게",
+    "goal": "인터넷 자료를 고르고 예의를 지켜 공유할 수 있어요.",
+    "paragraphs": [
+      "온라인 글도 상대가 읽는 말이에요. 얼굴이 보이지 않아도 비난하거나 놀리지 않고, 글을 보내기 전에 오해할 표현이 없는지 다시 읽어요.",
+      "발표에 쓸 자료는 목적에 맞는지 확인하고 어디에서 가져왔는지 밝혀요. 다른 사람의 사진이나 개인정보는 허락 없이 올리지 않아요. 낯선 사람의 요청은 믿을 만한 어른과 함께 확인해요."
+    ],
+    "example": "사진을 올리기 전 함께 찍힌 친구에게 허락을 구하고, 인터넷 그림은 이용 조건과 출처를 확인해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "인터넷에 친구 사진을 올리기 전에 해야 할 일은?",
+        "options": [
+          "친구에게 허락을 구한다.",
+          "몰래 올리고 나중에 말한다.",
+          "주소와 전화번호도 적는다."
+        ],
+        "answer": "친구에게 허락을 구한다.",
+        "explanation": "다른 사람의 사진과 개인정보를 존중해야 해요."
+      },
+      {
+        "type": "short",
+        "prompt": "“이거도 모르냐?”라는 댓글을 배려하는 말로 고쳐 보세요.",
+        "answer": "이 부분이 어려웠구나. 내가 아는 방법을 설명해 줄까?",
+        "explanation": "상대를 낮추지 않고 도움이 되는 말을 해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "동물 발표 자료를 찾을 때의 검색어, 고를 자료, 표시할 출처를 계획해요.",
+        "answer": "검색어: 개구리 한살이 / 자료: 박물관의 어린이 설명 / 출처: 기관 이름과 자료 주소.",
+        "explanation": "예시와 표현이 달라도 확인 기준을 만족하면 좋은 답입니다.",
+        "criteria": "발표 목적에 맞게 자료를 고르고 출처·이용 조건을 확인하는 계획인지 살펴요."
+      }
+    ],
+    "standardCodes": [
+      "4국06-01",
+      "4국06-03"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4국06-01",
+        "text": "인터넷에서 학습에 필요한 다양한 자료를 탐색하고 목적에 맞게 자료를 선택한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 34
+      },
+      {
+        "code": "4국06-03",
+        "text": "매체 소통 윤리를 고려하여 매체 자료를 활용하고 공유한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "page": 34
+      }
+    ]
+  },
+  {
+    "id": "social-01",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "같은 장소, 다른 느낌",
+    "goal": "장소에서 겪은 일과 느낌을 나누며 서로 존중할 수 있어요.",
+    "paragraphs": [
+      "장소는 단순한 위치만을 뜻하지 않아요. 내가 어떤 일을 겪었는지에 따라 특별한 의미와 느낌을 가진 곳이 되기도 해요. 같은 놀이터도 누구에게는 즐거운 곳, 누구에게는 조금 무서운 곳일 수 있어요.",
+      "친구의 느낌이 내 느낌과 다르면 왜 그렇게 생각하는지 들어 보세요. 장소의 이름, 경험한 일, 느낌을 함께 이야기하면 서로를 더 잘 이해할 수 있어요."
+    ],
+    "example": "나는 공원에서 자전거를 배워 뿌듯해요. 친구는 그곳에서 넘어졌던 기억이 있어 조심스러워해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "같은 공원에 대한 느낌이 다를 때 알맞은 태도는?",
+        "options": [
+          "내 느낌만 옳다고 한다.",
+          "친구의 경험과 까닭을 듣는다.",
+          "친구의 느낌을 놀린다."
+        ],
+        "answer": "친구의 경험과 까닭을 듣는다.",
+        "explanation": "장소에 대한 경험과 의미는 사람마다 달라요."
+      },
+      {
+        "type": "short",
+        "prompt": "예시에서 두 사람이 공원을 다르게 느끼는 까닭은 무엇인가요?",
+        "answer": "공원에서 겪은 일이 서로 다르기 때문이에요.",
+        "explanation": "장소의 느낌에는 개인의 경험이 영향을 줘요."
+      },
+      {
+        "type": "activity",
+        "prompt": "기억에 남는 장소 하나를 골라 경험한 일과 느낌을 글이나 그림으로 표현해요.",
+        "answer": "도서관에서 처음 혼자 책을 빌려서 자신감이 생겼어요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "장소·경험·느낌을 연결하고 다른 사람의 느낌도 존중했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사01-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사01-01",
+        "text": "주변 여러 장소에서의 경험과 느낌을 다양한 방식으로 표현하고, 장소감을 나누며 서로 존중하는 태도를 지닌다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": "social-02",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "머릿속 우리 동네 그리기",
+    "goal": "중요한 장소를 떠올려 심상지도로 표현할 수 있어요.",
+    "paragraphs": [
+      "심상지도는 머릿속에 떠오르는 장소와 길을 그림이나 기호로 표현한 지도예요. 정확한 거리보다 나에게 익숙하고 중요한 장소가 드러나는 것이 특징이에요.",
+      "집이나 학교처럼 기준이 되는 곳을 먼저 그리고 자주 가는 길과 장소를 더해 보세요. 친구와 비교하면 기억하는 장소나 크게 그린 곳이 다를 수 있어요."
+    ],
+    "example": "학교를 가운데 그리고, 도서관과 놀이터를 자주 걷는 길로 연결한 뒤 좋아하는 장소에 별표를 해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "심상지도에 대한 설명으로 알맞은 것은?",
+        "options": [
+          "실제 거리가 모두 정확해야 한다.",
+          "머릿속에 떠오르는 장소를 표현한다.",
+          "모든 사람이 똑같이 그려야 한다."
+        ],
+        "answer": "머릿속에 떠오르는 장소를 표현한다.",
+        "explanation": "경험과 관심에 따라 다르게 그릴 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "친구가 내가 그리지 않은 장소를 크게 그렸다면 무엇을 물어보면 좋을까요?",
+        "answer": "그 장소에서 어떤 경험을 했는지 물어봐요.",
+        "explanation": "지도를 통해 친구가 그 장소에 부여한 의미를 이해할 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "학교 주변의 기억나는 장소 세 곳을 그리고 한 곳을 크게 그린 까닭을 말해요.",
+        "answer": "학교, 공원, 문구점을 그리고 자주 책을 사는 문구점을 크게 그렸어요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "기억 속 장소와 길을 표현하고 강조한 장소의 까닭을 설명했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사01-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사01-01",
+        "text": "주변 여러 장소에서의 경험과 느낌을 다양한 방식으로 표현하고, 장소감을 나누며 서로 존중하는 태도를 지닌다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": "social-03",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "생활을 돕는 장소 찾기",
+    "goal": "주변 시설이 우리 생활에 주는 도움을 설명할 수 있어요.",
+    "paragraphs": [
+      "우리 주변에는 생활에 도움을 주는 여러 장소가 있어요. 도서관은 책과 배움, 병원은 건강, 소방서는 화재와 구조처럼 서로 다른 일을 맡아요.",
+      "이름만 외우기보다 어떤 상황에서 이용하는지 생각해요. 어린이와 어르신, 장애가 있는 사람 등 다양한 사람이 편리하게 이용할 수 있는지도 살펴보세요."
+    ],
+    "example": "읽고 싶은 책을 찾으면 도서관에, 몸이 아프면 보호자와 의료기관에 갈 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "책을 빌리고 독서 활동에 참여할 수 있는 곳은?",
+        "options": [
+          "도서관",
+          "소방서",
+          "기차역"
+        ],
+        "answer": "도서관",
+        "explanation": "도서관은 책과 정보를 이용하도록 도와줘요."
+      },
+      {
+        "type": "short",
+        "prompt": "경사로가 있는 건물 입구가 누구에게 도움이 될까요?",
+        "answer": "휠체어나 유아차를 이용하는 사람 등에게 도움이 돼요.",
+        "explanation": "시설의 도움을 다양한 사람의 입장에서 살펴봐요."
+      },
+      {
+        "type": "activity",
+        "prompt": "동네 시설 두 곳을 조사해 이름과 하는 일을 정리해요.",
+        "answer": "보건소: 건강 상담과 예방접종 등을 도와요. 도서관: 책을 빌려 주고 읽을 공간을 제공해요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "실제 시설의 안내를 확인하고 역할을 구체적으로 적었는지 살펴요."
+      }
+    ],
+    "standardCodes": [
+      "4사01-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사01-02",
+        "text": "주변의 여러 장소를 살펴보고, 우리가 사는 곳을 더 살기 좋은 곳으로 만드는 방안을 탐색한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": "social-04",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "더 살기 좋은 곳 제안하기",
+    "goal": "주변의 불편을 살펴 실천 가능한 개선안을 제안할 수 있어요.",
+    "paragraphs": [
+      "살기 좋은 곳은 다양한 사람이 안전하고 편리하게 생활할 수 있는 곳이에요. 우리 동네의 좋은 점과 불편한 점을 함께 살펴보면 바꿀 일을 찾을 수 있어요.",
+      "불편이 있다는 느낌에서 그치지 말고 어디에서 누가 어떤 어려움을 겪는지 조사해요. 어린이가 할 수 있는 일과 어른이나 기관에 제안할 일을 구분해요."
+    ],
+    "example": "횡단보도 앞에 물건이 쌓여 길이 좁다면, 위험한 곳에 직접 들어가지 않고 보호자나 담당 기관에 알려요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "동네 개선을 제안하기 전에 할 일은?",
+        "options": [
+          "모든 시설을 없앤다.",
+          "어떤 불편이 누구에게 있는지 살펴본다.",
+          "친구 의견을 무시한다."
+        ],
+        "answer": "어떤 불편이 누구에게 있는지 살펴본다.",
+        "explanation": "실제 문제를 알아야 적절한 해결 방법을 생각할 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "공원의 쓰레기를 줄이기 위해 어린이가 할 수 있는 일 하나를 쓰세요.",
+        "answer": "내가 만든 쓰레기를 정해진 곳에 버리고 친구에게도 함께 지키자고 말해요.",
+        "explanation": "안전하고 실천 가능한 행동을 찾아요."
+      },
+      {
+        "type": "activity",
+        "prompt": "동네의 좋은 점 하나, 불편한 점 하나, 개선 방법 하나를 적어요.",
+        "answer": "좋은 점: 가까운 도서관 / 불편: 안내판 글씨가 작음 / 제안: 큰 글씨 안내판 설치.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "불편한 상황과 제안이 연결되고 다양한 이용자를 생각했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사01-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사01-02",
+        "text": "주변의 여러 장소를 살펴보고, 우리가 사는 곳을 더 살기 좋은 곳으로 만드는 방안을 탐색한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": "social-05",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "과거·현재·미래 구분하기",
+    "goal": "시간을 나타내는 말을 사용해 일을 순서대로 설명할 수 있어요.",
+    "paragraphs": [
+      "과거는 이미 지나간 때, 현재는 지금, 미래는 앞으로 올 때를 말해요. 어제와 오늘, 내일도 시간을 나타내는 말이에요.",
+      "지금의 나도 지난 일들과 이어져 있어요. 사진이나 기록의 날짜를 살피면 어떤 일이 먼저였는지 알 수 있어요. 시간의 흐름을 생각하며 생활 속 일을 정리해 보세요."
+    ],
+    "example": "지난해 입학 사진은 과거, 지금 공부하는 시간은 현재, 다음 주 견학 계획은 미래에 관한 자료예요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "미래에 관한 말은?",
+        "options": [
+          "어제 운동했다.",
+          "지금 책을 읽는다.",
+          "다음 주에 견학한다."
+        ],
+        "answer": "다음 주에 견학한다.",
+        "explanation": "아직 오지 않은 때의 일을 나타내요."
+      },
+      {
+        "type": "short",
+        "prompt": "어제, 오늘, 내일을 시간의 흐름대로 써요.",
+        "answer": "어제 → 오늘 → 내일",
+        "explanation": "지나간 때부터 앞으로 올 때로 이어져요."
+      },
+      {
+        "type": "activity",
+        "prompt": "자신의 생활에서 과거·현재·미래의 일을 하나씩 골라 말해요.",
+        "answer": "과거: 작년에 입학했다. 현재: 3학년으로 공부한다. 미래: 내년에 4학년이 된다.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "시간을 나타내는 말과 일이 서로 어울리는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사02-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사02-01",
+        "text": "일상 속에서 시간의 흐름을 경험할 수 있는 사례를 살펴보고, 이를 바탕으로 역사의 시간 개념을 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "social-06",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "나의 이야기 연표 만들기",
+    "goal": "중요한 일을 시간 순서대로 배열할 수 있어요.",
+    "paragraphs": [
+      "연표는 일어난 일을 시간의 흐름에 따라 정리한 것이에요. 태어난 때부터 지금까지의 중요한 일을 날짜와 함께 나열하면 내 삶의 변화를 한눈에 볼 수 있어요.",
+      "기억만으로 날짜를 정하기 어렵다면 사진이나 기록을 살펴보고 보호자에게 물어봐요. 다른 사람의 이야기를 공개할 때는 허락을 구하고 개인정보는 필요한 만큼만 사용해요."
+    ],
+    "example": "예시 연표: 2018년 태어남 → 2025년 초등학교 입학 → 2026년 첫 자전거 여행. 실제 내 기록은 직접 확인해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "연표를 만드는 기준은?",
+        "options": [
+          "사건이 일어난 시간 순서",
+          "글자 수가 긴 순서",
+          "내가 좋아하는 색 순서"
+        ],
+        "answer": "사건이 일어난 시간 순서",
+        "explanation": "일의 앞뒤와 변화를 알기 위해 시간대로 배열해요."
+      },
+      {
+        "type": "short",
+        "prompt": "2023년 이사, 2021년 출생, 2025년 여행을 앞선 일부터 정리해요.",
+        "answer": "2021년 출생 → 2023년 이사 → 2025년 여행",
+        "explanation": "연도의 크기와 일의 선후를 살펴봐요."
+      },
+      {
+        "type": "activity",
+        "prompt": "날짜를 확인할 수 있는 나의 중요한 일 세 가지로 연표를 만들어요.",
+        "answer": "입학한 해, 이사한 해, 새로운 취미를 시작한 해를 확인해 순서대로 적었어요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "실제 기록이나 증언으로 시간을 확인하고 시간 순서에 맞게 배열했는지 살펴요."
+      }
+    ],
+    "standardCodes": [
+      "4사02-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사02-01",
+        "text": "일상 속에서 시간의 흐름을 경험할 수 있는 사례를 살펴보고, 이를 바탕으로 역사의 시간 개념을 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "social-07",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "오래된 물건이 들려주는 이야기",
+    "goal": "과거 자료를 근거로 옛 생활을 짐작할 수 있어요.",
+    "paragraphs": [
+      "오래된 사진, 일기, 편지, 생활 도구는 과거를 알려 주는 자료예요. 자료의 모양과 쓰임, 만든 때를 살피면 당시 사람들이 어떻게 살았는지 짐작할 수 있어요.",
+      "자료 하나만 보고 모든 사람이 똑같이 살았다고 단정하지 않아요. 다른 자료와 비교하거나 사용했던 사람에게 물어보면 더 자세히 알 수 있어요."
+    ],
+    "example": "오래된 학급 사진에서 책상과 교복을 살펴보면 당시 교실의 모습을 알아볼 단서를 얻을 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "과거의 모습을 알아볼 수 있는 자료는?",
+        "options": [
+          "옛날 학교 사진",
+          "아무 근거 없는 상상만",
+          "아직 쓰지 않은 미래 일기"
+        ],
+        "answer": "옛날 학교 사진",
+        "explanation": "당시의 모습을 담은 사진은 과거를 알려 주는 증거가 돼요."
+      },
+      {
+        "type": "short",
+        "prompt": "오래된 물건을 살펴볼 때 할 질문을 하나 써요.",
+        "answer": "언제 누가 어떤 일에 사용했나요?",
+        "explanation": "시간·사용자·쓰임을 알면 자료를 이해하기 쉬워요."
+      },
+      {
+        "type": "activity",
+        "prompt": "집이나 박물관에서 오래된 물건 하나를 정해 관찰한 점과 짐작한 점을 구분해 써요.",
+        "answer": "관찰: 손으로 돌리는 손잡이가 있다. 짐작: 전기 대신 손의 힘으로 움직였을 수 있다.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "눈으로 확인한 사실과 추측을 구분하고 추측의 근거를 밝혔는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사02-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사02-02",
+        "text": "오래된 물건이나 자료들을 주변에서 찾아보고, 이를 통해 과거의 모습을 살펴볼 수 있음을 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "social-08",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "옛 사진과 오늘 사진 비교하기",
+    "goal": "지역의 달라진 모습과 이어지는 모습을 자료로 설명할 수 있어요.",
+    "paragraphs": [
+      "같은 장소의 옛 사진과 오늘 사진을 비교하면 지역의 변화를 알 수 있어요. 길, 건물, 사람들이 하는 일처럼 비교할 기준을 정해 살펴봐요.",
+      "새로 생긴 것만 찾지 말고 그대로 남은 것도 찾아요. 달라졌다고 언제나 모든 점이 좋아진 것은 아니므로 사람들의 생활에 어떤 변화가 생겼는지 함께 생각해요."
+    ],
+    "example": "예전 사진에는 논과 좁은 길이 있고 오늘 사진에는 아파트와 넓은 길이 있어요. 가운데 오래된 나무는 그대로 남아 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "옛 사진과 오늘 사진을 비교하는 좋은 방법은?",
+        "options": [
+          "같은 장소인지와 촬영 시기를 확인한다.",
+          "사진의 색만 보고 전부 판단한다.",
+          "남아 있는 것은 보지 않는다."
+        ],
+        "answer": "같은 장소인지와 촬영 시기를 확인한다.",
+        "explanation": "장소와 시기를 알아야 변화를 제대로 비교할 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "예시에서 달라지지 않고 남아 있는 것은 무엇인가요?",
+        "answer": "가운데 오래된 나무예요.",
+        "explanation": "변화와 함께 이어지는 모습도 찾아요."
+      },
+      {
+        "type": "activity",
+        "prompt": "같은 장소의 옛·현재 자료를 찾아 달라진 점 두 가지와 남은 점 한 가지를 정리해요.",
+        "answer": "길이 넓어지고 건물이 늘었지만 오래된 시장은 남아 있어요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "실제 자료의 시기와 장소를 확인하고 변화와 지속을 함께 설명했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사02-03"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사02-03",
+        "text": "지역의 변화상을 보여주는 역사 자료를 분석하여 지역 사람들의 달라진 생활 모습을 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "social-09",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "사람들의 나이 구성이 달라져요",
+    "goal": "저출산·고령화에 따른 생활 변화와 배려 방안을 생각할 수 있어요.",
+    "paragraphs": [
+      "태어나는 아이가 줄어드는 현상을 저출산, 전체 인구에서 고령 인구의 비중이 커지는 현상을 고령화라고 해요. 인구의 모습이 달라지면 필요한 시설과 도움도 달라질 수 있어요.",
+      "아이를 돌보는 환경을 만들고, 어르신이 이동하거나 정보를 이용하기 편하게 돕는 등 여러 노력이 필요해요. 나이에 따른 고정관념으로 개인의 능력을 단정하지 않아요."
+    ],
+    "example": "아이를 함께 돌보는 공간, 읽기 쉬운 큰 글씨 안내, 나이와 관계없이 참여할 수 있는 배움터가 도움이 될 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "고령화를 설명한 것은?",
+        "options": [
+          "전체 인구에서 고령 인구의 비중이 커지는 현상",
+          "모든 어린이가 사라지는 현상",
+          "모든 사람이 같은 나이가 되는 현상"
+        ],
+        "answer": "전체 인구에서 고령 인구의 비중이 커지는 현상",
+        "explanation": "개인의 나이가 드는 것과 사회의 인구 구성 변화는 구분해요."
+      },
+      {
+        "type": "short",
+        "prompt": "어르신이 작은 글씨의 안내판을 읽기 어렵다면 어떤 개선을 제안할 수 있나요?",
+        "answer": "큰 글씨와 알아보기 쉬운 그림을 함께 넣자고 제안해요.",
+        "explanation": "사회 변화에 맞추어 생활의 불편을 줄일 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "어린이와 어르신이 함께 이용하기 좋은 시설의 조건 두 가지를 제안해요.",
+        "answer": "계단 외에 경사로를 마련하고, 쉬어 갈 의자를 놓아요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "서로 다른 이용자의 필요를 생각하고 구체적인 조건을 제안했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사03-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사03-01",
+        "text": "최근 사회 변화의 양상과 특징을 파악하고, 그로 인해 나타난 생활모습의 변화를 탐색한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "id": "social-10",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "디지털 기술과 우리 생활",
+    "goal": "지능정보화가 가져온 편리함과 어려움을 비교할 수 있어요.",
+    "paragraphs": [
+      "지능정보화는 정보통신기술과 인공지능 같은 기술이 생활에 널리 쓰이는 변화예요. 길 찾기, 원격 대화, 자동 주문 등 여러 모습에서 찾아볼 수 있어요.",
+      "편리함과 함께 새로운 어려움도 생겨요. 기기를 쓰기 어려운 사람이 배제되지 않도록 돕고, 개인정보를 지키며, 기기가 알려 준 정보가 맞는지도 살펴야 해요."
+    ],
+    "example": "무인 주문기는 주문을 빠르게 돕기도 하지만 기기 사용이 낯선 사람에게는 직원 안내나 다른 주문 방법이 필요해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "디지털 기기를 이용하기 어려운 사람을 돕는 방법은?",
+        "options": [
+          "직원 안내나 다른 이용 방법도 마련한다.",
+          "못 쓰면 이용하지 말라고 한다.",
+          "안내를 모두 없앤다."
+        ],
+        "answer": "직원 안내나 다른 이용 방법도 마련한다.",
+        "explanation": "기술의 편리함을 다양한 사람이 누릴 수 있어야 해요."
+      },
+      {
+        "type": "short",
+        "prompt": "지도 앱을 이용하면 생활에서 어떤 도움을 받을 수 있나요?",
+        "answer": "목적지까지 가는 길이나 걸리는 시간을 알아볼 수 있어요.",
+        "explanation": "기술로 달라진 구체적인 생활 모습을 찾아요."
+      },
+      {
+        "type": "activity",
+        "prompt": "디지털 기술 하나의 편리한 점과 주의할 점을 각각 적어요.",
+        "answer": "영상 통화는 멀리 있는 사람과 이야기할 수 있어요. 모르는 사람이 보내는 통화나 개인정보 요청은 어른과 확인해요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "편리함과 어려움·주의점을 균형 있게 생각했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사03-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사03-01",
+        "text": "최근 사회 변화의 양상과 특징을 파악하고, 그로 인해 나타난 생활모습의 변화를 탐색한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "id": "social-11",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "다양한 생활 문화 만나기",
+    "goal": "문화의 차이를 알아보고 존중하는 태도를 기를 수 있어요.",
+    "paragraphs": [
+      "문화는 사람들이 함께 살아가며 만들어 온 생활 방식이에요. 음식과 옷, 인사, 가족의 생활 모습 등에서 다양하게 나타나요. 같은 나라 안에서도 사람마다 다를 수 있어요.",
+      "익숙하지 않다는 이유만으로 이상하거나 열등하다고 판단하지 않아요. 왜 그런 방식을 쓰는지 묻고, 서로 배우며 함께 지내는 방법을 찾아보세요."
+    ],
+    "example": "어떤 친구는 손을 흔들고 어떤 친구는 고개를 숙여 인사할 수 있어요. 서로의 인사법을 배우면 이해가 넓어져요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "다른 생활 문화를 만났을 때 알맞은 말은?",
+        "options": [
+          "우리와 다르니 틀렸어.",
+          "그 인사에는 어떤 뜻이 있니?",
+          "모두 나와 똑같이 해야 해."
+        ],
+        "answer": "그 인사에는 어떤 뜻이 있니?",
+        "explanation": "궁금한 점을 존중하는 태도로 물어볼 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "같은 나라 사람들은 모두 같은 음식을 좋아한다고 해도 될까요?",
+        "answer": "아니요. 같은 나라 안에서도 사람마다 취향과 생활 방식이 달라요.",
+        "explanation": "문화의 특징을 개인 모두에게 똑같이 적용하지 않아요."
+      },
+      {
+        "type": "activity",
+        "prompt": "친구의 생활 문화와 나의 생활에서 비슷한 점과 다른 점을 하나씩 찾아 이야기해요.",
+        "answer": "둘 다 기쁜 날 가족과 음식을 나누지만 준비하는 음식은 달라요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "차이를 우열로 판단하지 않고 구체적인 공통점과 차이점을 말했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사03-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사03-02",
+        "text": "우리 사회에 다양한 문화가 확산되면서 나타나는 긍정적 효과와 문제를 분석하고, 나와 다른 사람이나 집단의 문화를 존중하는 태도를 기른다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "id": "social-12",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "편견을 넘어 함께 살기",
+    "goal": "문화에 대한 편견과 차별을 줄이는 방법을 제안할 수 있어요.",
+    "paragraphs": [
+      "편견은 충분히 알아보지 않고 미리 판단하는 생각이에요. 그 생각으로 사람을 배제하거나 불리하게 대하면 차별이 될 수 있어요.",
+      "다양한 문화가 함께하면 새로운 경험을 배우는 좋은 점이 있어요. 서로 말이 잘 통하지 않는 어려움에는 쉬운 안내나 여러 언어 안내를 마련하는 방법을 생각할 수 있어요."
+    ],
+    "example": "한국말이 익숙하지 않은 새 친구에게 “못하니까 같이 못 해.” 대신 그림을 보여 주며 놀이 방법을 설명할 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "새 친구를 배려하는 행동은?",
+        "options": [
+          "말이 서툴다고 모둠에서 뺀다.",
+          "그림과 쉬운 말로 활동 방법을 알려 준다.",
+          "이름을 놀린다."
+        ],
+        "answer": "그림과 쉬운 말로 활동 방법을 알려 준다.",
+        "explanation": "참여의 어려움을 줄여 함께할 수 있도록 도와요."
+      },
+      {
+        "type": "short",
+        "prompt": "다양한 문화가 함께할 때 얻을 수 있는 좋은 점 하나를 쓰세요.",
+        "answer": "새로운 언어나 음식, 생활 방식을 배우며 이해를 넓힐 수 있어요.",
+        "explanation": "차이를 배움과 교류의 기회로 생각해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "“그 나라 사람은 모두 그래.”라는 말을 들었을 때 할 수 있는 말을 써요.",
+        "answer": "같은 나라 사람도 모두 다르니까 그 사람을 직접 알아보자.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "한 집단의 특징을 모두에게 단정하지 않고 존중하는 표현으로 바꾸었는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사03-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사03-02",
+        "text": "우리 사회에 다양한 문화가 확산되면서 나타나는 긍정적 효과와 문제를 분석하고, 나와 다른 사람이나 집단의 문화를 존중하는 태도를 기른다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "id": "social-13",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "풍습에 담긴 생각 찾기",
+    "goal": "옛 풍습에 담긴 뜻을 알아보고 오늘날과 비교할 수 있어요.",
+    "paragraphs": [
+      "풍습은 오랫동안 이어져 사람들이 함께 해 온 생활 방식이에요. 명절에 음식을 나누거나 특별한 날 놀이를 하는 모습에서 찾아볼 수 있어요.",
+      "풍습에는 건강과 풍요를 바라는 마음이나 이웃과 어울리는 뜻이 담기기도 해요. 옛날의 환경과 생각을 살펴보고 오늘날에는 무엇이 이어지고 달라졌는지 비교해요."
+    ],
+    "example": "추석에 수확을 기뻐하며 음식을 나누는 모습은 오늘날에도 여러 방식으로 이어져요. 모든 가정의 모습이 같지는 않아요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "풍습을 살펴보는 좋은 태도는?",
+        "options": [
+          "옛사람의 생활과 그 속의 뜻을 알아본다.",
+          "옛날 것은 모두 쓸모없다고 한다.",
+          "모든 가정이 똑같다고 생각한다."
+        ],
+        "answer": "옛사람의 생활과 그 속의 뜻을 알아본다.",
+        "explanation": "당시의 환경과 마음을 이해하며 비교해요."
+      },
+      {
+        "type": "short",
+        "prompt": "명절에 음식을 이웃과 나누는 풍습에는 어떤 마음이 담길 수 있나요?",
+        "answer": "고마움과 기쁨을 함께 나누고 서로 돕는 마음이 담길 수 있어요.",
+        "explanation": "행동의 모습뿐 아니라 담긴 의미도 살펴요."
+      },
+      {
+        "type": "activity",
+        "prompt": "가족이나 이웃에게 옛 풍습 하나를 묻고 오늘날과의 공통점·차이점을 적어요.",
+        "answer": "예전에는 온 동네가 모여 떡을 만들었고 지금은 가족끼리 만들기도 해요. 함께 나눈다는 뜻은 이어져요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "실제 들은 이야기의 시기와 사람을 구분하고 변화와 이어지는 뜻을 함께 설명해요."
+      }
+    ],
+    "standardCodes": [
+      "4사04-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사04-01",
+        "text": "옛날 풍습에 대해 알아보고, 오늘날과 비교하여 변화상을 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "social-14",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "계절마다 이어지는 풍속",
+    "goal": "세시 풍속의 뜻을 알고 변화한 모습을 설명할 수 있어요.",
+    "paragraphs": [
+      "세시 풍속은 한 해의 특정 시기나 절기에 반복해서 행하는 풍습이에요. 설날, 정월 대보름, 단오, 추석과 관련된 놀이와 음식 등이 있어요.",
+      "옛날에는 농사와 계절의 변화가 생활에 큰 영향을 주었어요. 오늘날에는 생활환경이 달라져 풍속의 모습도 바뀌지만, 함께 어울리고 잘되기를 바라는 뜻이 이어지기도 해요."
+    ],
+    "example": "설날 세배, 정월 대보름 달맞이, 추석 송편 나누기는 서로 다른 때에 행하는 풍속의 예예요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "한 해의 특정 시기마다 반복하는 풍습을 무엇이라고 하나요?",
+        "options": [
+          "세시 풍속",
+          "교통수단",
+          "통신 시설"
+        ],
+        "answer": "세시 풍속",
+        "explanation": "계절이나 명절 같은 시기와 관련된 생활 모습이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "예시에서 설날과 관련된 풍속은 무엇인가요?",
+        "answer": "세배예요.",
+        "explanation": "풍속이 행해지는 시기를 구분해 봐요."
+      },
+      {
+        "type": "activity",
+        "prompt": "관심 있는 세시 풍속 하나를 골라 하는 때·방법·담긴 뜻을 조사해요.",
+        "answer": "정월 대보름에 달을 보며 건강과 풍요를 비는 풍속이 있어요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "믿을 만한 자료나 경험자의 설명을 바탕으로 시기와 의미를 정리했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사04-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사04-01",
+        "text": "옛날 풍습에 대해 알아보고, 오늘날과 비교하여 변화상을 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "social-15",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "교통이 바꾼 하루",
+    "goal": "교통의 변화와 사람들의 생활 변화를 연결할 수 있어요.",
+    "paragraphs": [
+      "교통은 사람이나 물건이 한 곳에서 다른 곳으로 이동하는 일이에요. 교통수단과 길이 달라지면서 이동하는 거리와 시간, 갈 수 있는 장소가 달라졌어요.",
+      "빠르게 이동하면 멀리 있는 곳과 오가기 쉬워져요. 반면 교통량 증가나 환경 문제도 생길 수 있어요. 새 교통이 늘 모두에게 같은 이익을 주는 것은 아니므로 여러 입장을 살펴요."
+    ],
+    "example": "철도가 생겨 먼 지역을 당일에 오갈 수 있게 되면 여행과 물건 운반 방식도 달라질 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "교통의 변화가 가져올 수 있는 생활 변화는?",
+        "options": [
+          "멀리 있는 지역과 더 쉽게 오간다.",
+          "모든 사람이 이동을 멈춘다.",
+          "사람과 물건이 사라진다."
+        ],
+        "answer": "멀리 있는 지역과 더 쉽게 오간다.",
+        "explanation": "이동 시간과 범위의 변화가 생활에 영향을 줘요."
+      },
+      {
+        "type": "short",
+        "prompt": "자동차가 많아지면서 생길 수 있는 어려움 하나를 쓰세요.",
+        "answer": "길이 막히거나 공기 오염이 생길 수 있어요.",
+        "explanation": "편리함과 함께 나타나는 문제도 생각해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "가까운 어른에게 예전과 지금의 통학·출근 방법을 묻고 생활이 어떻게 달라졌는지 적어요.",
+        "answer": "예전에는 오래 걸어갔지만 지금은 버스를 타서 이동 시간이 줄었다고 해요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "수단의 이름만 나열하지 않고 시간·거리·생활의 변화와 연결했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사04-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사04-02",
+        "text": "옛날부터 오늘날까지 교통의 변화에 따른 이동과 생활 모습의 변화를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "social-16",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "통신이 이어 주는 사람들",
+    "goal": "통신수단이 바뀌며 달라진 소통 방식을 설명할 수 있어요.",
+    "paragraphs": [
+      "통신은 떨어져 있는 사람끼리 소식이나 정보를 주고받는 일이에요. 편지, 전화, 문자 메시지, 영상 통화처럼 여러 수단이 있어요.",
+      "통신수단에 따라 소식이 도착하는 시간, 전달할 수 있는 정보, 대화의 모습이 달라져요. 빠르게 많은 정보를 나눌 수 있어도 개인정보나 잘못된 정보는 조심해야 해요."
+    ],
+    "example": "편지는 글로 마음을 차분히 전할 수 있고, 영상 통화는 멀리 있는 사람의 표정과 목소리를 바로 나눌 수 있어요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "멀리 있는 사람의 표정과 목소리를 실시간으로 나눌 수 있는 수단은?",
+        "options": [
+          "영상 통화",
+          "우편 편지",
+          "봉수"
+        ],
+        "answer": "영상 통화",
+        "explanation": "실시간으로 소리와 화면을 함께 전할 수 있어요."
+      },
+      {
+        "type": "short",
+        "prompt": "편지와 문자 메시지를 소식이 전해지는 시간으로 비교해요.",
+        "answer": "보통 편지는 배달 시간이 필요하고 문자 메시지는 더 빠르게 도착해요.",
+        "explanation": "통신 변화가 정보 교류 시간에 어떤 영향을 주는지 비교해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "통신수단 두 가지를 골라 어떤 상황에 사용할지와 주의할 점을 설명해요.",
+        "answer": "급한 약속 변경은 전화로 알리고, 감사한 마음은 편지로 전해요. 전화에서도 모르는 사람에게 개인정보를 알려주지 않아요.",
+        "explanation": "지역과 경험에 따라 답이 달라질 수 있어요. 예시보다 확인 기준을 살펴보세요.",
+        "criteria": "수단의 특징을 상황과 연결하고 안전한 정보 공유를 생각했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4사04-03"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "verifiedStandards": [
+      {
+        "code": "4사04-03",
+        "text": "옛날부터 오늘날까지 통신수단의 변화에 따른 정보 교류와 의사소통 방식의 변화를 설명한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "english-01",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어 첫걸음",
+    "title": "알파벳, 크고 작은 글자",
+    "goal": "알파벳 대문자와 소문자를 짝지을 수 있어요.",
+    "paragraphs": [
+      "영어 알파벳에는 26개의 글자가 있어요. 각 글자는 A와 a처럼 대문자와 소문자로 나타낼 수 있어요. 모양이 비슷한 글자도 있고 많이 다른 글자도 있어요.",
+      "이름을 듣고 글자를 찾아보고, 대문자와 소문자를 짝지어 보세요. 글자 이름을 말하는 것과 단어 안에서 소리 내는 것은 다를 수 있다는 점도 기억해요."
+    ],
+    "example": "대문자 A의 짝은 a, B의 짝은 b, C의 짝은 c예요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼을 눌러 보세요. 음성에서 B 다음에 들리는 글자는?",
+        "options": [
+          "A",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "음성은 A, B, C 순서로 읽어요."
+      },
+      {
+        "type": "short",
+        "prompt": "대문자 D, E, F와 짝인 소문자를 차례로 써요.",
+        "answer": "d, e, f",
+        "explanation": "대문자와 소문자는 모양이 달라도 같은 글자를 나타내요."
+      },
+      {
+        "type": "activity",
+        "prompt": "종이에 알파벳 세 쌍을 쓰고 대문자·소문자를 손가락으로 짚으며 말해요.",
+        "answer": "A a, B b, C c",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "각 대문자와 소문자를 바르게 짝지어 쓰고 글자 이름을 말했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-01",
+      "4영01-02",
+      "4영02-02"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "A. B. C.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-01",
+        "text": "알파벳과 쉽고 간단한 단어의 소리를 듣고 식별한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영01-02",
+        "text": "알파벳 대소문자를 식별하여 읽는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-02",
+        "text": "알파벳 대소문자를 구별하여 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-02",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어 첫걸음",
+    "title": "글자 소리와 낱말 연결하기",
+    "goal": "쉬운 낱말의 첫소리와 철자를 연결할 수 있어요.",
+    "paragraphs": [
+      "알파벳은 이름뿐 아니라 단어 안에서 나타내는 소리도 있어요. b는 bag, ball의 첫소리로, c는 cat, cup의 첫소리로 쓰일 수 있어요. 같은 글자도 단어에 따라 소리가 달라질 수 있어요.",
+      "소리를 들으며 입 모양과 첫 글자를 연결해 보세요. 익숙한 뜻과 그림을 함께 떠올리고, 모르는 낱말은 먼저 소리를 듣고 따라 읽어요."
+    ],
+    "example": "bag과 ball은 b로 시작해요. cat과 cup은 c로 시작해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 bag, ball을 들어요. 두 낱말의 첫 글자는?",
+        "options": [
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "bag과 ball은 모두 b로 시작해요."
+      },
+      {
+        "type": "short",
+        "prompt": "cat의 첫 글자를 소문자로 써요.",
+        "answer": "c",
+        "explanation": "cat을 읽으며 첫소리와 글자를 연결해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "bag, ball, cat, cup을 듣고 첫 글자별로 나눈 뒤 소리 내어 읽어요.",
+        "answer": "b: bag, ball / c: cat, cup",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "첫 글자와 첫소리를 연결하고 낱말을 뜻과 함께 읽었는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-01",
+      "4영01-04",
+      "4영02-03"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Bag. Ball. Bag. Ball.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-01",
+        "text": "알파벳과 쉽고 간단한 단어의 소리를 듣고 식별한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영01-04",
+        "text": "소리와 철자의 관계를 이해하며 쉽고 간단한 단어, 어구, 문장을 소리 내어 읽는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-03",
+        "text": "소리와 철자의 관계를 바탕으로 쉽고 간단한 단어를 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-03",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "안녕! 내 이름은",
+    "goal": "인사하고 자신의 이름을 소개할 수 있어요.",
+    "paragraphs": [
+      "처음 만난 친구에게 Hello! 또는 Hi!라고 인사할 수 있어요. I am Mina. 또는 I’m Mina.는 자신의 이름이 미나라고 소개하는 말이에요.",
+      "What’s your name?은 이름을 묻는 말이에요. 상대의 말을 끝까지 듣고 자신의 이름을 말해 보세요. 이름은 예시와 달라도 괜찮아요. 음성을 듣고 힘주어 말하는 부분과 끝을 내리는 소리도 따라 해 보세요."
+    ],
+    "example": "A: Hello! I’m Mina. B: Hi! I’m Jun. A: Nice to meet you.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 처음 자신을 소개한 사람의 이름은?",
+        "options": [
+          "Mina",
+          "Jun",
+          "Tom"
+        ],
+        "answer": "Mina",
+        "explanation": "첫 번째 말은 “Hello! I’m Mina.”예요."
+      },
+      {
+        "type": "short",
+        "prompt": "“안녕! 나는 지우야.”를 영어로 써요. 이름은 Jiwoo를 사용해요.",
+        "answer": "Hi! I’m Jiwoo.",
+        "explanation": "Hello! I am Jiwoo.도 같은 뜻으로 쓸 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "친구와 인사를 나누고 각자 이름을 소개해요.",
+        "answer": "Hello! I’m Sora. / Hi! I’m Min. Nice to meet you.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "인사와 이름 소개를 하고 차례를 지켜 상대의 말을 들었는지 확인해요. 음성의 강세와 리듬을 듣고 따라 해 보아요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-06",
+      "4영02-05",
+      "4영02-10",
+      "4영01-03",
+      "4영02-01"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Hello! I am Mina. Hi! I am Jun. Nice to meet you.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-06",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-05",
+        "text": "자신, 주변 사람이나 사물의 소개나 묘사를 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영02-10",
+        "text": "의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영01-03",
+        "text": "쉽고 간단한 단어, 어구, 문장을 듣고 강세, 리듬, 억양을 식별한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-01",
+        "text": "쉽고 간단한 단어, 어구, 문장을 강세, 리듬, 억양에 맞게 따라 말한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-04",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "이것은 무엇일까?",
+    "goal": "주변 물건의 이름을 묻고 답할 수 있어요.",
+    "paragraphs": [
+      "What’s this?는 가까이 있는 것이 무엇인지 묻는 말이에요. It’s a book.은 “그것은 책이야.”라는 뜻이에요. book, pencil, ruler 같은 주변 물건 이름을 함께 익혀요.",
+      "실물을 가리키며 묻고 답하면 뜻이 더 잘 떠올라요. 단어 하나를 정확하게 말한 다음 It’s a ... 문장으로 차근차근 늘려 보세요."
+    ],
+    "example": "A: What’s this? B: It’s a book.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 대화에서 말하는 물건은?",
+        "options": [
+          "책",
+          "자",
+          "공"
+        ],
+        "answer": "책",
+        "explanation": "“It’s a book.”이라고 답했어요."
+      },
+      {
+        "type": "short",
+        "prompt": "“그것은 연필이야.”를 영어로 써요. pencil을 사용해요.",
+        "answer": "It’s a pencil.",
+        "explanation": "It is a pencil.도 같은 뜻이에요."
+      },
+      {
+        "type": "activity",
+        "prompt": "가까운 물건 두 개를 골라 이름을 묻고 답하는 역할놀이를 해요.",
+        "answer": "What’s this? It’s a ruler. / What’s this? It’s a pencil.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "실물과 낱말의 뜻이 맞고 질문과 답을 차례대로 말했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-05",
+      "4영02-04",
+      "4영02-08"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "What is this? It is a book.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-05",
+        "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-04",
+        "text": "실물, 그림, 동작 등을 보고 쉽고 간단한 문장으로 말하거나 단어나 어구를 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-05",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "교실에서 듣는 부탁",
+    "goal": "쉬운 행동 지시를 이해하고 말할 수 있어요.",
+    "paragraphs": [
+      "Stand up.은 일어서라는 말, Sit down.은 앉으라는 말이에요. Please를 덧붙이면 공손한 부탁으로 말할 수 있어요.",
+      "Listen, please.는 “들어 주세요.”, Open your book.은 “책을 펴세요.”라는 뜻이에요. 안전하고 편안한 범위에서 행동으로 뜻을 확인하며 배워요."
+    ],
+    "example": "“Stand up, please.”를 듣고 일어서거나 손인형으로 동작을 나타내 보세요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼의 “Sit down, please.”는 무슨 뜻인가요?",
+        "options": [
+          "앉아 주세요.",
+          "뛰어 주세요.",
+          "책을 덮어 주세요."
+        ],
+        "answer": "앉아 주세요.",
+        "explanation": "Sit down은 앉으라는 뜻이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“일어서 주세요.”를 영어로 써요.",
+        "answer": "Stand up, please.",
+        "explanation": "Please stand up.도 자연스러운 부탁이에요."
+      },
+      {
+        "type": "activity",
+        "prompt": "친구나 인형에게 두 가지 교실 부탁을 말하고 동작으로 확인해요.",
+        "answer": "Open your book, please. / Listen, please.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "행동과 표현의 뜻이 맞고 공손하게 말했는지 확인해요. 움직이기 어렵다면 말이나 그림으로 뜻을 나타내도 돼요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-05",
+      "4영02-06"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Sit down, please. Sit down, please.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-05",
+        "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-06",
+        "text": "행동 지시를 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-06",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "좋아하는 것을 말해요",
+    "goal": "좋아하는 것을 묻고 답할 수 있어요.",
+    "paragraphs": [
+      "I like apples.는 “나는 사과를 좋아해.”라는 뜻이에요. Do you like apples?라고 물으면 상대가 사과를 좋아하는지 알 수 있어요.",
+      "좋아하면 Yes, I do., 좋아하지 않으면 No, I don’t.라고 답해요. 친구의 취향이 나와 달라도 존중해요. 음식이나 동물처럼 익숙한 주제로 말해 보세요."
+    ],
+    "example": "A: Do you like pandas? B: Yes, I do. I like pandas.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 대답한 사람은 판다를 좋아하나요?",
+        "options": [
+          "좋아한다.",
+          "좋아하지 않는다.",
+          "대화에 나오지 않는다."
+        ],
+        "answer": "좋아한다.",
+        "explanation": "“Yes, I do. I like pandas.”라고 말했어요."
+      },
+      {
+        "type": "short",
+        "prompt": "“나는 바나나를 좋아해.”를 영어로 써요. bananas를 사용해요.",
+        "answer": "I like bananas.",
+        "explanation": "I like 뒤에 좋아하는 대상을 말해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "좋아하는 음식과 좋아하지 않는 음식을 하나씩 말하고 친구에게도 물어봐요.",
+        "answer": "I like apples. I don’t like milk. Do you like apples?",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "자신의 취향을 알맞게 표현하고 상대의 답을 존중했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-06",
+      "4영02-08",
+      "4영02-10"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Do you like pandas? Yes, I do. I like pandas.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-06",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영02-10",
+        "text": "의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-07",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "몇 개일까요?",
+    "goal": "간단한 수를 듣고 개수를 묻고 답할 수 있어요.",
+    "paragraphs": [
+      "How many ...?는 몇 개인지 묻는 말이에요. one, two, three, four, five처럼 쉬운 수부터 듣고 말해 보세요.",
+      "물건을 가리키며 세고 마지막 수로 모두 몇 개인지 말해요. 여러 개를 물을 때는 apples처럼 낱말 끝이 달라질 수 있어요. 익숙한 예문을 통째로 연습해요."
+    ],
+    "example": "A: How many apples? B: Three apples.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 사과는 몇 개인가요?",
+        "options": [
+          "2개",
+          "3개",
+          "5개"
+        ],
+        "answer": "3개",
+        "explanation": "Three apples는 사과 세 개예요."
+      },
+      {
+        "type": "short",
+        "prompt": "four가 나타내는 수를 숫자로 써요.",
+        "answer": "4",
+        "explanation": "four는 넷을 뜻해요."
+      },
+      {
+        "type": "activity",
+        "prompt": "연필을 한 개부터 다섯 개까지 놓고 수를 세며 묻고 답해요.",
+        "answer": "How many pencils? Five pencils.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "실제 개수와 영어 숫자가 맞고 빠뜨리지 않고 세었는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-05",
+      "4영02-08"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "How many apples? Three apples.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-05",
+        "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-08",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "무슨 색일까?",
+    "goal": "색을 묻고 간단히 답할 수 있어요.",
+    "paragraphs": [
+      "What color is it?는 “무슨 색이니?”라는 뜻이에요. It’s red.처럼 색 이름으로 답할 수 있어요. red, blue, yellow, green을 익혀요.",
+      "주변 물건을 보며 색을 말하면 낱말을 기억하기 쉬워요. 하나의 물건에 색이 여러 개일 수 있고, 색을 구분하기 어렵다면 글자로 적힌 색 이름을 활용해도 좋아요."
+    ],
+    "example": "A: What color is it? B: It’s blue.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 어떤 색이라고 했나요?",
+        "options": [
+          "빨간색",
+          "파란색",
+          "노란색"
+        ],
+        "answer": "파란색",
+        "explanation": "Blue는 파란색을 뜻해요."
+      },
+      {
+        "type": "short",
+        "prompt": "“그것은 초록색이야.”를 영어로 써요. green을 사용해요.",
+        "answer": "It’s green.",
+        "explanation": "색을 답할 때 It’s 뒤에 색 이름을 넣어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "색 이름이 적힌 카드나 물건 두 개로 질문하고 답해요.",
+        "answer": "What color is it? It’s yellow. / It’s red.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "질문을 이해하고 알맞은 색 낱말로 답했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-05",
+      "4영02-04",
+      "4영02-08"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "What color is it? It is blue.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-05",
+        "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-04",
+        "text": "실물, 그림, 동작 등을 보고 쉽고 간단한 문장으로 말하거나 단어나 어구를 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-09",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "내가 할 수 있는 일",
+    "goal": "할 수 있는 일을 묻고 답할 수 있어요.",
+    "paragraphs": [
+      "I can swim.은 “나는 수영할 수 있어.”라는 뜻이에요. Can you swim?은 상대가 수영할 수 있는지 묻는 말이에요.",
+      "할 수 있으면 Yes, I can., 아직 할 수 없으면 No, I can’t.라고 답해요. 아직 못하는 것이 있어도 괜찮아요. 나에게 익숙한 동작으로 바꾸어 말해 보세요."
+    ],
+    "example": "A: Can you dance? B: Yes, I can.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 대답한 사람은 춤출 수 있나요?",
+        "options": [
+          "할 수 있다.",
+          "할 수 없다.",
+          "달릴 수 있다고 했다."
+        ],
+        "answer": "할 수 있다.",
+        "explanation": "Yes, I can.은 할 수 있다는 뜻이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“나는 노래할 수 있어.”를 영어로 써요. sing을 사용해요.",
+        "answer": "I can sing.",
+        "explanation": "can 뒤에는 할 수 있는 행동을 넣어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "자신이 할 수 있는 일 하나를 말하고 친구에게도 질문해요.",
+        "answer": "I can draw. Can you draw?",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "자신의 실제 상황에 맞게 말하고 친구의 능력을 비교하거나 놀리지 않았는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-06",
+      "4영02-05",
+      "4영02-08"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Can you dance? Yes, I can.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-06",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-05",
+        "text": "자신, 주변 사람이나 사물의 소개나 묘사를 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-10",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "가지고 있나요?",
+    "goal": "물건을 가지고 있는지 묻고 답할 수 있어요.",
+    "paragraphs": [
+      "Do you have a pencil?은 연필이 있는지 묻는 말이에요. 가지고 있으면 Yes, I do., 없으면 No, I don’t.라고 답할 수 있어요.",
+      "I have a ruler.는 자가 있다는 뜻이에요. 물건을 빌리고 싶다면 먼저 정중히 묻고 상대가 거절해도 존중해요. 실제 물건을 보며 연습해요."
+    ],
+    "example": "A: Do you have a ruler? B: Yes, I do.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 어떤 물건이 있는지 묻나요?",
+        "options": [
+          "자",
+          "가방",
+          "컵"
+        ],
+        "answer": "자",
+        "explanation": "ruler는 자를 뜻해요."
+      },
+      {
+        "type": "short",
+        "prompt": "“나는 연필이 있어.”를 영어로 써요.",
+        "answer": "I have a pencil.",
+        "explanation": "I have ...로 가진 물건을 말할 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "필통 속 물건 하나를 골라 가지고 있는지 묻고 사실대로 답해요.",
+        "answer": "Do you have an eraser? Yes, I do.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "물건 이름과 실제 보유 여부가 답과 맞는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-06",
+      "4영02-08"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Do you have a ruler? Yes, I do.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-06",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-11",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "소중한 사람 소개하기",
+    "goal": "가족이나 친구를 쉬운 말로 소개할 수 있어요.",
+    "paragraphs": [
+      "Who is she? 또는 Who is he?는 그 사람이 누구인지 묻는 말이에요. She’s my friend.는 친구라고 소개하는 말이에요.",
+      "This is my ...로 가족이나 친구를 소개할 수도 있어요. 가족의 모습은 다양하므로 누구를 소개할지는 스스로 골라요. 사진 대신 그림이나 가상의 인물을 써도 좋아요."
+    ],
+    "example": "A: Who is he? B: He’s my dad.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 누구를 소개하나요?",
+        "options": [
+          "아빠",
+          "선생님",
+          "친구"
+        ],
+        "answer": "아빠",
+        "explanation": "He’s my dad.에서 dad는 아빠예요."
+      },
+      {
+        "type": "short",
+        "prompt": "“이 사람은 내 친구야.”를 영어로 써요.",
+        "answer": "This is my friend.",
+        "explanation": "This is ...로 가까이 있는 사람을 소개할 수 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "그림이나 가상의 인물 하나를 골라 관계를 소개해요.",
+        "answer": "This is my friend. Her name is Mina.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "그 사람과의 관계를 쉬운 문장으로 소개하고 말하기 편한 소재를 골랐는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-06",
+      "4영02-05"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Who is he? He is my dad.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-06",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-05",
+        "text": "자신, 주변 사람이나 사물의 소개나 묘사를 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-12",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "안전을 위한 한마디",
+    "goal": "하지 말아야 할 행동을 쉬운 말로 전할 수 있어요.",
+    "paragraphs": [
+      "Don’t run.은 “뛰지 마.”라는 뜻이에요. Don’t ...는 어떤 행동을 하지 말라고 말할 때 써요. Please를 더해 공손하게 부탁할 수도 있어요.",
+      "복도나 도서관처럼 조용하고 안전하게 이용해야 하는 장소에서 쓰일 수 있어요. 명령하는 말만 외우기보다 어떤 상황에서 필요한지 생각하며 연습해요."
+    ],
+    "example": "복도 안내: Don’t run, please. 천천히 걸어 달라는 뜻이에요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼의 “Don’t run, please.”는 무슨 뜻인가요?",
+        "options": [
+          "뛰지 말아 주세요.",
+          "함께 뛰어요.",
+          "앉아 주세요."
+        ],
+        "answer": "뛰지 말아 주세요.",
+        "explanation": "Don’t는 뒤의 행동을 하지 말라는 뜻이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“만지지 마세요.”를 영어로 써요. touch를 사용해요.",
+        "answer": "Don’t touch, please.",
+        "explanation": "Please don’t touch.도 자연스러운 표현이에요."
+      },
+      {
+        "type": "activity",
+        "prompt": "안전 안내 그림 한 개를 그리고 어울리는 영어 표현을 말해요.",
+        "answer": "복도를 걷는 그림을 그리고 Don’t run, please.라고 말해요.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "상황과 표현이 맞고 상대를 배려하는 목소리로 말했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-05",
+      "4영02-06"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "아이스크림 3학년 공식 목차의 안전 행동 표현을 보충 주제로 포함했습니다. 출판사별 다루는 시기가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "Do not run, please. Do not run, please.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-05",
+        "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-06",
+        "text": "행동 지시를 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-13",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "몇 살이니?",
+    "goal": "나이를 묻고 답하는 표현을 사용할 수 있어요.",
+    "paragraphs": [
+      "How old are you?는 나이를 묻는 말이에요. I’m nine.처럼 숫자로 답할 수 있어요. 이 학습의 숫자는 영어 표현을 연습하기 위한 예시예요.",
+      "여러 나라와 사람에 따라 나이를 묻는 일을 다르게 느낄 수 있어요. 상대가 편하게 답할 수 있는 상황에서 묻고, 원하지 않으면 억지로 답하게 하지 않아요."
+    ],
+    "example": "A: How old are you? B: I’m nine.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 대답한 사람은 몇 살이라고 하나요?",
+        "options": [
+          "8살",
+          "9살",
+          "10살"
+        ],
+        "answer": "9살",
+        "explanation": "Nine은 아홉을 뜻해요."
+      },
+      {
+        "type": "short",
+        "prompt": "“나는 열 살이야.”를 영어로 써요.",
+        "answer": "I’m ten.",
+        "explanation": "I am ten years old.처럼 말할 수도 있어요."
+      },
+      {
+        "type": "activity",
+        "prompt": "가상의 인물 나이 카드를 만들어 묻고 답해요.",
+        "answer": "How old are you? I’m eight.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "정한 숫자와 답이 맞고 상대가 답할 차례를 기다렸는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-06",
+      "4영02-08",
+      "4영02-10"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "How old are you? I am nine.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-06",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 파악한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영02-10",
+        "text": "의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-14",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "오늘 날씨는 어때?",
+    "goal": "쉬운 낱말로 날씨를 묻고 답할 수 있어요.",
+    "paragraphs": [
+      "How’s the weather?는 날씨를 묻는 말이에요. It’s sunny.는 맑음, It’s rainy.는 비가 오는 날씨를 나타내요. cloudy, snowy 같은 표현도 익혀요.",
+      "창밖의 날씨나 날씨 그림을 보고 말해 보세요. It’s ... 뒤에 알맞은 날씨 표현을 넣으면 돼요. 친구의 지역과 우리 지역의 날씨가 다를 수도 있어요."
+    ],
+    "example": "A: How’s the weather? B: It’s sunny.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 날씨는 어떤가요?",
+        "options": [
+          "맑다.",
+          "비가 온다.",
+          "눈이 온다."
+        ],
+        "answer": "맑다.",
+        "explanation": "Sunny는 맑고 해가 나는 날씨를 나타내요."
+      },
+      {
+        "type": "short",
+        "prompt": "“날씨가 흐려.”를 영어로 써요. cloudy를 사용해요.",
+        "answer": "It’s cloudy.",
+        "explanation": "It is cloudy.도 같은 뜻이에요."
+      },
+      {
+        "type": "activity",
+        "prompt": "날씨 카드 두 장을 그려 한 장씩 보이며 묻고 답해요.",
+        "answer": "How’s the weather? It’s rainy. / It’s snowy.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "날씨 그림과 표현이 맞고 질문과 답을 주고받았는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-05",
+      "4영02-08"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "speech": {
+      "text": "How is the weather? It is sunny.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-05",
+        "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-08",
+        "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-15",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어로 마음 나누기",
+    "title": "지금 내 기분은",
+    "goal": "쉬운 문장으로 자신의 감정을 표현할 수 있어요.",
+    "paragraphs": [
+      "I’m happy.는 기쁜 마음, I’m sad.는 슬픈 마음을 표현해요. 감정을 말하면 상대가 내 상태를 이해하고 도와주기 쉬워요.",
+      "영어를 말할 때도 표정이나 그림을 함께 쓰면 뜻을 전달하는 데 도움이 돼요. 어떤 기분이든 잘못된 것은 아니며, 친구의 말을 듣고 놀리지 않는 태도가 중요해요."
+    ],
+    "example": "A: How are you? B: I’m happy. A: That’s great!",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 대화를 들어요. 대답한 사람의 기분은?",
+        "options": [
+          "기쁘다.",
+          "슬프다.",
+          "화가 났다."
+        ],
+        "answer": "기쁘다.",
+        "explanation": "I’m happy.는 기쁘다는 뜻이에요."
+      },
+      {
+        "type": "short",
+        "prompt": "“나는 슬퍼.”를 영어로 써요. sad를 사용해요.",
+        "answer": "I’m sad.",
+        "explanation": "I am sad.도 같은 뜻이에요."
+      },
+      {
+        "type": "activity",
+        "prompt": "기분 카드를 하나 골라 표정이나 그림과 함께 말해요.",
+        "answer": "I’m happy. 또는 I’m sad.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "자신이 고른 감정과 표현을 연결하고 친구의 감정을 존중했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-05",
+      "4영02-07",
+      "4영02-10"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "3~4학년군 영어과 성취기준의 감정 표현을 연간 보충 학습으로 구성했습니다. 특정 출판사 3학년 단원 배정을 확정한 자료는 아닙니다.",
+    "speech": {
+      "text": "How are you? I am happy. That is great!",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-05",
+        "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-07",
+        "text": "자신의 감정을 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      },
+      {
+        "code": "4영02-10",
+        "text": "의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "english-16",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어로 마음 나누기",
+    "title": "짧은 이야기 듣고 마음 나누기",
+    "goal": "짧은 영어 이야기를 듣고 내용과 마음을 표현할 수 있어요.",
+    "paragraphs": [
+      "짧은 이야기는 아는 낱말, 말하는 사람의 목소리, 그림을 함께 생각하며 들어요. 처음부터 모든 단어를 알 필요는 없어요. 누가 무엇을 했는지 중요한 정보를 찾아보세요.",
+      "이야기를 듣고 등장인물의 마음을 짐작하고, 알고 있는 짧은 영어 문장이나 그림으로 반응해요. 다른 친구의 표현도 존중하며 함께 이야기를 즐겨요."
+    ],
+    "example": "창작 이야기: A bird is sad. A friend says, “Hello!” The bird is happy. 슬픈 새가 친구의 인사를 받고 기뻐해요.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "듣기 버튼으로 이야기를 들어요. 마지막에 새의 기분은?",
+        "options": [
+          "슬프다.",
+          "기쁘다.",
+          "무섭다."
+        ],
+        "answer": "기쁘다.",
+        "explanation": "마지막 문장이 “The bird is happy.”예요."
+      },
+      {
+        "type": "short",
+        "prompt": "이야기에서 친구가 새에게 한 인사말을 써요.",
+        "answer": "Hello!",
+        "explanation": "친구의 인사가 새의 마음을 바꾸는 계기가 돼요."
+      },
+      {
+        "type": "activity",
+        "prompt": "새와 친구를 그림이나 손인형으로 나타내며 이야기의 한 장면을 영어로 표현해요.",
+        "answer": "Hello! / I’m happy.",
+        "explanation": "말하기 활동의 예시 답안이에요. 자신의 상황에 맞게 바꾸어 말해도 좋아요.",
+        "criteria": "짧은 말과 표정·그림을 활용해 장면의 의미를 나타내고 친구의 표현을 존중했는지 확인해요."
+      }
+    ],
+    "standardCodes": [
+      "4영01-07",
+      "4영01-09",
+      "4영01-10",
+      "4영02-09"
+    ],
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ],
+    "assignmentNote": "공식 교육과정의 이야기 감상·매체 표현 기준을 연간 통합 복습으로 구성한 창작 자료입니다. 교과서의 이야기를 옮긴 것이 아닙니다.",
+    "speech": {
+      "text": "A bird is sad. A friend says, Hello! The bird is happy.",
+      "lang": "en-US"
+    },
+    "verifiedStandards": [
+      {
+        "code": "4영01-07",
+        "text": "적절한 전략을 활용하여 담화나 문장을 듣거나 읽는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영01-09",
+        "text": "시, 노래, 이야기를 공감하며 듣는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영01-10",
+        "text": "자기 주변 주제나 문화에 관한 담화나 문장을 존중의 태도로 듣거나 읽는다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 16
+      },
+      {
+        "code": "4영02-09",
+        "text": "적절한 매체나 전략을 활용하여 창의적으로 의미를 표현한다.",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "page": 18
+      }
+    ]
+  }
+]

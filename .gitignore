@@ -1,0 +1,11 @@
+node_modules/
+.cache/
+*.zip
+*.log
+__pycache__/
+.DS_Store
+research/*.pdf
+research/*.png
+research/*.txt
+research/*-sources/
+scripts/author-*

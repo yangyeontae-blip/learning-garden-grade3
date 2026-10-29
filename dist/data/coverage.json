@@ -1,0 +1,5018 @@
+[
+  {
+    "id": "korean-01",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "감각과 표현",
+    "title": "눈앞에 그려지는 말",
+    "standardCodes": [
+      "4국05-04"
+    ],
+    "verifiedCodes": [
+      "4국05-04"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-02",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "감각과 표현",
+    "title": "표정과 목소리로 마음 전하기",
+    "standardCodes": [
+      "4국01-03"
+    ],
+    "verifiedCodes": [
+      "4국01-03"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-03",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "바르게 읽고 쓰기",
+    "title": "누가, 무엇이, 어찌하였나요?",
+    "standardCodes": [
+      "4국04-03"
+    ],
+    "verifiedCodes": [
+      "4국04-03"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-04",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "바르게 읽고 쓰기",
+    "title": "뜻을 생각하며 소리 내어 읽기",
+    "standardCodes": [
+      "4국02-01"
+    ],
+    "verifiedCodes": [
+      "4국02-01"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-05",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "문단과 감상",
+    "title": "중심 문장과 뒷받침 문장",
+    "standardCodes": [
+      "4국03-01"
+    ],
+    "verifiedCodes": [
+      "4국03-01"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-06",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "문단과 감상",
+    "title": "재미와 감동을 말로 나누기",
+    "standardCodes": [
+      "4국05-05"
+    ],
+    "verifiedCodes": [
+      "4국05-05"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-07",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "중요한 내용 찾기",
+    "title": "귀 기울여 듣고 간추리기",
+    "standardCodes": [
+      "4국01-01"
+    ],
+    "verifiedCodes": [
+      "4국01-01"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-08",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "중요한 내용 찾기",
+    "title": "글의 중심 생각 한 문장",
+    "standardCodes": [
+      "4국02-02"
+    ],
+    "verifiedCodes": [
+      "4국02-02"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-09",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "인물과 마음",
+    "title": "말과 행동으로 인물 알기",
+    "standardCodes": [
+      "4국05-01"
+    ],
+    "verifiedCodes": [
+      "4국05-01"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-10",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "인물과 마음",
+    "title": "마음을 담아 편지 쓰기",
+    "standardCodes": [
+      "4국03-04"
+    ],
+    "verifiedCodes": [
+      "4국03-04"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-11",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "자신 있게 읽고 쓰기",
+    "title": "사실과 의견 구분하기",
+    "standardCodes": [
+      "4국02-04"
+    ],
+    "verifiedCodes": [
+      "4국02-04"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-12",
+    "subject": "국어",
+    "semester": "1",
+    "unit": "자신 있게 읽고 쓰기",
+    "title": "글쓰기 계획과 돌아보기",
+    "standardCodes": [
+      "4국03-05"
+    ],
+    "verifiedCodes": [
+      "4국03-05"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-13",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "경험과 이해",
+    "title": "내 경험과 작품 연결하기",
+    "standardCodes": [
+      "4국05-02"
+    ],
+    "verifiedCodes": [
+      "4국05-02"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-14",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "경험과 이해",
+    "title": "문단의 내용을 간추리기",
+    "standardCodes": [
+      "4국02-02"
+    ],
+    "verifiedCodes": [
+      "4국02-02"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-15",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "읽기와 발표",
+    "title": "장면에 맞게 유창하게 읽기",
+    "standardCodes": [
+      "4국02-01"
+    ],
+    "verifiedCodes": [
+      "4국02-01"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-16",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "읽기와 발표",
+    "title": "글과 그림으로 발표하기",
+    "standardCodes": [
+      "4국01-05",
+      "4국06-02"
+    ],
+    "verifiedCodes": [
+      "4국01-05",
+      "4국06-02"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-17",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "정확한 정보와 글쓰기",
+    "title": "믿을 만한 출처 확인하기",
+    "standardCodes": [
+      "4국02-05"
+    ],
+    "verifiedCodes": [
+      "4국02-05"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-18",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "정확한 정보와 글쓰기",
+    "title": "순서와 방법을 정확하게 쓰기",
+    "standardCodes": [
+      "4국03-02"
+    ],
+    "verifiedCodes": [
+      "4국03-02"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-19",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "존중하는 대화",
+    "title": "높임 표현 바르게 쓰기",
+    "standardCodes": [
+      "4국04-04"
+    ],
+    "verifiedCodes": [
+      "4국04-04"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-20",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "존중하는 대화",
+    "title": "상대의 입장에서 대화하기",
+    "standardCodes": [
+      "4국01-04",
+      "4국04-05"
+    ],
+    "verifiedCodes": [
+      "4국01-04",
+      "4국04-05"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-21",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "낱말과 사전",
+    "title": "기준에 따라 낱말 나누기",
+    "standardCodes": [
+      "4국04-01",
+      "4국04-02"
+    ],
+    "verifiedCodes": [
+      "4국04-01",
+      "4국04-02"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-22",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "낱말과 사전",
+    "title": "국어사전으로 뜻 찾기",
+    "standardCodes": [
+      "4국04-02"
+    ],
+    "verifiedCodes": [
+      "4국04-02"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-23",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "감상과 의견",
+    "title": "작품의 재미를 함께 즐기기",
+    "standardCodes": [
+      "4국05-03",
+      "4국05-05"
+    ],
+    "verifiedCodes": [
+      "4국05-03",
+      "4국05-05"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-24",
+    "subject": "국어",
+    "semester": "2",
+    "unit": "감상과 의견",
+    "title": "의견과 까닭을 짝지어 쓰기",
+    "standardCodes": [
+      "4국03-03",
+      "4국01-06"
+    ],
+    "verifiedCodes": [
+      "4국03-03",
+      "4국01-06"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12601",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://m.yes24.com/goods/detail/148083603",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-25",
+    "subject": "국어",
+    "semester": "year",
+    "unit": "책과 만나는 시간",
+    "title": "나만의 독서 계획",
+    "standardCodes": [
+      "4국02-03",
+      "4국02-06"
+    ],
+    "verifiedCodes": [
+      "4국02-03",
+      "4국02-06"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "korean-26",
+    "subject": "국어",
+    "semester": "year",
+    "unit": "안전한 매체 생활",
+    "title": "온라인에서도 다정하게",
+    "standardCodes": [
+      "4국06-01",
+      "4국06-03"
+    ],
+    "verifiedCodes": [
+      "4국06-01",
+      "4국06-03"
+    ],
+    "assignmentNote": "국정 국어 3학년의 연간 학습 주제를 성취기준에 연결해 재구성했습니다. 성취기준은 3~4학년군 기준이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 국어과 교육과정 [별책5]",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "비상 한끝 국어 3-1·3-2 공개 교재·목차",
+        "url": "https://book.visang.com/books/info/5638",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 제공 국어 3학년 교과서 연계 공개 목차(도서정보)",
+        "url": "https://www.yes24.com/Product/Goods/142226470",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-01",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "덧셈과 뺄셈",
+    "title": "세 자리 수를 더해요",
+    "standardCodes": [
+      "4수01-03"
+    ],
+    "verifiedCodes": [
+      "4수01-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-02",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "덧셈과 뺄셈",
+    "title": "받아내림이 있는 뺄셈",
+    "standardCodes": [
+      "4수01-03"
+    ],
+    "verifiedCodes": [
+      "4수01-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-03",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "평면도형",
+    "title": "직선·선분·반직선",
+    "standardCodes": [
+      "4수03-01"
+    ],
+    "verifiedCodes": [
+      "4수03-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-04",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "평면도형",
+    "title": "각과 직각을 찾아요",
+    "standardCodes": [
+      "4수03-02"
+    ],
+    "verifiedCodes": [
+      "4수03-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-05",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "평면도형",
+    "title": "직각삼각형과 직사각형",
+    "standardCodes": [
+      "4수03-09",
+      "4수03-10"
+    ],
+    "verifiedCodes": [
+      "4수03-09",
+      "4수03-10"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-06",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "나눗셈",
+    "title": "똑같이 나누고 묶어요",
+    "standardCodes": [
+      "4수01-05"
+    ],
+    "verifiedCodes": [
+      "4수01-05"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-07",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "나눗셈",
+    "title": "곱셈과 나눗셈은 친구",
+    "standardCodes": [
+      "4수01-05",
+      "4수01-06"
+    ],
+    "verifiedCodes": [
+      "4수01-05",
+      "4수01-06"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-08",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "곱셈",
+    "title": "몇십과 두 자리 수의 곱셈",
+    "standardCodes": [
+      "4수01-04"
+    ],
+    "verifiedCodes": [
+      "4수01-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-09",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "곱셈",
+    "title": "올림이 있는 두 자리 수의 곱셈",
+    "standardCodes": [
+      "4수01-04",
+      "4수01-08"
+    ],
+    "verifiedCodes": [
+      "4수01-04",
+      "4수01-08"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-10",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "길이와 시간",
+    "title": "밀리미터와 킬로미터",
+    "standardCodes": [
+      "4수03-15",
+      "4수03-16"
+    ],
+    "verifiedCodes": [
+      "4수03-15",
+      "4수03-16"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-11",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "길이와 시간",
+    "title": "초까지 시각을 읽어요",
+    "standardCodes": [
+      "4수03-13"
+    ],
+    "verifiedCodes": [
+      "4수03-13"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-12",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "길이와 시간",
+    "title": "시간을 더하고 빼요",
+    "standardCodes": [
+      "4수03-14"
+    ],
+    "verifiedCodes": [
+      "4수03-14"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-13",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "분수와 소수",
+    "title": "전체의 일부를 분수로",
+    "standardCodes": [
+      "4수01-09"
+    ],
+    "verifiedCodes": [
+      "4수01-09"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-14",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "분수와 소수",
+    "title": "분수의 크기를 비교해요",
+    "standardCodes": [
+      "4수01-10",
+      "4수01-11"
+    ],
+    "verifiedCodes": [
+      "4수01-10",
+      "4수01-11"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-15",
+    "subject": "수학",
+    "semester": "1",
+    "unit": "분수와 소수",
+    "title": "소수 한 자리 수를 만나요",
+    "standardCodes": [
+      "4수01-12",
+      "4수01-14"
+    ],
+    "verifiedCodes": [
+      "4수01-12",
+      "4수01-14"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-16",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "곱셈",
+    "title": "세 자리 수에 한 자리 수를 곱해요",
+    "standardCodes": [
+      "4수01-04"
+    ],
+    "verifiedCodes": [
+      "4수01-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-17",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "곱셈",
+    "title": "두 자리 수끼리 곱해요",
+    "standardCodes": [
+      "4수01-04"
+    ],
+    "verifiedCodes": [
+      "4수01-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-18",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "나눗셈",
+    "title": "몫과 나머지를 구해요",
+    "standardCodes": [
+      "4수01-06"
+    ],
+    "verifiedCodes": [
+      "4수01-06"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-19",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "나눗셈",
+    "title": "세 자리 수의 나눗셈",
+    "standardCodes": [
+      "4수01-06"
+    ],
+    "verifiedCodes": [
+      "4수01-06"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-20",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "원",
+    "title": "원의 중심·반지름·지름",
+    "standardCodes": [
+      "4수03-06"
+    ],
+    "verifiedCodes": [
+      "4수03-06"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-21",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "원",
+    "title": "컴퍼스로 원을 그려요",
+    "standardCodes": [
+      "4수03-06",
+      "4수03-07"
+    ],
+    "verifiedCodes": [
+      "4수03-06",
+      "4수03-07"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-22",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "분수",
+    "title": "진분수·가분수·대분수",
+    "standardCodes": [
+      "4수01-10"
+    ],
+    "verifiedCodes": [
+      "4수01-10"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-23",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "분수",
+    "title": "분수로 수량을 나타내요",
+    "standardCodes": [
+      "4수01-09",
+      "4수01-11"
+    ],
+    "verifiedCodes": [
+      "4수01-09",
+      "4수01-11"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-24",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "들이와 무게",
+    "title": "리터와 밀리리터",
+    "standardCodes": [
+      "4수03-17",
+      "4수03-18",
+      "4수03-19"
+    ],
+    "verifiedCodes": [
+      "4수03-17",
+      "4수03-18",
+      "4수03-19"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-25",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "들이와 무게",
+    "title": "그램·킬로그램·톤",
+    "standardCodes": [
+      "4수03-20",
+      "4수03-21",
+      "4수03-22"
+    ],
+    "verifiedCodes": [
+      "4수03-20",
+      "4수03-21",
+      "4수03-22"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-26",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "들이와 무게",
+    "title": "무게를 더하고 빼요",
+    "standardCodes": [
+      "4수03-23"
+    ],
+    "verifiedCodes": [
+      "4수03-23"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-27",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "그림그래프",
+    "title": "그림 하나의 뜻을 읽어요",
+    "standardCodes": [
+      "4수04-01"
+    ],
+    "verifiedCodes": [
+      "4수04-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "math-28",
+    "subject": "수학",
+    "semester": "2",
+    "unit": "그림그래프",
+    "title": "조사하여 그림그래프로",
+    "standardCodes": [
+      "4수04-01"
+    ],
+    "verifiedCodes": [
+      "4수04-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 수학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 수학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=math3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 수학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=2",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-01",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "같은 장소, 다른 느낌",
+    "standardCodes": [
+      "4사01-01"
+    ],
+    "verifiedCodes": [
+      "4사01-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-02",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "머릿속 우리 동네 그리기",
+    "standardCodes": [
+      "4사01-01"
+    ],
+    "verifiedCodes": [
+      "4사01-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-03",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "생활을 돕는 장소 찾기",
+    "standardCodes": [
+      "4사01-02"
+    ],
+    "verifiedCodes": [
+      "4사01-02"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-04",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "우리가 사는 곳",
+    "title": "더 살기 좋은 곳 제안하기",
+    "standardCodes": [
+      "4사01-02"
+    ],
+    "verifiedCodes": [
+      "4사01-02"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-05",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "과거·현재·미래 구분하기",
+    "standardCodes": [
+      "4사02-01"
+    ],
+    "verifiedCodes": [
+      "4사02-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-06",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "나의 이야기 연표 만들기",
+    "standardCodes": [
+      "4사02-01"
+    ],
+    "verifiedCodes": [
+      "4사02-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-07",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "오래된 물건이 들려주는 이야기",
+    "standardCodes": [
+      "4사02-02"
+    ],
+    "verifiedCodes": [
+      "4사02-02"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-08",
+    "subject": "사회",
+    "semester": "1",
+    "unit": "일상에서 만나는 과거",
+    "title": "옛 사진과 오늘 사진 비교하기",
+    "standardCodes": [
+      "4사02-03"
+    ],
+    "verifiedCodes": [
+      "4사02-03"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-1 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_1_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 한끝 사회 3-1 공개 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12058",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-09",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "사람들의 나이 구성이 달라져요",
+    "standardCodes": [
+      "4사03-01"
+    ],
+    "verifiedCodes": [
+      "4사03-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-10",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "디지털 기술과 우리 생활",
+    "standardCodes": [
+      "4사03-01"
+    ],
+    "verifiedCodes": [
+      "4사03-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-11",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "다양한 생활 문화 만나기",
+    "standardCodes": [
+      "4사03-02"
+    ],
+    "verifiedCodes": [
+      "4사03-02"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-12",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "사회 변화와 다양한 문화",
+    "title": "편견을 넘어 함께 살기",
+    "standardCodes": [
+      "4사03-02"
+    ],
+    "verifiedCodes": [
+      "4사03-02"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-13",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "풍습에 담긴 생각 찾기",
+    "standardCodes": [
+      "4사04-01"
+    ],
+    "verifiedCodes": [
+      "4사04-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-14",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "계절마다 이어지는 풍속",
+    "standardCodes": [
+      "4사04-01"
+    ],
+    "verifiedCodes": [
+      "4사04-01"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-15",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "교통이 바꾼 하루",
+    "standardCodes": [
+      "4사04-02"
+    ],
+    "verifiedCodes": [
+      "4사04-02"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "social-16",
+    "subject": "사회",
+    "semester": "2",
+    "unit": "옛날과 오늘날의 생활 모습",
+    "title": "통신이 이어 주는 사람들",
+    "standardCodes": [
+      "4사04-03"
+    ],
+    "verifiedCodes": [
+      "4사04-03"
+    ],
+    "assignmentNote": "2022 개정 사회 3학년 공개 목차의 연간 네 대주제를 비교해 재구성했습니다. 3~4학년군 중 3학년 배정 주제이며 학교 진도와 다를 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 사회과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004260&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 사회 3-2 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/society_textbook_3_2_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 사회 3-2 공개 지도서 목차",
+        "url": "https://contents.m-teacher.co.kr/cms/smartppt/idigrow/etextbook_social3_2/resource/index.html",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-01",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "힘과 우리 생활",
+    "title": "밀고 당기면 어떻게 될까요?",
+    "standardCodes": [
+      "4과01-01"
+    ],
+    "verifiedCodes": [
+      "4과01-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-02",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "힘과 우리 생활",
+    "title": "수평을 잡아 무게를 비교해요",
+    "standardCodes": [
+      "4과01-02"
+    ],
+    "verifiedCodes": [
+      "4과01-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-03",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "힘과 우리 생활",
+    "title": "저울로 정확하게 비교해요",
+    "standardCodes": [
+      "4과01-03"
+    ],
+    "verifiedCodes": [
+      "4과01-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-04",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "힘과 우리 생활",
+    "title": "도구가 힘을 도와줘요",
+    "standardCodes": [
+      "4과01-04"
+    ],
+    "verifiedCodes": [
+      "4과01-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-05",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "동물의 생활",
+    "title": "동물을 기준에 따라 나누어요",
+    "standardCodes": [
+      "4과02-01"
+    ],
+    "verifiedCodes": [
+      "4과02-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-06",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "동물의 생활",
+    "title": "사는 곳에 어울리는 몸",
+    "standardCodes": [
+      "4과02-02"
+    ],
+    "verifiedCodes": [
+      "4과02-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-07",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "동물의 생활",
+    "title": "동물에게서 아이디어를 얻어요",
+    "standardCodes": [
+      "4과02-03"
+    ],
+    "verifiedCodes": [
+      "4과02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-08",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "식물의 생활",
+    "title": "잎을 관찰하고 분류해요",
+    "standardCodes": [
+      "4과03-01"
+    ],
+    "verifiedCodes": [
+      "4과03-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-09",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "식물의 생활",
+    "title": "식물도 환경과 어울려 살아요",
+    "standardCodes": [
+      "4과03-02"
+    ],
+    "verifiedCodes": [
+      "4과03-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-10",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "식물의 생활",
+    "title": "식물을 닮은 생활용품",
+    "standardCodes": [
+      "4과03-03"
+    ],
+    "verifiedCodes": [
+      "4과03-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-11",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "생물의 한살이",
+    "title": "곤충의 한살이를 관찰해요",
+    "standardCodes": [
+      "4과04-01"
+    ],
+    "verifiedCodes": [
+      "4과04-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-12",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "생물의 한살이",
+    "title": "식물이 자라는 조건을 알아봐요",
+    "standardCodes": [
+      "4과04-02"
+    ],
+    "verifiedCodes": [
+      "4과04-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-13",
+    "subject": "과학",
+    "semester": "1",
+    "unit": "생물의 한살이",
+    "title": "한살이는 모두 같을까요?",
+    "standardCodes": [
+      "4과04-03"
+    ],
+    "verifiedCodes": [
+      "4과04-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 1학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-1 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_1",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-14",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "물체와 물질",
+    "title": "무엇으로 만들었을까요?",
+    "standardCodes": [
+      "4과05-01"
+    ],
+    "verifiedCodes": [
+      "4과05-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-15",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "물체와 물질",
+    "title": "고체·액체·기체를 비교해요",
+    "standardCodes": [
+      "4과05-02"
+    ],
+    "verifiedCodes": [
+      "4과05-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-16",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "물체와 물질",
+    "title": "성질을 골라 물건을 설계해요",
+    "standardCodes": [
+      "4과05-03"
+    ],
+    "verifiedCodes": [
+      "4과05-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-17",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "지구와 바다",
+    "title": "지구의 육지·바다·대기",
+    "standardCodes": [
+      "4과06-01"
+    ],
+    "verifiedCodes": [
+      "4과06-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-18",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "지구와 바다",
+    "title": "바닷물과 바닷가를 살펴요",
+    "standardCodes": [
+      "4과06-02"
+    ],
+    "verifiedCodes": [
+      "4과06-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-19",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "지구와 바다",
+    "title": "밀물·썰물과 갯벌",
+    "standardCodes": [
+      "4과06-03"
+    ],
+    "verifiedCodes": [
+      "4과06-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-20",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "소리의 성질",
+    "title": "소리는 떨림에서 나와요",
+    "standardCodes": [
+      "4과07-01"
+    ],
+    "verifiedCodes": [
+      "4과07-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-21",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "소리의 성질",
+    "title": "큰 소리와 높은 소리는 달라요",
+    "standardCodes": [
+      "4과07-02"
+    ],
+    "verifiedCodes": [
+      "4과07-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-22",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "소리의 성질",
+    "title": "소리가 전해지는 길과 소음",
+    "standardCodes": [
+      "4과07-03"
+    ],
+    "verifiedCodes": [
+      "4과07-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-23",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "감염병과 건강한 생활",
+    "title": "감염병의 사례와 영향",
+    "standardCodes": [
+      "4과08-01"
+    ],
+    "verifiedCodes": [
+      "4과08-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-24",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "감염병과 건강한 생활",
+    "title": "감염되는 길과 생활 습관",
+    "standardCodes": [
+      "4과08-02"
+    ],
+    "verifiedCodes": [
+      "4과08-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "science-25",
+    "subject": "과학",
+    "semester": "2",
+    "unit": "감염병과 건강한 생활",
+    "title": "건강 수칙을 함께 실천해요",
+    "standardCodes": [
+      "4과08-03"
+    ],
+    "verifiedCodes": [
+      "4과08-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 2학기 공개 교과서 구성 참고. 성취기준은 3~4학년군 기준이며 학교·출판사에 따라 순서가 달라질 수 있습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 과학과 교육과정 (NCIC 공식 PDF)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 개정 과학 3-2 공개 목차",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=science3_2",
+        "kind": "textbook"
+      },
+      {
+        "title": "미래엔 2022 개정 초등 과학 교과서·차례",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=11",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-01",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어 첫걸음",
+    "title": "알파벳, 크고 작은 글자",
+    "standardCodes": [
+      "4영01-01",
+      "4영01-02",
+      "4영02-02"
+    ],
+    "verifiedCodes": [
+      "4영01-01",
+      "4영01-02",
+      "4영02-02"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-02",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어 첫걸음",
+    "title": "글자 소리와 낱말 연결하기",
+    "standardCodes": [
+      "4영01-01",
+      "4영01-04",
+      "4영02-03"
+    ],
+    "verifiedCodes": [
+      "4영01-01",
+      "4영01-04",
+      "4영02-03"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-03",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "안녕! 내 이름은",
+    "standardCodes": [
+      "4영01-06",
+      "4영02-05",
+      "4영02-10",
+      "4영01-03",
+      "4영02-01"
+    ],
+    "verifiedCodes": [
+      "4영01-06",
+      "4영02-05",
+      "4영02-10",
+      "4영01-03",
+      "4영02-01"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-04",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "이것은 무엇일까?",
+    "standardCodes": [
+      "4영01-05",
+      "4영02-04",
+      "4영02-08"
+    ],
+    "verifiedCodes": [
+      "4영01-05",
+      "4영02-04",
+      "4영02-08"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-05",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "교실에서 듣는 부탁",
+    "standardCodes": [
+      "4영01-05",
+      "4영02-06"
+    ],
+    "verifiedCodes": [
+      "4영01-05",
+      "4영02-06"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-06",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "좋아하는 것을 말해요",
+    "standardCodes": [
+      "4영01-06",
+      "4영02-08",
+      "4영02-10"
+    ],
+    "verifiedCodes": [
+      "4영01-06",
+      "4영02-08",
+      "4영02-10"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-07",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "몇 개일까요?",
+    "standardCodes": [
+      "4영01-05",
+      "4영02-08"
+    ],
+    "verifiedCodes": [
+      "4영01-05",
+      "4영02-08"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-08",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "무슨 색일까?",
+    "standardCodes": [
+      "4영01-05",
+      "4영02-04",
+      "4영02-08"
+    ],
+    "verifiedCodes": [
+      "4영01-05",
+      "4영02-04",
+      "4영02-08"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-09",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "내가 할 수 있는 일",
+    "standardCodes": [
+      "4영01-06",
+      "4영02-05",
+      "4영02-08"
+    ],
+    "verifiedCodes": [
+      "4영01-06",
+      "4영02-05",
+      "4영02-08"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-10",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "가지고 있나요?",
+    "standardCodes": [
+      "4영01-06",
+      "4영02-08"
+    ],
+    "verifiedCodes": [
+      "4영01-06",
+      "4영02-08"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-11",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "소중한 사람 소개하기",
+    "standardCodes": [
+      "4영01-06",
+      "4영02-05"
+    ],
+    "verifiedCodes": [
+      "4영01-06",
+      "4영02-05"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-12",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "안전을 위한 한마디",
+    "standardCodes": [
+      "4영01-05",
+      "4영02-06"
+    ],
+    "verifiedCodes": [
+      "4영01-05",
+      "4영02-06"
+    ],
+    "assignmentNote": "아이스크림 3학년 공식 목차의 안전 행동 표현을 보충 주제로 포함했습니다. 출판사별 다루는 시기가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-13",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "몇 살이니?",
+    "standardCodes": [
+      "4영01-06",
+      "4영02-08",
+      "4영02-10"
+    ],
+    "verifiedCodes": [
+      "4영01-06",
+      "4영02-08",
+      "4영02-10"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-14",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "생활 속 영어",
+    "title": "오늘 날씨는 어때?",
+    "standardCodes": [
+      "4영01-05",
+      "4영02-08"
+    ],
+    "verifiedCodes": [
+      "4영01-05",
+      "4영02-08"
+    ],
+    "assignmentNote": "공개된 아이스크림·YBM 2022 개정 영어 3학년 목차의 공통 의사소통 주제를 중심으로 재구성했습니다. 출판사별 단원 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-15",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어로 마음 나누기",
+    "title": "지금 내 기분은",
+    "standardCodes": [
+      "4영01-05",
+      "4영02-07",
+      "4영02-10"
+    ],
+    "verifiedCodes": [
+      "4영01-05",
+      "4영02-07",
+      "4영02-10"
+    ],
+    "assignmentNote": "3~4학년군 영어과 성취기준의 감정 표현을 연간 보충 학습으로 구성했습니다. 특정 출판사 3학년 단원 배정을 확정한 자료는 아닙니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "english-16",
+    "subject": "영어",
+    "semester": "year",
+    "unit": "영어로 마음 나누기",
+    "title": "짧은 이야기 듣고 마음 나누기",
+    "standardCodes": [
+      "4영01-07",
+      "4영01-09",
+      "4영01-10",
+      "4영02-09"
+    ],
+    "verifiedCodes": [
+      "4영01-07",
+      "4영01-09",
+      "4영01-10",
+      "4영02-09"
+    ],
+    "assignmentNote": "공식 교육과정의 이야기 감상·매체 표현 기준을 연간 통합 복습으로 구성한 창작 자료입니다. 교과서의 이야기를 옮긴 것이 아닙니다.",
+    "sources": [
+      {
+        "title": "2022 개정 영어과 교육과정 (국가교육위원회 고시 제2024-3호)",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10004085&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 영어 3 공식 교과서 목차",
+        "url": "https://download.i-scream.co.kr/textbook/introduce/strength/english_textbook_3_01.png",
+        "kind": "textbook"
+      },
+      {
+        "title": "YBM 영어 3(김혜리) 공식 교과서 목차",
+        "url": "https://www.ybmcloud.com/prcenter/book/ele/book01/character1_1.png",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-01",
+    "subject": "도덕",
+    "semester": "1",
+    "unit": "나와 너, 우리 함께",
+    "title": "내 마음에도 이름이 있어요",
+    "standardCodes": [
+      "4도01-01"
+    ],
+    "verifiedCodes": [
+      "4도01-01"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-02",
+    "subject": "도덕",
+    "semester": "1",
+    "unit": "나와 너, 우리 함께",
+    "title": "친구 마음을 먼저 물어봐요",
+    "standardCodes": [
+      "4도02-02",
+      "4도02-03"
+    ],
+    "verifiedCodes": [
+      "4도02-02",
+      "4도02-03"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-03",
+    "subject": "도덕",
+    "semester": "1",
+    "unit": "인내하며 최선을 다하는 생활",
+    "title": "작게 나누면 끝까지 할 수 있어요",
+    "standardCodes": [
+      "4도01-03"
+    ],
+    "verifiedCodes": [
+      "4도01-03"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-04",
+    "subject": "도덕",
+    "semester": "1",
+    "unit": "사랑이 가득한 우리 집",
+    "title": "가족의 수고를 알아봐요",
+    "standardCodes": [
+      "4도02-01"
+    ],
+    "verifiedCodes": [
+      "4도02-01"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-05",
+    "subject": "도덕",
+    "semester": "1",
+    "unit": "우리가 만드는 도덕 수업 1",
+    "title": "서로 도우며 함께 자라요",
+    "standardCodes": [
+      "4도02-02",
+      "4도01-04"
+    ],
+    "verifiedCodes": [
+      "4도02-02",
+      "4도01-04"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-06",
+    "subject": "도덕",
+    "semester": "2",
+    "unit": "아껴 쓰는 우리",
+    "title": "필요한 만큼 소중하게 써요",
+    "standardCodes": [
+      "4도04-02"
+    ],
+    "verifiedCodes": [
+      "4도04-02"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-07",
+    "subject": "도덕",
+    "semester": "2",
+    "unit": "함께 지키는 행복한 세상",
+    "title": "규칙에는 이유가 있어요",
+    "standardCodes": [
+      "4도01-04",
+      "4도03-01"
+    ],
+    "verifiedCodes": [
+      "4도01-04",
+      "4도03-01"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-08",
+    "subject": "도덕",
+    "semester": "2",
+    "unit": "함께 지키는 행복한 세상",
+    "title": "화면 너머에도 친구가 있어요",
+    "standardCodes": [
+      "4도03-02"
+    ],
+    "verifiedCodes": [
+      "4도03-02"
+    ],
+    "assignmentNote": "3학년 공동생활 규칙을 온라인 생활로 확장한 보충 주제입니다. 별도의 3학년 교과서 공통 단원으로 단정하지 않습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-09",
+    "subject": "도덕",
+    "semester": "2",
+    "unit": "생명을 존중하는 우리",
+    "title": "작은 생명도 소중해요",
+    "standardCodes": [
+      "4도04-01"
+    ],
+    "verifiedCodes": [
+      "4도04-01"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "ethics-10",
+    "subject": "도덕",
+    "semester": "2",
+    "unit": "우리가 만드는 도덕 수업 2",
+    "title": "우리 모두를 위한 작은 실천",
+    "standardCodes": [
+      "4도04-02"
+    ],
+    "verifiedCodes": [
+      "4도04-02"
+    ],
+    "assignmentNote": "국정 3학년 공개 단원을 학습 목표별로 재구성했습니다.",
+    "sources": [
+      {
+        "title": "2022 개정 도덕과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "2022 개정 국정 도덕 3 · 비바샘 공개 단원 목록",
+        "url": "https://v.vivasam.com/educourse/index.do?textbookCd=106332",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-01",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "운동",
+    "title": "내 몸의 힘을 알아봐요",
+    "standardCodes": [
+      "4체01-01",
+      "4체01-02",
+      "4체01-05"
+    ],
+    "verifiedCodes": [
+      "4체01-01",
+      "4체01-02",
+      "4체01-05"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-02",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "운동",
+    "title": "운동 전후에는 이렇게 해요",
+    "standardCodes": [
+      "4체01-02",
+      "4체01-05"
+    ],
+    "verifiedCodes": [
+      "4체01-02",
+      "4체01-05"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-03",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "운동",
+    "title": "건강한 하루를 설계해요",
+    "standardCodes": [
+      "4체01-03",
+      "4체01-04",
+      "4체01-06"
+    ],
+    "verifiedCodes": [
+      "4체01-03",
+      "4체01-04",
+      "4체01-06"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-04",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "스포츠",
+    "title": "앞으로, 옆으로, 천천히 움직여요",
+    "standardCodes": [
+      "4체02-02",
+      "4체02-03"
+    ],
+    "verifiedCodes": [
+      "4체02-02",
+      "4체02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-05",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "스포츠",
+    "title": "제자리에서도 몸은 움직여요",
+    "standardCodes": [
+      "4체02-02",
+      "4체02-03"
+    ],
+    "verifiedCodes": [
+      "4체02-02",
+      "4체02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-06",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "스포츠",
+    "title": "공을 굴리고 받아요",
+    "standardCodes": [
+      "4체02-02",
+      "4체02-03"
+    ],
+    "verifiedCodes": [
+      "4체02-02",
+      "4체02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-07",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "스포츠",
+    "title": "움직임을 이어서 작은 게임을 해요",
+    "standardCodes": [
+      "4체02-04",
+      "4체02-08",
+      "4체02-09"
+    ],
+    "verifiedCodes": [
+      "4체02-04",
+      "4체02-08",
+      "4체02-09"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-08",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "표현",
+    "title": "몸으로 크기와 빠르기를 그려요",
+    "standardCodes": [
+      "4체03-01",
+      "4체03-02"
+    ],
+    "verifiedCodes": [
+      "4체03-01",
+      "4체03-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-09",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "표현",
+    "title": "내 마음과 자연을 몸으로 말해요",
+    "standardCodes": [
+      "4체03-03",
+      "4체03-04",
+      "4체03-07"
+    ],
+    "verifiedCodes": [
+      "4체03-03",
+      "4체03-04",
+      "4체03-07"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "pe-10",
+    "subject": "체육",
+    "semester": "year",
+    "unit": "표현",
+    "title": "리듬에 맞춰 함께 표현해요",
+    "standardCodes": [
+      "4체03-05"
+    ],
+    "verifiedCodes": [
+      "4체03-05"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 체육과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 체육 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=physicaledu3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 체육 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/100",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-01",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "노래와 연주",
+    "title": "편안한 자세로 소리를 내요",
+    "standardCodes": [
+      "4음01-01"
+    ],
+    "verifiedCodes": [
+      "4음01-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-02",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "음악 요소",
+    "title": "콩콩, 일정한 박을 느껴요",
+    "standardCodes": [
+      "4음01-02",
+      "4음02-01"
+    ],
+    "verifiedCodes": [
+      "4음01-02",
+      "4음02-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-03",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "음악 요소",
+    "title": "긴 소리, 짧은 소리로 놀아요",
+    "standardCodes": [
+      "4음01-02",
+      "4음03-03"
+    ],
+    "verifiedCodes": [
+      "4음01-02",
+      "4음03-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-04",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "음악 요소",
+    "title": "높낮이가 있는 가락",
+    "standardCodes": [
+      "4음01-02",
+      "4음02-01"
+    ],
+    "verifiedCodes": [
+      "4음01-02",
+      "4음02-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-05",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "음악 요소",
+    "title": "빠르기와 셈여림이 바뀌면",
+    "standardCodes": [
+      "4음01-02",
+      "4음02-01"
+    ],
+    "verifiedCodes": [
+      "4음01-02",
+      "4음02-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-06",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "악기 연주",
+    "title": "리코더와 첫인사를 해요",
+    "standardCodes": [
+      "4음01-01"
+    ],
+    "verifiedCodes": [
+      "4음01-01"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-07",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "악기 연주",
+    "title": "리듬 악기로 함께 맞춰요",
+    "standardCodes": [
+      "4음01-01",
+      "4음01-02"
+    ],
+    "verifiedCodes": [
+      "4음01-01",
+      "4음01-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-08",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "국악과 놀이",
+    "title": "장단과 말의 리듬을 느껴요",
+    "standardCodes": [
+      "4음01-02",
+      "4음01-03",
+      "4음02-02"
+    ],
+    "verifiedCodes": [
+      "4음01-02",
+      "4음01-03",
+      "4음02-02"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-09",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "노래와 놀이",
+    "title": "메기고 받으며 주고받아요",
+    "standardCodes": [
+      "4음01-03"
+    ],
+    "verifiedCodes": [
+      "4음01-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-10",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "감상",
+    "title": "귀로 찾는 음악의 표정",
+    "standardCodes": [
+      "4음02-01",
+      "4음02-02",
+      "4음02-03",
+      "4음02-04"
+    ],
+    "verifiedCodes": [
+      "4음02-01",
+      "4음02-02",
+      "4음02-03",
+      "4음02-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "music-11",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "국악 감상",
+    "title": "우리 동네 음악을 찾아요",
+    "standardCodes": [
+      "4음02-05"
+    ],
+    "verifiedCodes": [
+      "4음02-05"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      },
+      {
+        "title": "국립무형유산원 · 국가무형유산 강릉농악 공식 기록 안내",
+        "url": "https://iha.go.kr/service/search_all_item_view.nihc?content_type_=GT01000001&contentid=10342&filetypeid=0&itemid=323&media_type=text",
+        "kind": "official"
+      }
+    ]
+  },
+  {
+    "id": "music-12",
+    "subject": "음악",
+    "semester": "year",
+    "unit": "창작과 나눔",
+    "title": "생활 소리로 작은 음악회",
+    "standardCodes": [
+      "4음03-01",
+      "4음03-02",
+      "4음03-03",
+      "4음03-04",
+      "4음01-04"
+    ],
+    "verifiedCodes": [
+      "4음03-01",
+      "4음03-02",
+      "4음03-03",
+      "4음03-04",
+      "4음01-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 음악과 교육과정 · 국가교육위원회 고시 제2024-3호 일부개정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2024&seq=10003999&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 음악 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=music3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 음악 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/98",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-01",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "미적 체험",
+    "title": "눈과 손으로 발견하는 세상",
+    "standardCodes": [
+      "4미01-01",
+      "4미01-02",
+      "4미01-03"
+    ],
+    "verifiedCodes": [
+      "4미01-01",
+      "4미01-02",
+      "4미01-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-02",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "조형 요소",
+    "title": "선과 모양으로 이야기해요",
+    "standardCodes": [
+      "4미02-01",
+      "4미02-03"
+    ],
+    "verifiedCodes": [
+      "4미02-01",
+      "4미02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-03",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "조형 요소",
+    "title": "색을 만나면 느낌이 달라져요",
+    "standardCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "verifiedCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-04",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "관찰과 상상",
+    "title": "자세히 보고 나답게 그려요",
+    "standardCodes": [
+      "4미02-01",
+      "4미02-04"
+    ],
+    "verifiedCodes": [
+      "4미02-01",
+      "4미02-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-05",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "관찰과 상상",
+    "title": "상상 속 친구를 만들어요",
+    "standardCodes": [
+      "4미02-01",
+      "4미02-04"
+    ],
+    "verifiedCodes": [
+      "4미02-01",
+      "4미02-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-06",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "표현 재료",
+    "title": "물감과 붓으로 번지는 그림",
+    "standardCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "verifiedCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-07",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "표현 재료",
+    "title": "조물조물, 입체를 만들어요",
+    "standardCodes": [
+      "4미02-02",
+      "4미02-04"
+    ],
+    "verifiedCodes": [
+      "4미02-02",
+      "4미02-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-08",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "표현 재료",
+    "title": "먹빛으로 남기는 선",
+    "standardCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "verifiedCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-09",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "표현 방법",
+    "title": "찍고 반복하면 무늬가 돼요",
+    "standardCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "verifiedCodes": [
+      "4미02-02",
+      "4미02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-10",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "조형 요소",
+    "title": "까칠까칠, 질감을 담아요",
+    "standardCodes": [
+      "4미01-01",
+      "4미02-03"
+    ],
+    "verifiedCodes": [
+      "4미01-01",
+      "4미02-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-11",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "생활 속 미술",
+    "title": "생활을 돕는 디자인",
+    "standardCodes": [
+      "4미01-04",
+      "4미02-01",
+      "4미02-04"
+    ],
+    "verifiedCodes": [
+      "4미01-04",
+      "4미02-01",
+      "4미02-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-12",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "자연과 재활용",
+    "title": "다시 쓰는 미술, 자연과 친구",
+    "standardCodes": [
+      "4미02-02",
+      "4미02-04",
+      "4미02-05"
+    ],
+    "verifiedCodes": [
+      "4미02-02",
+      "4미02-04",
+      "4미02-05"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-13",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "감상",
+    "title": "작품에게 질문을 건네요",
+    "standardCodes": [
+      "4미03-01",
+      "4미03-02",
+      "4미03-04"
+    ],
+    "verifiedCodes": [
+      "4미03-01",
+      "4미03-02",
+      "4미03-04"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  },
+  {
+    "id": "art-14",
+    "subject": "미술",
+    "semester": "year",
+    "unit": "전시와 나눔",
+    "title": "우리의 작은 미술관",
+    "standardCodes": [
+      "4미02-04",
+      "4미03-02",
+      "4미03-03"
+    ],
+    "verifiedCodes": [
+      "4미02-04",
+      "4미03-02",
+      "4미03-03"
+    ],
+    "assignmentNote": "2022 개정 3학년 공개 목차의 공통 영역을 바탕으로 재구성했습니다. 출판사별 순서가 달라 연간 공통으로 표시합니다.",
+    "sources": [
+      {
+        "title": "2022 개정 미술과 교육과정 · NCIC 공식 PDF",
+        "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+        "kind": "official"
+      },
+      {
+        "title": "아이스크림 2022 미술 3 · 교과서 단원",
+        "url": "https://text.i-scream.co.kr/user/introduce/introduceDetail.do?revisionYear=2022&subject=art3",
+        "kind": "textbook"
+      },
+      {
+        "title": "비상 2022 미술 3·4 · 공개 목차",
+        "url": "https://text.vivasam.com/detail/99",
+        "kind": "textbook"
+      }
+    ]
+  }
+]

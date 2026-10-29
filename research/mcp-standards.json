@@ -1,0 +1,2312 @@
+{
+  "4국01-01": {
+    "code": "4국01-01",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "듣기·말하기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국01-02": {
+    "code": "4국01-02",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "듣기·말하기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국01-03": {
+    "code": "4국01-03",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "듣기·말하기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국01-04": {
+    "code": "4국01-04",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "듣기·말하기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국01-05": {
+    "code": "4국01-05",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "듣기·말하기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국01-06": {
+    "code": "4국01-06",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "듣기·말하기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국02-01": {
+    "code": "4국02-01",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "읽기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국02-02": {
+    "code": "4국02-02",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "읽기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국02-03": {
+    "code": "4국02-03",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "읽기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국02-04": {
+    "code": "4국02-04",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "읽기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국02-05": {
+    "code": "4국02-05",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "읽기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국02-06": {
+    "code": "4국02-06",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "읽기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국03-01": {
+    "code": "4국03-01",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "쓰기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국03-02": {
+    "code": "4국03-02",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "쓰기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국03-03": {
+    "code": "4국03-03",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "쓰기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국03-04": {
+    "code": "4국03-04",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "쓰기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국03-05": {
+    "code": "4국03-05",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "쓰기",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국04-01": {
+    "code": "4국04-01",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문법",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국04-02": {
+    "code": "4국04-02",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문법",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국04-03": {
+    "code": "4국04-03",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문법",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국04-04": {
+    "code": "4국04-04",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문법",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국04-05": {
+    "code": "4국04-05",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문법",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국05-01": {
+    "code": "4국05-01",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문학",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국05-02": {
+    "code": "4국05-02",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문학",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국05-03": {
+    "code": "4국05-03",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문학",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국05-04": {
+    "code": "4국05-04",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문학",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국05-05": {
+    "code": "4국05-05",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "문학",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국06-01": {
+    "code": "4국06-01",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "매체",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국06-02": {
+    "code": "4국06-02",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "매체",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4국06-03": {
+    "code": "4국06-03",
+    "subject": "국어",
+    "gradeBand": "3-4",
+    "domain": "매체",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 5] 국어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-01": {
+    "code": "4수01-01",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "다섯 자리 이상의 수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-02": {
+    "code": "4수01-02",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "다섯 자리 이상의 수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-03": {
+    "code": "4수01-03",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "세 자리 수의 덧셈과 뺄셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-04": {
+    "code": "4수01-04",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "세 자리 수 범위의 곱셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-05": {
+    "code": "4수01-05",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "세 자리 수 범위의 나눗셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-06": {
+    "code": "4수01-06",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "세 자리 수 범위의 나눗셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-07": {
+    "code": "4수01-07",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "세 자리 수 범위의 나눗셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-08": {
+    "code": "4수01-08",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "자연수의 어림셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-09": {
+    "code": "4수01-09",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "분수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-10": {
+    "code": "4수01-10",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "분수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-11": {
+    "code": "4수01-11",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "분수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-12": {
+    "code": "4수01-12",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "소수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-13": {
+    "code": "4수01-13",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "소수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-14": {
+    "code": "4수01-14",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "소수",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-15": {
+    "code": "4수01-15",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "분수의 덧셈과 뺄셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수01-16": {
+    "code": "4수01-16",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "수와 연산",
+    "module": "소수의 덧셈과 뺄셈",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수02-01": {
+    "code": "4수02-01",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "변화와 관계",
+    "module": "규칙을 수나 식으로 나타내기",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수02-02": {
+    "code": "4수02-02",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "변화와 관계",
+    "module": "규칙을 수나 식으로 나타내기",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수02-03": {
+    "code": "4수02-03",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "변화와 관계",
+    "module": "등호와 동치 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-01": {
+    "code": "4수03-01",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "도형의 기초",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-02": {
+    "code": "4수03-02",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "도형의 기초",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-03": {
+    "code": "4수03-03",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "도형의 기초",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-04": {
+    "code": "4수03-04",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "평면도형의 이동",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-05": {
+    "code": "4수03-05",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "평면도형의 이동",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-06": {
+    "code": "4수03-06",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "원의 구성 요소",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-07": {
+    "code": "4수03-07",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "원의 구성 요소",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-08": {
+    "code": "4수03-08",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "여러 가지 삼각형",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-09": {
+    "code": "4수03-09",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "여러 가지 삼각형",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-10": {
+    "code": "4수03-10",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "여러 가지 사각형",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-11": {
+    "code": "4수03-11",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "다각형",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-12": {
+    "code": "4수03-12",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "다각형",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-13": {
+    "code": "4수03-13",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "시각과 시간",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-14": {
+    "code": "4수03-14",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "시각과 시간",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-15": {
+    "code": "4수03-15",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "길이",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-16": {
+    "code": "4수03-16",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "길이",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-17": {
+    "code": "4수03-17",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "들이",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-18": {
+    "code": "4수03-18",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "들이",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-19": {
+    "code": "4수03-19",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "들이",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-20": {
+    "code": "4수03-20",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "무게",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-21": {
+    "code": "4수03-21",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "무게",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-22": {
+    "code": "4수03-22",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "무게",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-23": {
+    "code": "4수03-23",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "무게",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-24": {
+    "code": "4수03-24",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "각도",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수03-25": {
+    "code": "4수03-25",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "도형과 측정",
+    "module": "각도",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수04-01": {
+    "code": "4수04-01",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "자료와 가능성",
+    "module": "자료의 수집과 정리",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수04-02": {
+    "code": "4수04-02",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "자료와 가능성",
+    "module": "자료의 수집과 정리",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4수04-03": {
+    "code": "4수04-03",
+    "subject": "수학",
+    "gradeBand": "3-4",
+    "domain": "자료와 가능성",
+    "module": "자료의 수집과 정리",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책8] 수학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과01-01": {
+    "code": "4과01-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과01-02": {
+    "code": "4과01-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과01-03": {
+    "code": "4과01-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과01-04": {
+    "code": "4과01-04",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과02-01": {
+    "code": "4과02-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과02-02": {
+    "code": "4과02-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과02-03": {
+    "code": "4과02-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과03-01": {
+    "code": "4과03-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과03-02": {
+    "code": "4과03-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과03-03": {
+    "code": "4과03-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과04-01": {
+    "code": "4과04-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과04-02": {
+    "code": "4과04-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과04-03": {
+    "code": "4과04-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과05-01": {
+    "code": "4과05-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과05-02": {
+    "code": "4과05-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과05-03": {
+    "code": "4과05-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과06-01": {
+    "code": "4과06-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과06-02": {
+    "code": "4과06-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과06-03": {
+    "code": "4과06-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과07-01": {
+    "code": "4과07-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과07-02": {
+    "code": "4과07-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과07-03": {
+    "code": "4과07-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과08-01": {
+    "code": "4과08-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "과학과 사회",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과08-02": {
+    "code": "4과08-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "과학과 사회",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과08-03": {
+    "code": "4과08-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "과학과 사회",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과09-01": {
+    "code": "4과09-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과09-02": {
+    "code": "4과09-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과09-03": {
+    "code": "4과09-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "운동과 에너지",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과10-01": {
+    "code": "4과10-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과10-02": {
+    "code": "4과10-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과10-03": {
+    "code": "4과10-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과11-01": {
+    "code": "4과11-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과11-02": {
+    "code": "4과11-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과11-03": {
+    "code": "4과11-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과11-04": {
+    "code": "4과11-04",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과12-01": {
+    "code": "4과12-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과12-02": {
+    "code": "4과12-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과12-03": {
+    "code": "4과12-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과13-01": {
+    "code": "4과13-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과13-02": {
+    "code": "4과13-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과13-03": {
+    "code": "4과13-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "지구와 우주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과14-01": {
+    "code": "4과14-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과14-02": {
+    "code": "4과14-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과14-03": {
+    "code": "4과14-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "생명",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과15-01": {
+    "code": "4과15-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과15-02": {
+    "code": "4과15-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과15-03": {
+    "code": "4과15-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과15-04": {
+    "code": "4과15-04",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "물질",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과16-01": {
+    "code": "4과16-01",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "과학과 사회",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과16-02": {
+    "code": "4과16-02",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "과학과 사회",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4과16-03": {
+    "code": "4과16-03",
+    "subject": "과학",
+    "gradeBand": "3-4",
+    "domain": "과학과 사회",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책9] 과학과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사01-01": {
+    "code": "4사01-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "우리가 사는 곳",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사01-02": {
+    "code": "4사01-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "우리가 사는 곳",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사02-01": {
+    "code": "4사02-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "일상에서 만나는 과거",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사02-02": {
+    "code": "4사02-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "일상에서 만나는 과거",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사02-03": {
+    "code": "4사02-03",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "일상에서 만나는 과거",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사03-01": {
+    "code": "4사03-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "사회 변화와 다양한 문화",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사03-02": {
+    "code": "4사03-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "사회 변화와 다양한 문화",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사04-01": {
+    "code": "4사04-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "옛날과 오늘날의 생활 모습",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사04-02": {
+    "code": "4사04-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "옛날과 오늘날의 생활 모습",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사04-03": {
+    "code": "4사04-03",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "옛날과 오늘날의 생활 모습",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사05-01": {
+    "code": "4사05-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "지도로 만나는 우리 지역",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사05-02": {
+    "code": "4사05-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "지도로 만나는 우리 지역",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사06-01": {
+    "code": "4사06-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "우리 지역의 문화유산",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사06-02": {
+    "code": "4사06-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "우리 지역의 문화유산",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사07-01": {
+    "code": "4사07-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "경제활동과 지역 간 교류",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사07-02": {
+    "code": "4사07-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "경제활동과 지역 간 교류",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사08-01": {
+    "code": "4사08-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "민주주의와 자치",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사08-02": {
+    "code": "4사08-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "민주주의와 자치",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사09-01": {
+    "code": "4사09-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "지역문제를 해결하고 지역을 알리는 노력",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사09-02": {
+    "code": "4사09-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "지역문제를 해결하고 지역을 알리는 노력",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사10-01": {
+    "code": "4사10-01",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "다양한 환경과 삶의 모습",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4사10-02": {
+    "code": "4사10-02",
+    "subject": "사회",
+    "gradeBand": "3-4",
+    "domain": "다양한 환경과 삶의 모습",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 7] 사회과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-01": {
+    "code": "4영01-01",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-02": {
+    "code": "4영01-02",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-03": {
+    "code": "4영01-03",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-04": {
+    "code": "4영01-04",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-05": {
+    "code": "4영01-05",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-06": {
+    "code": "4영01-06",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-07": {
+    "code": "4영01-07",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-08": {
+    "code": "4영01-08",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-09": {
+    "code": "4영01-09",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영01-10": {
+    "code": "4영01-10",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-01": {
+    "code": "4영02-01",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-02": {
+    "code": "4영02-02",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-03": {
+    "code": "4영02-03",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-04": {
+    "code": "4영02-04",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-05": {
+    "code": "4영02-05",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-06": {
+    "code": "4영02-06",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-07": {
+    "code": "4영02-07",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-08": {
+    "code": "4영02-08",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-09": {
+    "code": "4영02-09",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4영02-10": {
+    "code": "4영02-10",
+    "subject": "영어",
+    "gradeBand": "3-4",
+    "domain": null,
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 14] 영어과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도01-01": {
+    "code": "4도01-01",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "자신과의 관계",
+    "module": "자신과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도01-02": {
+    "code": "4도01-02",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "자신과의 관계",
+    "module": "자신과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도01-03": {
+    "code": "4도01-03",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "자신과의 관계",
+    "module": "자신과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도01-04": {
+    "code": "4도01-04",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "자신과의 관계",
+    "module": "자신과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도02-01": {
+    "code": "4도02-01",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "타인과의 관계",
+    "module": "타인과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도02-02": {
+    "code": "4도02-02",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "타인과의 관계",
+    "module": "타인과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도02-03": {
+    "code": "4도02-03",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "타인과의 관계",
+    "module": "타인과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도03-01": {
+    "code": "4도03-01",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "사회·공동체와의 관계",
+    "module": "사회·공동체와의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도03-02": {
+    "code": "4도03-02",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "사회·공동체와의 관계",
+    "module": "사회·공동체와의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도03-03": {
+    "code": "4도03-03",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "사회·공동체와의 관계",
+    "module": "사회·공동체와의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도04-01": {
+    "code": "4도04-01",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "자연과의 관계",
+    "module": "자연과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4도04-02": {
+    "code": "4도04-02",
+    "subject": "도덕",
+    "gradeBand": "3-4",
+    "domain": "자연과의 관계",
+    "module": "자연과의 관계",
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책6] 도덕과 교육과정.pdf",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미01-01": {
+    "code": "4미01-01",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "미적 체험",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미01-02": {
+    "code": "4미01-02",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "미적 체험",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미01-03": {
+    "code": "4미01-03",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "미적 체험",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미01-04": {
+    "code": "4미01-04",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "미적 체험",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미02-01": {
+    "code": "4미02-01",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미02-02": {
+    "code": "4미02-02",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미02-03": {
+    "code": "4미02-03",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미02-04": {
+    "code": "4미02-04",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미02-05": {
+    "code": "4미02-05",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미03-01": {
+    "code": "4미03-01",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미03-02": {
+    "code": "4미03-02",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미03-03": {
+    "code": "4미03-03",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4미03-04": {
+    "code": "4미03-04",
+    "subject": "미술",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 13] 미술과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음01-01": {
+    "code": "4음01-01",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "연주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음01-02": {
+    "code": "4음01-02",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "연주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음01-03": {
+    "code": "4음01-03",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "연주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음01-04": {
+    "code": "4음01-04",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "연주",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음02-01": {
+    "code": "4음02-01",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음02-02": {
+    "code": "4음02-02",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음02-03": {
+    "code": "4음02-03",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음02-04": {
+    "code": "4음02-04",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음02-05": {
+    "code": "4음02-05",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "감상",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음03-01": {
+    "code": "4음03-01",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "창작",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음03-02": {
+    "code": "4음03-02",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "창작",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음03-03": {
+    "code": "4음03-03",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "창작",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4음03-04": {
+    "code": "4음03-04",
+    "subject": "음악",
+    "gradeBand": "3-4",
+    "domain": "창작",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 12] 음악과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체01-01": {
+    "code": "4체01-01",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "운동",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체01-02": {
+    "code": "4체01-02",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "운동",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체01-03": {
+    "code": "4체01-03",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "운동",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체01-04": {
+    "code": "4체01-04",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "운동",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체01-05": {
+    "code": "4체01-05",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "운동",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체01-06": {
+    "code": "4체01-06",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "운동",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-01": {
+    "code": "4체02-01",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-02": {
+    "code": "4체02-02",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-03": {
+    "code": "4체02-03",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-04": {
+    "code": "4체02-04",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-05": {
+    "code": "4체02-05",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-06": {
+    "code": "4체02-06",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-07": {
+    "code": "4체02-07",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-08": {
+    "code": "4체02-08",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-09": {
+    "code": "4체02-09",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체02-10": {
+    "code": "4체02-10",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "스포츠",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체03-01": {
+    "code": "4체03-01",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체03-02": {
+    "code": "4체03-02",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체03-03": {
+    "code": "4체03-03",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체03-04": {
+    "code": "4체03-04",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체03-05": {
+    "code": "4체03-05",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체03-06": {
+    "code": "4체03-06",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  },
+  "4체03-07": {
+    "code": "4체03-07",
+    "subject": "체육",
+    "gradeBand": "3-4",
+    "domain": "표현",
+    "module": null,
+    "sourceURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+    "sourceName": "교육부 고시 제2022-33호 [별책 11] 체육과 교육과정",
+    "origin": "korean-elementary-learning-map-mcp@0.5.1"
+  }
+}
