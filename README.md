@@ -5,14 +5,15 @@
 
 **[웹사이트 열기](https://yangyeontae-blip.github.io/learning-garden-grade3/)** · 9개 교과 · 157개 학습자료 · 471문항 · 공식 PDF와 대조한 연결 성취기준 164개
 
-## 대학원 과제 · 패들릿 제출
+## 단원 설계 자료
 
-1. **Public 저장소:** https://github.com/yangyeontae-blip/learning-garden-grade3
-2. **배포 페이지:** https://yangyeontae-blip.github.io/learning-garden-grade3/#assignment
+**[세 자리 수의 덧셈과 뺄셈 — 지도·평가 자료](https://yangyeontae-blip.github.io/learning-garden-grade3/#assignment)**
 
-대표 교과·단원은 **초등 3학년 1학기 수학 · 덧셈과 뺄셈**입니다. [과제 안내](https://yangyeontae-blip.github.io/learning-garden-grade3/#assignment)에서 실제 MCP 조회, 공식 원문 검증, 문항 연결과 자체 성취수준을 확인할 수 있습니다. MCP는 공식 성취기준과 세부 주제·발문을 제공하며, 화면의 도움 필요·도달·확장은 자료용 자체 확인 기준입니다. 국가 공식 성취수준표로 표시하지 않습니다.
+자릿값의 교환을 중심으로 설계 의도, 단계별 수 모형, 지도 흐름, 예상 오류와 문항별 관찰 기준을 제공합니다. 학습자료는 덧셈과 뺄셈 각 3문항으로 구성되며, 교사 지도 문서와 학생 학습 화면을 연결했습니다.
 
-[실제 MCP 입력·응답 기록](dist/data/mcp-assignment-trace.json) · [과제 설계·확인한 문제점](research/assignment.md) · [마법책 이미지 프롬프트](research/asset-prompts.md)
+기존 `#assignment` 주소는 유지합니다. 성취수준은 자료용 관찰 기준이며 공식 성취수준표로 표시하지 않습니다. 교육과정 조회에 MCP와 초안·웹 구현에 생성형 AI를 활용했으며, 실제 수업 효과를 측정했다는 주장은 하지 않습니다.
+
+[실제 MCP 조회 기록](dist/data/mcp-assignment-trace.json) · [단원 설계 검토서](research/assignment.md) · [이미지 제작 기록](research/asset-prompts.md)
 
 ## 사용하기
 
