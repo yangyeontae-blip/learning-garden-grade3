@@ -5,6 +5,15 @@
 
 **[웹사이트 열기](https://yangyeontae-blip.github.io/learning-garden-grade3/)** · 9개 교과 · 157개 학습자료 · 471문항 · 공식 PDF와 대조한 연결 성취기준 164개
 
+## 대학원 과제 · 패들릿 제출
+
+1. **Public 저장소:** https://github.com/yangyeontae-blip/learning-garden-grade3
+2. **배포 페이지:** https://yangyeontae-blip.github.io/learning-garden-grade3/#assignment
+
+대표 교과·단원은 **초등 3학년 1학기 수학 · 덧셈과 뺄셈**입니다. [과제 안내](https://yangyeontae-blip.github.io/learning-garden-grade3/#assignment)에서 실제 MCP 조회, 공식 원문 검증, 문항 연결과 자체 성취수준을 확인할 수 있습니다. MCP는 공식 성취기준과 세부 주제·발문을 제공하며, 화면의 도움 필요·도달·확장은 자료용 자체 확인 기준입니다. 국가 공식 성취수준표로 표시하지 않습니다.
+
+[실제 MCP 입력·응답 기록](dist/data/mcp-assignment-trace.json) · [과제 설계·확인한 문제점](research/assignment.md) · [마법책 이미지 프롬프트](research/asset-prompts.md)
+
 ## 사용하기
 
 홈에서 교과를 선택하고 1학기·2학기·연간 공통 또는 검색으로 주제를 찾습니다.

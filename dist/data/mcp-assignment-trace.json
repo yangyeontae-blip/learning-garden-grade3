@@ -1,0 +1,115 @@
+{
+  "recordedDate": "2026-10-29",
+  "mcpRepository": "https://github.com/taehyeonglim/korean-elementary-learning-map-mcp",
+  "serverName": "curriculum-kr",
+  "purpose": "대학원 MCP 활용 바이브코딩 과제: 3학년 수학 덧셈과 뺄셈",
+  "calls": [
+    {
+      "tool": "get_standard",
+      "input": {
+        "code": "4수01-03"
+      },
+      "result": {
+        "key": "kr-2022-elem-math:[4수01-03]",
+        "code": "[4수01-03]",
+        "subject": "Mathematics",
+        "subjectKorean": "수학",
+        "gradeBand": "3-4",
+        "domain": "Number & Operations",
+        "domainKorean": "수와 연산",
+        "domainOrder": 1,
+        "sequence": 3,
+        "module": "세 자리 수의 덧셈과 뺄셈",
+        "focus": "세 자리 수의 덧셈과 뺄셈 소주제의 수와 연산 성취기준 [4수01-03]",
+        "summary": "3-4학년군 수와 연산 영역의 '세 자리 수의 덧셈과 뺄셈' 소주제에 배치된 공식 성취기준 [4수01-03]이다. 표준 본문은 재수록하지 않고 코드, 위치, 분해 근거만 기록했다.",
+        "sourceTextIncluded": false,
+        "sourceRefs": [
+          "kr-ncic-math-pdf-2022"
+        ],
+        "verificationStatus": "official-source-checked",
+        "sourceBasis": "NCIC 2022 개정 초등학교 수학과 교육과정 PDF에서 코드, 학년군, 영역, 주제 위치를 대조했다. 표준 본문은 저작권 정책상 재수록하지 않는다.",
+        "evidence": [
+          {
+            "sourceId": "kr-ncic-math-pdf-2022",
+            "locator": "pdftotext lines 651-651",
+            "evidenceType": "official-achievement-standard-code",
+            "basis": "[4수01-03] appears in the 초등학교 3-4학년 수와 연산 section under '세 자리 수의 덧셈과 뺄셈'. Source text is not reproduced."
+          }
+        ],
+        "workstreamFile": "math.json",
+        "curriculumId": "kr-2022-elem-math",
+        "officialText": "세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다. 세 자리 수 범위의 곱셈",
+        "linkedTopics": [
+          {
+            "id": "kr.mt.math.number-operations.g3-4.s4-01-03.application",
+            "titleKorean": "[4수01-03] 세 자리 수의 덧셈과 뺄셈 - 적용과 설명"
+          },
+          {
+            "id": "kr.mt.math.number-operations.g3-4.s4-01-03.concept",
+            "titleKorean": "[4수01-03] 세 자리 수의 덧셈과 뺄셈 - 개념 확인"
+          },
+          {
+            "id": "kr.mt.math.number-operations.g3-4.s4-01-03.representation",
+            "titleKorean": "[4수01-03] 세 자리 수의 덧셈과 뺄셈 - 표현과 연결"
+          }
+        ]
+      }
+    },
+    {
+      "tool": "get_topic",
+      "input": {
+        "topicId": "kr.mt.math.number-operations.g3-4.s4-01-03.concept"
+      },
+      "result": {
+        "id": "kr.mt.math.number-operations.g3-4.s4-01-03.concept",
+        "name": "[4수01-03] 세 자리 수의 덧셈과 뺄셈 - 개념 확인",
+        "title": "[4수01-03] 세 자리 수의 덧셈과 뺄셈 - 개념 확인",
+        "titleKorean": "[4수01-03] 세 자리 수의 덧셈과 뺄셈 - 개념 확인",
+        "titleEnglish": "[4수01-03] Number & Operations: Concept check",
+        "description": "공식 성취기준 [4수01-03]의 '세 자리 수의 덧셈과 뺄셈' 소주제에서 요구하는 핵심 개념, 조건, 예와 예가 아닌 경우를 구분한다.",
+        "summary": "공식 성취기준 [4수01-03]의 '세 자리 수의 덧셈과 뺄셈' 소주제에서 요구하는 핵심 개념, 조건, 예와 예가 아닌 경우를 구분한다.",
+        "evidence": [
+          "[4수01-03] 세 자리 수의 덧셈과 뺄셈 - 개념 확인을 이루는 핵심 요소 두 가지 이상을 찾아 자신의 말로 설명한다.",
+          "수와 연산 사례에서 [4수01-03] 세 자리 수의 덧셈과 뺄셈 - 개념 확인이 드러나는 장면을 선택하고 판단 근거를 제시한다."
+        ],
+        "assessmentPrompt": "'세 자리 수의 덧셈과 뺄셈'에 관한 짧은 상황을 제시하고, 학생이 공식 성취기준 [4수01-03]의 핵심 개념을 자신의 말과 간단한 예로 설명하게 하라.",
+        "type": "CONCEPTUAL",
+        "subject": "Mathematics",
+        "subjectKorean": "수학",
+        "domain": "Number & Operations",
+        "domainKorean": "수와 연산",
+        "gradeBand": "3-4",
+        "module": "세 자리 수의 덧셈과 뺄셈",
+        "focus": "세 자리 수의 덧셈과 뺄셈 소주제의 수와 연산 성취기준 [4수01-03]",
+        "standards": [
+          "kr-2022-elem-math:[4수01-03]"
+        ],
+        "verificationStatus": "official-source-checked",
+        "sourceTextIncluded": false,
+        "provenanceEvidence": [
+          {
+            "sourceId": "kr-ncic-math-pdf-2022",
+            "locator": "pdftotext lines 651-651",
+            "evidenceType": "source-to-topic-decomposition",
+            "basis": "Micro-topic decomposes [4수01-03] from 3-4 수와 연산 / 세 자리 수의 덧셈과 뺄셈; official source text is not reproduced."
+          }
+        ],
+        "workstreamFile": "math.json",
+        "sourceRefs": [
+          "kr-ncic-math-pdf-2022"
+        ],
+        "generationBasis": "kr-2022-elem-math:[4수01-03]에서 math.json workstream의 검토 가능한 주제·증거·평가 필드를 통합했다.",
+        "ageRangeStart": 8,
+        "ageRangeEnd": 10
+      }
+    }
+  ],
+  "correction": {
+    "field": "get_standard.officialText",
+    "issue": "성취기준 문장 뒤에 다음 항목 제목 '세 자리 수 범위의 곱셈'이 혼입됨",
+    "verifiedText": "세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다.",
+    "officialURL": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+    "pdfPage": 23
+  },
+  "achievementLevelPolicy": "MCP는 공식 성취기준 및 주제별 관찰 증거를 제공한다. 사이트의 도움 필요·도달·확장 수준은 이 학습자료를 위해 작성한 자체 확인 기준이며 국가 공식 성취수준표가 아니다."
+}

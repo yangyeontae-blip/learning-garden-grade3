@@ -1,4 +1,4 @@
-import {readFile} from 'node:fs/promises';
+import {readFile,access} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import {resolve,dirname} from 'node:path';
 import assert from 'node:assert/strict';
@@ -41,4 +41,9 @@ for(const subject of ['국어','수학','사회','과학'])for(const term of ['1
 const coverage=await read('dist/data/coverage.json');assert.equal(coverage.length,lessons.length);
 const heritage=lessons.find(l=>l.id==='music-11');
 assert.ok(heritage.verifiedStandards.find(v=>v.code.replace(/[\[\]]/g,'')==='4음02-05').text.includes('국가유산'),'2024 music curriculum terminology regression');
+for(const id of ['korean','math','social','science','english','ethics','pe','music','art'])await access(resolve(root,`dist/assets/books/${id}.webp`));
+const trace=await read('dist/data/mcp-assignment-trace.json');
+assert.equal(trace.calls.find(c=>c.tool==='get_standard').input.code,'4수01-03');
+assert.equal(trace.correction.verifiedText,standards['4수01-03'].verified.text,'Assignment correction must match the verified official source');
+for(const id of ['math-01','math-02'])assert.ok(lessons.find(l=>l.id===id).standardCodes.includes('4수01-03'),'Representative lesson must align with the declared standard');
 console.log(`PASS: ${lessons.length} lessons / ${lessons.length*3} questions / 9 subjects; ${verified} PDF verification links; schema, curriculum alignment, answers, sources, and coverage checked.`);
