@@ -1,0 +1,111 @@
+/* Garden theme: typography, subject colour, depth. Loaded last. */
+:root{
+ font-family:'Pretendard Variable',Pretendard,'Noto Sans KR',-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;
+ --paper:#f7f8f3;
+ --card-shadow:0 1px 2px #20392f0a,0 8px 24px -12px #20392f1f;
+ --card-shadow-hover:0 2px 4px #20392f0d,0 22px 44px -18px #20392f40;
+}
+body{background:
+ radial-gradient(900px 520px at 92% -8%,#ecf4dc 0,#ecf4dc00 62%),
+ radial-gradient(700px 420px at -10% 38%,#f6efe2 0,#f6efe200 60%),
+ var(--paper);
+ -webkit-font-smoothing:antialiased;letter-spacing:-.01em}
+h1,h2,h3{letter-spacing:-.025em}
+.site-header{background:#f7f8f3d9}
+
+/* Subject cards: each one carries its book's colour */
+.subject-card{
+ --deep:color-mix(in srgb,var(--accent) 62%,#1c2b22);
+ background:linear-gradient(140deg,color-mix(in srgb,var(--soft) 85%,#fff) 0%,#fff 58%);
+ border-color:color-mix(in srgb,var(--accent) 16%,#e6ebe1);
+ box-shadow:var(--card-shadow);
+}
+.subject-card:after{content:'';position:absolute;right:-60px;bottom:-70px;width:180px;height:180px;border-radius:50%;background:radial-gradient(circle,color-mix(in srgb,var(--soft) 90%,#fff) 0,transparent 70%);pointer-events:none}
+.subject-card:hover{border-color:color-mix(in srgb,var(--accent) 45%,#fff);box-shadow:var(--card-shadow-hover)}
+.subject-text h3{font-size:21px;font-weight:700;color:var(--deep)}
+.card-arrow{color:color-mix(in srgb,var(--accent) 70%,#fff)}
+.subject-meter{background:color-mix(in srgb,var(--soft) 80%,#e9ece4)}
+.subject-meter i{background:var(--accent)}
+
+/* Lesson cards */
+.lesson-card{
+ --deep:color-mix(in srgb,var(--accent) 62%,#1c2b22);
+ position:relative;overflow:hidden;box-shadow:var(--card-shadow);
+ border-color:#e5eae0;
+}
+.lesson-card:before{content:'';position:absolute;inset:0 0 auto;height:4px;background:linear-gradient(90deg,var(--accent),color-mix(in srgb,var(--accent) 40%,#fff));opacity:.85}
+.lesson-card:hover{border-color:color-mix(in srgb,var(--accent) 40%,#fff);box-shadow:var(--card-shadow-hover)}
+.lesson-card h3{color:var(--ink)}
+.lesson-card:hover h3{color:var(--deep)}
+.lesson-card-bottom b{color:var(--deep)}
+.lesson-card.is-done{background:linear-gradient(180deg,#fff 0,#fafdf5 100%)}
+.lesson-card-bottom .done-mark{color:var(--leaf)!important}
+
+/* Filters */
+.semester-tabs{background:#eceff0;background:color-mix(in srgb,#e6ece0 80%,#fff)}
+.chip{transition:background .2s,border-color .2s,color .2s}
+.chip:hover{border-color:#bccbb0;color:var(--forest)}
+.search-box{box-shadow:var(--card-shadow)}
+
+/* Lesson header: a tinted panel with the subject's magic book */
+.lesson-content{--deep:color-mix(in srgb,var(--accent) 60%,#1c2b22)}
+.lesson-hero{position:relative;overflow:hidden;margin-bottom:22px;padding:34px 210px 32px 36px;border-radius:28px;
+ background:linear-gradient(125deg,color-mix(in srgb,var(--soft) 92%,#fff) 0%,color-mix(in srgb,var(--soft) 45%,#fff) 55%,#fff 100%);
+ border:1px solid color-mix(in srgb,var(--accent) 20%,#fff);box-shadow:var(--card-shadow)}
+.lesson-hero:before{content:'';position:absolute;right:-40px;top:50%;width:300px;height:300px;transform:translateY(-50%);border-radius:50%;background:radial-gradient(circle,#ffffffd0 0,#fff0 68%)}
+.lesson-hero>:not(.lesson-hero-book){position:relative;z-index:1}
+.lesson-hero h1,.lesson-hero .lesson-goal{word-break:keep-all}
+.lesson-hero-book{z-index:1;position:absolute;right:34px;top:50%;width:150px;height:150px;transform:translateY(-50%) rotate(6deg);filter:drop-shadow(0 14px 12px #2a203026);animation:bookFloat 6s ease-in-out infinite}
+@keyframes bookFloat{50%{transform:translateY(calc(-50% - 7px)) rotate(4deg)}}
+.lesson-hero .subject-label{background:#ffffffb8;backdrop-filter:blur(4px)}
+.lesson-hero h1{color:var(--ink);font-size:38px;font-weight:750}
+.lesson-hero .lesson-goal{color:#4c5b50}
+.lesson-hero .lesson-meta span+span{border-left-color:color-mix(in srgb,var(--accent) 25%,#fff)}
+
+.lesson-block{box-shadow:var(--card-shadow);border-color:#e5eae0}
+.block-step{background:var(--soft);color:var(--deep);font-size:12px;width:32px;height:32px;border-radius:11px}
+.block-heading h2{font-size:22px}
+.example-box{background:color-mix(in srgb,var(--soft) 55%,#fff);border-color:color-mix(in srgb,var(--accent) 22%,#fff);position:relative;padding-left:28px}
+.example-box:before{content:'';position:absolute;left:0;top:20px;bottom:20px;width:3px;border-radius:0 3px 3px 0;background:var(--accent)}
+.example-label{color:var(--deep)}
+
+/* Questions as their own soft cards */
+.question,.question:first-of-type{border:1px solid #e8ece3;border-radius:22px;padding:26px 26px 22px;margin:0 0 16px;background:#fcfdfa;transition:border-color .3s,background .3s}
+.question.is-settled{border-color:#d5e4c3;background:#fbfdf6}
+.question-number{background:var(--soft);color:var(--deep);font-weight:700}
+.option{box-shadow:0 1px 1px #20392f08}
+.option:hover{border-color:color-mix(in srgb,var(--accent) 40%,#fff);background:color-mix(in srgb,var(--soft) 30%,#fff)}
+.question-footer{border-top:0;padding-top:6px}
+
+/* Sidebar */
+.aside-card{box-shadow:var(--card-shadow);border-color:#e5eae0}
+.progress-card h2{margin-bottom:16px}
+.progress-dots{display:flex;align-items:center;gap:0;margin-bottom:14px}
+.progress-dot{position:relative;display:grid;place-items:center;width:42px;height:42px;border-radius:50%;border:1.5px dashed color-mix(in srgb,var(--accent) 55%,#fff);background:#fff;color:color-mix(in srgb,var(--accent) 70%,#333);font-size:14px;transition:background .35s,border-color .35s,color .35s,transform .35s}
+.progress-dot+.progress-dot{margin-left:22px}
+.progress-dot+.progress-dot:before{content:'';position:absolute;right:100%;top:50%;width:22px;height:1.5px;background:#e3e8dc}
+.progress-dot.is-on{background:var(--forest);border:1.5px solid var(--forest);color:#fff;transform:scale(1.04)}
+.progress-dot.is-on b{font-size:0}
+.progress-dot.is-on b:after{content:'';display:block;width:7px;height:13px;border:solid #fff;border-width:0 2.2px 2.2px 0;transform:rotate(45deg) translate(-1px,-2px)}
+.progress-dot.is-on+.progress-dot.is-on:before{background:var(--forest)}
+.progress-text{font-size:14px;color:var(--muted);margin:0}
+.progress-text b{color:var(--forest);font-size:16px}
+.lesson-toc a b{color:var(--deep,#769356)}
+
+/* Closing band */
+.closing-note{background:linear-gradient(120deg,#244e3c 0,#2d5c45 60%,#3a6a4c 100%);box-shadow:0 24px 48px -24px #244e3c80}
+
+@media(max-width:780px){
+ .lesson-hero{padding:28px 130px 26px 24px;border-radius:24px}
+ .lesson-hero-book{width:104px;height:104px;right:16px}
+ .lesson-hero h1{font-size:28px}
+}
+@media(max-width:540px){
+ .lesson-hero{padding:24px 20px 22px}
+ .lesson-hero-book{top:16px;right:10px;width:70px;height:70px;transform:rotate(6deg);animation:none}
+ .lesson-hero h1{font-size:26px;padding-right:56px}
+ .question,.question:first-of-type{padding:20px 16px 18px;border-radius:18px}
+ .lesson-block{padding:24px 16px}
+}
+@media(prefers-reduced-motion:reduce){.lesson-hero-book{animation:none}}
+@media print{body{background:#fff}.lesson-hero-book,.progress-card{display:none}.lesson-hero{padding:0;border:0;background:none;box-shadow:none}}
