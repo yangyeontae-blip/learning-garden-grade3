@@ -1,4 +1,5 @@
 import {renderUnitGuide, handleGuideAction} from './unit-guide.js';
+import {shuffledOptions, isAutoGradable, gradeShort, readProgress, markComplete, clearProgress, isTeacherMode, setTeacherMode} from './practice.js';
 const subjects = [
   {id:'korean',name:'국어',en:'KOREAN',tag:'말과 글로 만나는 세상',soft:'#f3e9dc',accent:'#ac8054',icon:'book'},
   {id:'math',name:'수학',en:'MATHEMATICS',tag:'생각하는 힘이 쑥쑥',soft:'#e8edfa',accent:'#788bc3',icon:'math'},
@@ -19,7 +20,15 @@ const lessonTerm = l => termLabel(l.semester)+(l.supplement ? ' · 보충' : '')
 const safeURL = value => {try {const u = new URL(value); return ['https:','http:'].includes(u.protocol) ? escape(u.href) : '#sources';} catch {return '#sources';}};
 const link = (title,url) => `<a href="${safeURL(url)}" target="_blank" rel="noopener noreferrer">${escape(title)} <span aria-hidden="true">↗</span><span class="sr-only"> (새 창)</span></a>`;
 let lessons = [], standards = {}, manifest = {}, state = {subject:'all',semester:'all',search:'',limit:9};
-let toastTimer;
+let toastTimer, progress = readProgress(), attempts = {}, settled = new Set();
+const isDone = id => Boolean(progress[id]?.done);
+const doneCount = s => lessons.filter(l => l.subject === s.name && isDone(l.id)).length;
+const seal = () => `<svg class="seal" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="17.5" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="20" cy="20" r="14" fill="none" stroke="currentColor" stroke-width=".8" stroke-dasharray="1.6 2.2"/><path d="M20 29v-9m0 4.5c-5.6 0-6.6-3.6-6.2-7.3 4-.6 6.9 2 6.2 7.3Zm0-4.5c-.2-4.3 3.2-6.8 7-6.5 0 4-2.7 6.8-7 6.5Z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+function applyMode() {
+ const teacher = isTeacherMode();
+ document.body.classList.toggle('teacher-mode', teacher);
+ document.querySelectorAll('[data-teacher-toggle]').forEach(b => {b.textContent = teacher ? '학생 화면으로 보기' : '선생님 화면'; b.setAttribute('aria-pressed', teacher);});
+}
 
 function icon(name) {
  const paths = {
@@ -51,12 +60,12 @@ function renderHome() {
  document.title='배움정원 — 호기심이 자라는 3학년';
  main.innerHTML=`<div class="container">
   <section class="hero" aria-labelledby="hero-title">
-   <div class="hero-copy reveal"><p class="eyebrow">A LITTLE CURIOSITY, A BIG DISCOVERY</p><h1 id="hero-title">작은 호기심이,<br><em>큰 배움으로.</em></h1><p class="hero-description">알아가는 즐거움으로 채우는 나의 3학년.<br>쉬운 설명과 세 가지 문제로, 오늘의 배움을 시작해요.</p><div class="hero-actions"><button class="button button-primary" data-scroll="subjects">나의 배움 시작하기 <span class="arrow" aria-hidden="true">↗</span></button><a class="button-quiet" href="#sources">어떤 교육과정인가요? <span aria-hidden="true">↗</span></a></div><div class="hero-metrics"><span><strong>9</strong>개의 교과</span><span><strong>${lessons.length}</strong>개의 배움</span><span><strong>3</strong>문제씩 차근차근</span></div></div>
+   <div class="hero-copy reveal"><p class="eyebrow">A LITTLE CURIOSITY, A BIG DISCOVERY</p><h1 id="hero-title">작은 호기심이,<br><em>큰 배움으로.</em></h1><p class="hero-description">알아가는 즐거움으로 채우는 나의 3학년.<br>쉬운 설명과 세 가지 문제로, 오늘의 배움을 시작해요.</p><div class="hero-actions"><button class="button button-primary" data-scroll="subjects">나의 배움 시작하기 <span class="arrow" aria-hidden="true">↗</span></button><a class="button-quiet teacher-only" href="#sources">어떤 교육과정인가요? <span aria-hidden="true">↗</span></a></div><div class="hero-metrics"><span><strong>9</strong>개의 교과</span><span><strong>${lessons.length}</strong>개의 배움</span><span><strong>3</strong>문제씩 차근차근</span></div></div>
    <div class="hero-art reveal"><img src="./assets/garden.svg" width="600" height="520" alt="초록 책에서 자라는 새싹과 수학 블록, 웃는 해가 있는 배움정원" fetchpriority="high"><span class="art-caption">생각의 새싹을 틔워봐!</span></div>
   </section>
-  <div class="intro-strip"><div class="strip-icon">${icon('shield')}<span><strong>교육과정에 뿌리를 둔 배움.</strong> 2022 개정 성취기준과 연결했어요.</span></div><a href="#sources">근거 살펴보기 <span aria-hidden="true">↗</span></a></div>
-  <a class="assignment-spotlight" href="#assignment"><span class="assignment-seal">수학 수업</span><span><strong>받아올림과 받아내림, 자릿값으로 이해하기</strong><small>수 모형, 예상 오류, 문항별 평가 기준을 연결한 3학년 수학 단원 자료입니다.</small></span><span class="spotlight-action">단원 자료 보기 ↗</span></a>
-  <section id="subjects" style="scroll-margin-top:110px" aria-labelledby="subjects-title"><div class="section-heading"><div><p class="section-kicker">NINE WAYS TO GROW</p><h2 id="subjects-title">오늘은 무엇을 배워볼까?</h2></div><p>마음이 가는 과목부터, 가볍게.</p></div><div class="subjects-grid">${subjects.map(s=>`<a class="subject-card reveal" href="#subject=${s.id}" style="${styleOf(s)}"><span class="subject-icon">${bookIcon(s)}</span><span class="subject-text"><h3>${s.name}</h3><p>${s.tag}</p><small>${countOf(s)}개의 배움 · 3학년</small></span><span class="card-arrow" aria-hidden="true">↗</span></a>`).join('')}</div></section>
+  <div class="intro-strip teacher-only"><div class="strip-icon">${icon('shield')}<span><strong>교육과정에 뿌리를 둔 배움.</strong> 2022 개정 성취기준과 연결했어요.</span></div><a href="#sources">근거 살펴보기 <span aria-hidden="true">↗</span></a></div>
+  <a class="assignment-spotlight teacher-only" href="#assignment"><span class="assignment-seal">수학 수업</span><span><strong>받아올림과 받아내림, 자릿값으로 이해하기</strong><small>수 모형, 예상 오류, 문항별 평가 기준을 연결한 3학년 수학 단원 자료입니다.</small></span><span class="spotlight-action">단원 자료 보기 ↗</span></a>
+  <section id="subjects" style="scroll-margin-top:110px" aria-labelledby="subjects-title"><div class="section-heading"><div><p class="section-kicker">NINE WAYS TO GROW</p><h2 id="subjects-title">오늘은 무엇을 배워볼까?</h2></div><p>마음이 가는 과목부터, 가볍게.</p></div><div class="subjects-grid">${subjects.map(s=>`<a class="subject-card reveal" href="#subject=${s.id}" style="${styleOf(s)}"><span class="subject-icon">${bookIcon(s)}</span><span class="subject-text"><h3>${s.name}</h3><p>${s.tag}</p><small>${countOf(s)}개의 배움${doneCount(s)?` · <b class="done-count">${doneCount(s)}개 완료</b>`:' · 3학년'}</small>${doneCount(s)?`<span class="subject-meter" aria-hidden="true"><i style="width:${Math.round(doneCount(s)/countOf(s)*100)}%"></i></span>`:''}</span><span class="card-arrow" aria-hidden="true">↗</span></a>`).join('')}</div></section>
   <section class="browse-section" id="browse" aria-labelledby="browse-title"><div class="section-heading"><div><p class="section-kicker">YOUR LEARNING COLLECTION</p><h2 id="browse-title">차근차근, 배움 한 조각</h2></div><p>궁금한 주제를 찾아보세요.</p></div>${catalogControls(true)}<div id="catalog-results"></div></section>
   <section class="closing-note"><div><h2>빨리보다, 즐겁게 배우는 마음.</h2><p>모르는 건 괜찮아요. 읽고, 생각하고, 다시 도전해요.<br>작은 발견이 모여 나만의 정원이 될 거예요.</p></div><button class="button" data-scroll="subjects">다른 과목도 만나보기 <span class="arrow" aria-hidden="true">↗</span></button></section>
  </div>`;
@@ -69,7 +78,8 @@ function catalogControls(includeSubjects) {
 
 function lessonCard(l) {
  const s=subjectOf(l.subject);
- return `<a class="lesson-card reveal" href="#lesson=${escape(l.id)}"><div class="lesson-card-top">${subjectLabel(s)}<span>${lessonTerm(l)}</span></div><h3>${escape(l.title)}</h3><p>${escape(l.goal)}</p><div class="lesson-card-bottom"><span>${escape(l.unit)}</span><b>설명 + 3문제 <span aria-hidden="true">↗</span></b></div></a>`;
+ const done=isDone(l.id);
+ return `<a class="lesson-card reveal${done?' is-done':''}" href="#lesson=${escape(l.id)}"><div class="lesson-card-top">${subjectLabel(s)}<span>${lessonTerm(l)}</span></div><h3>${escape(l.title)}</h3><p>${escape(l.goal)}</p><div class="lesson-card-bottom"><span>${escape(l.unit)}</span>${done?`<b class="done-mark">${seal()}완료 · 다시 보기</b>`:`<b>설명 + 3문제 <span aria-hidden="true">↗</span></b>`}</div></a>`;
 }
 
 function renderCatalog() {
@@ -91,12 +101,12 @@ function renderSubject(s) {
 }
 
 function renderQuestion(q,i,l) {
- const labels=['개념을 확인해요','배운 것을 써봐요','내 생각을 펼쳐요'];
- return `<section class="question" data-question="${i}"><div class="question-top"><span class="question-number">${i+1}</span><span class="question-type">${labels[i]}${q.type==='activity'?' · 활동':''}</span></div><h3 id="prompt-${i}">${escape(q.prompt)}</h3>${q.type==='choice'?`<fieldset class="options" aria-labelledby="prompt-${i}"><legend class="sr-only">보기에서 하나를 선택하세요</legend>${q.options.map((o,j)=>`<label class="option"><input type="radio" name="q-${i}" value="${j}"><span>${escape(o)}</span></label>`).join('')}</fieldset>`:`<label for="response-${i}" class="sr-only">${i+1}번 나의 답</label><textarea class="answer-input" id="response-${i}" placeholder="${q.type==='activity'?'활동해 보고, 관찰하거나 느낀 것을 적어보세요.':'나의 생각이나 답을 적어보세요.'}" rows="2"></textarea>`}<div class="question-actions"><button data-check="${i}" aria-controls="solution-${i}" aria-expanded="false">${q.type==='choice'?'정답 확인하기':'예시 답안 보기'}</button><span id="feedback-${i}" class="answer-feedback" role="status"></span></div><div class="solution" id="solution-${i}" hidden><span class="solution-label">${q.type==='choice'?'ANSWER · 정답':'EXAMPLE · 정답 / 예시 답안'}</span><strong>${escape(q.answer)}</strong><p>${escape(q.explanation)}</p>${q.criteria?`<p class="criteria">확인 기준: ${escape(q.criteria)}</p>`:''}</div></section>`;
+ const labels=['개념을 확인해요','배운 것을 써봐요','내 생각을 펼쳐요'], graded=isAutoGradable(l,q);
+ return `<section class="question" data-question="${i}"><div class="question-top"><span class="question-number">${i+1}</span><span class="question-type">${labels[i]}${q.type==='activity'?' · 활동':''}</span></div><h3 id="prompt-${i}">${escape(q.prompt)}</h3>${q.type==='choice'?`<fieldset class="options" aria-labelledby="prompt-${i}"><legend class="sr-only">보기에서 하나를 선택하세요</legend>${shuffledOptions(l.id,i,q.options).map(({option,index},k)=>`<label class="option"><input type="radio" name="q-${i}" value="${index}"><span class="option-mark" aria-hidden="true">${'ㄱㄴㄷㄹㅁ'[k]||k+1}</span><span>${escape(option)}</span></label>`).join('')}</fieldset>`:graded?`<label for="response-${i}" class="sr-only">${i+1}번 나의 답</label><input class="answer-field" id="response-${i}" data-answer="${i}" type="text" inputmode="text" autocomplete="off" spellcheck="false" placeholder="답을 써 보세요">`:`<label for="response-${i}" class="sr-only">${i+1}번 나의 답</label><textarea class="answer-input" id="response-${i}" placeholder="${q.type==='activity'?'활동해 보고, 관찰하거나 느낀 것을 적어보세요.':'나의 생각이나 답을 적어보세요.'}" rows="2"></textarea>`}<div class="question-actions"><button class="check-button" data-check="${i}" aria-controls="solution-${i}" aria-expanded="false">${q.type==='choice'?'정답 확인하기':graded?'채점하기':'예시 답안 보기'}</button><button class="give-up" data-show-answer="${i}" hidden>정답 보기</button><span id="feedback-${i}" class="answer-feedback" role="status"></span></div><div class="solution" id="solution-${i}" hidden><span class="solution-label">${q.type==='choice'||graded?'정답':'예시 답안'}</span><strong>${escape(q.answer)}</strong><p>${escape(q.explanation)}</p>${q.criteria?`<p class="criteria">확인 기준: ${escape(q.criteria)}</p>`:''}</div></section>`;
 }
 
 function renderEvidence(l) {
- return `<details class="source-details" id="evidence"><summary>이 배움의 교육과정 근거 <span class="sr-only">펼치기</span></summary><div class="source-content"><p>교육과정은 <strong>3~4학년군</strong> 기준이며, 아래 교과서 자료를 참고해 3학년 학습 주제로 구성했어요. 설명·문제·예시 답안은 새로 작성했습니다.</p>${l.standardCodes.map(code=>{
+ return `<details class="source-details teacher-only" id="evidence"><summary>이 배움의 교육과정 근거 <span class="sr-only">펼치기</span></summary><div class="source-content"><p>교육과정은 <strong>3~4학년군</strong> 기준이며, 아래 교과서 자료를 참고해 3학년 학습 주제로 구성했어요. 설명·문제·예시 답안은 새로 작성했습니다.</p>${l.standardCodes.map(code=>{
   const normalized=code.replace(/[\[\]]/g,'');
   const verified=l.verifiedStandards?.find(s=>s.code.replace(/[\[\]]/g,'')===normalized)||standards[normalized]?.verified;
   const record=standards[normalized];
@@ -105,9 +115,10 @@ function renderEvidence(l) {
 }
 
 function renderLesson(l) {
+ attempts={};settled=new Set();
  const s=subjectOf(l.subject);document.title=`${l.title} — ${s.name} · 배움정원`;
  const peers=lessons.filter(p=>p.subject===l.subject), index=peers.indexOf(l), prev=peers[index-1],next=peers[index+1];
- main.innerHTML=`<div class="container page-top">${breadcrumbs([{label:s.name,href:'#subject='+s.id},{label:l.unit}])}<div class="lesson-layout"><article class="lesson-content"><header class="lesson-title-wrap">${subjectLabel(s)}<h1>${escape(l.title)}</h1><p class="lesson-goal">${escape(l.goal)}</p><div class="lesson-meta"><span>3학년 · ${lessonTerm(l)}</span><span>${escape(l.unit)}</span><span>연습문제 3개</span></div></header><section class="lesson-block" id="explanation"><div class="block-heading"><span class="block-step">01</span><h2>함께 알아볼까요?</h2></div><div class="lesson-explanation">${l.paragraphs.map(p=>`<p>${escape(p)}</p>`).join('')}</div><div class="example-box"><span class="example-label">A LITTLE EXAMPLE · 예를 들어 볼게요</span><p>${escape(l.example)}</p></div>${l.speech?`<div class="audio-box"><div class="audio-top"><button class="audio-button" data-speak aria-label="영어 예시 듣기">${icon('play')}</button><div><strong>귀로 듣고, 입으로 따라 해요.</strong><small>기기의 영어 음성으로 읽어드려요.</small></div></div><p>${escape(l.speech.text)}</p><span class="audio-status" role="status"></span></div>`:''}</section><section class="lesson-block" id="practice"><div class="block-heading"><span class="block-step">02</span><h2>세 가지 문제, 나만의 도전</h2></div>${l.questions.map((q,i)=>renderQuestion(q,i,l)).join('')}<div class="question-footer"><p>생각할 시간을 충분히 가져요.<br>활동 문제는 예시와 확인 기준을 비교해요.</p><button class="button button-primary" data-reveal>정답과 해설 모두 보기 <span aria-hidden="true">↗</span></button></div></section>${renderLevels(l)}${renderEvidence(l)}<nav class="lesson-next" aria-label="다른 학습자료">${prev?`<a href="#lesson=${prev.id}">← 이전 배움<br>${escape(prev.title)}</a>`:`<a href="#subject=${s.id}">← ${s.name} 목록으로</a>`}${next?`<a href="#lesson=${next.id}">다음 배움 →<br>${escape(next.title)}</a>`:`<a href="#subject=${s.id}">${s.name} 목록으로 →</a>`}</nav></article><aside class="lesson-aside" aria-label="학습 안내"><div class="aside-card"><h2>오늘의 배움 순서</h2><nav class="lesson-toc"><a href="#explanation" data-scroll="explanation"><b>01</b>설명 읽어보기</a><a href="#practice" data-scroll="practice"><b>02</b>세 가지 문제 풀기</a><a href="#evidence" data-scroll="evidence"><b>03</b>교육과정 확인하기</a></nav></div><div class="aside-card aside-tip">${icon('sprout')}<h3>천천히 생각할수록<br>배움은 더 깊어져요.</h3><p>한 번에 다 맞히지 않아도 괜찮아요. 해설을 읽고 내 생각과 비교해 보세요.</p></div><a class="aside-back" href="#subject=${s.id}">← ${s.name}의 정원으로</a></aside></div></div>`;
+ main.innerHTML=`<div class="container page-top">${breadcrumbs([{label:s.name,href:'#subject='+s.id},{label:l.unit}])}<div class="lesson-layout"><article class="lesson-content"><header class="lesson-title-wrap">${subjectLabel(s)}<h1>${escape(l.title)}</h1><p class="lesson-goal">${escape(l.goal)}</p><div class="lesson-meta"><span>3학년 · ${lessonTerm(l)}</span><span>${escape(l.unit)}</span><span>연습문제 3개</span>${isDone(l.id)?`<span class="done-mark">${seal()}완료한 배움</span>`:''}</div></header><section class="lesson-block" id="explanation"><div class="block-heading"><span class="block-step">01</span><h2>함께 알아볼까요?</h2></div><div class="lesson-explanation">${l.paragraphs.map(p=>`<p>${escape(p)}</p>`).join('')}</div><div class="example-box"><span class="example-label">예를 들어 볼게요</span><p>${escape(l.example)}</p></div>${l.speech?`<div class="audio-box"><div class="audio-top"><button class="audio-button" data-speak aria-label="영어 예시 듣기">${icon('play')}</button><div><strong>귀로 듣고, 입으로 따라 해요.</strong><small>기기의 영어 음성으로 읽어드려요.</small></div></div><p>${escape(l.speech.text)}</p><span class="audio-status" role="status"></span></div>`:''}</section><section class="lesson-block" id="practice"><div class="block-heading"><span class="block-step">02</span><h2>세 가지 문제, 나만의 도전</h2></div>${l.questions.map((q,i)=>renderQuestion(q,i,l)).join('')}<div class="question-footer"><p>틀려도 괜찮아요. 한 번 더 생각할 기회가 있어요.<br>세 문제를 모두 마치면 새싹 도장을 받아요.</p><button class="button button-secondary teacher-only" data-reveal>해설 모두 펼치기</button></div></section>${renderLevels(l)}${renderEvidence(l)}<nav class="lesson-next" aria-label="다른 학습자료">${prev?`<a href="#lesson=${prev.id}">← 이전 배움<br>${escape(prev.title)}</a>`:`<a href="#subject=${s.id}">← ${s.name} 목록으로</a>`}${next?`<a href="#lesson=${next.id}">다음 배움 →<br>${escape(next.title)}</a>`:`<a href="#subject=${s.id}">${s.name} 목록으로 →</a>`}</nav></article><aside class="lesson-aside" aria-label="학습 안내"><div class="aside-card"><h2>오늘의 배움 순서</h2><nav class="lesson-toc"><a href="#explanation" data-scroll="explanation"><b>01</b>설명 읽어보기</a><a href="#practice" data-scroll="practice"><b>02</b>세 가지 문제 풀기</a><a class="teacher-only" href="#evidence" data-scroll="evidence"><b>03</b>교육과정 확인하기</a></nav></div><div class="aside-card aside-tip">${icon('sprout')}<h3>천천히 생각할수록<br>배움은 더 깊어져요.</h3><p>한 번에 다 맞히지 않아도 괜찮아요. 해설을 읽고 내 생각과 비교해 보세요.</p></div><a class="aside-back" href="#subject=${s.id}">← ${s.name}의 정원으로</a></aside></div></div>`;
 }
 
 function uniqueSources(list) {return [...new Map((list||[]).filter(s=>s?.url).map(s=>[s.url,s])).values()];}
@@ -127,7 +138,7 @@ function levelTable(l) {
 
 function renderLevels(l) {
  if(!['math-01','math-02'].includes(l.id))return '';
- return `<details class="source-details learning-levels"><summary>이 자료의 성취수준 · 스스로 확인해요</summary><div class="source-content"><p><strong>이 자료를 위해 만든 자체 확인 기준</strong>입니다. 국가에서 고시한 공식 성취수준표가 아니며, 정답 개수만으로 수준을 자동 판정하지 않습니다. 계산 과정과 설명을 함께 살펴보세요.</p>${levelTable(l)}<p><a class="source-link" href="#assignment">이 단원의 지도·평가 기준 보기 ↗</a></p></div></details>`;
+ return `<details class="source-details learning-levels teacher-only"><summary>이 자료의 성취수준 · 스스로 확인해요</summary><div class="source-content"><p><strong>이 자료를 위해 만든 자체 확인 기준</strong>입니다. 국가에서 고시한 공식 성취수준표가 아니며, 정답 개수만으로 수준을 자동 판정하지 않습니다. 계산 과정과 설명을 함께 살펴보세요.</p>${levelTable(l)}<p><a class="source-link" href="#assignment">이 단원의 지도·평가 기준 보기 ↗</a></p></div></details>`;
 }
 function renderAssignment() {
  document.title='세 자리 수의 덧셈과 뺄셈 · 단원 설계 — 배움정원';
@@ -137,6 +148,8 @@ function renderAssignment() {
 function route() {
  if('speechSynthesis' in window)window.speechSynthesis.cancel();
  const hash=location.hash.slice(1), params=new URLSearchParams(hash);
+ if(['assignment','sources'].includes(hash)&&!isTeacherMode())setTeacherMode(true);
+ applyMode();
  document.querySelectorAll('[data-nav]').forEach(a=>{const selected=a.dataset.nav===(hash==='assignment'?'assignment':hash==='sources'?'sources':'home');a.classList.toggle('active',selected);if(selected)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
  if(hash==='assignment')renderAssignment();
  else if(hash==='sources')renderSources();
@@ -149,6 +162,7 @@ function route() {
 function renderNotFound(){document.title='배움을 찾을 수 없어요 — 배움정원';main.innerHTML=`<div class="container page-top"><div class="empty-state"><strong>이 배움은 아직 찾을 수 없어요.</strong><p>주소를 확인하거나 다른 배움을 만나보세요.</p><a class="button button-primary" href="#home">배움정원으로 돌아가기 ↗</a></div></div>`;}
 
 document.addEventListener('input',e=>{if(e.target.id==='lesson-search'){state.search=e.target.value;state.limit=12;renderCatalog();}});
+document.addEventListener('keydown',e=>{const field=e.target.closest?.('[data-answer]');if(field&&e.key==='Enter'&&!e.isComposing){e.preventDefault();checkQuestion(Number(field.dataset.answer));}});
 document.addEventListener('click',e=>{
  if(handleGuideAction(e))return;
  if(e.target.closest('.skip-link')){e.preventDefault();main.focus();main.scrollIntoView({block:'start'});return;}
@@ -157,21 +171,43 @@ document.addEventListener('click',e=>{
  const filter=e.target.closest('[data-subject]');if(filter){state.subject=filter.dataset.subject;state.limit=12;document.querySelectorAll('[data-subject]').forEach(b=>{b.classList.toggle('active',b===filter);b.setAttribute('aria-pressed',b===filter);});renderCatalog();return;}
  if(e.target.closest('[data-more]')){state.limit+=12;renderCatalog();return;}
  const check=e.target.closest('[data-check]');if(check){checkQuestion(Number(check.dataset.check));return;}
- if(e.target.closest('[data-reveal]')){const l=currentLesson();if(l){l.questions.forEach((q,i)=>showSolution(i));toast('정답과 해설을 내 생각과 비교해 보세요.');}return;}
+ const giveUp=e.target.closest('[data-show-answer]');if(giveUp){const i=Number(giveUp.dataset.showAnswer);setFeedback(i,'해설을 읽고 왜 그런지 생각해 봐요.');settle(i);return;}
+ if(e.target.closest('[data-reveal]')){const l=currentLesson();if(l){l.questions.forEach((q,i)=>showSolution(i));toast('해설을 내 생각과 비교해 보세요.');}return;}
+ if(e.target.closest('[data-teacher-toggle]')){setTeacherMode(!isTeacherMode());applyMode();if(!isTeacherMode()&&['assignment','sources'].includes(location.hash.slice(1)))location.hash='home';toast(isTeacherMode()?'선생님 화면이 켜졌어요.':'학생 화면으로 돌아왔어요.');return;}
+ if(e.target.closest('[data-clear-progress]')){if(confirm('이 기기에 저장된 새싹 도장을 모두 지울까요? 지운 기록은 되돌릴 수 없어요.')){clearProgress();progress=readProgress();route();toast('이 기기의 학습 기록을 지웠어요.');}return;}
  if(e.target.closest('[data-speak]')){speak();return;}
 });
 function currentLesson(){return lessons.find(l=>l.id===new URLSearchParams(location.hash.slice(1)).get('lesson'));}
 function showSolution(i){document.getElementById('solution-'+i).hidden=false;document.querySelector(`[data-check="${i}"]`).setAttribute('aria-expanded','true');}
+function setFeedback(i,text,tone){const f=document.getElementById('feedback-'+i);f.textContent=text;f.classList.toggle('is-wrong',tone==='wrong');f.classList.toggle('is-right',tone==='right');}
+function settle(i){
+ const l=currentLesson();if(!l)return;
+ showSolution(i);settled.add(i);
+ document.querySelector(`[data-show-answer="${i}"]`)?.setAttribute('hidden','');
+ document.querySelector(`[data-question="${i}"]`)?.classList.add('is-settled');
+ if(settled.size===l.questions.length&&markComplete(l.id)){
+  progress=readProgress();
+  document.querySelector('.lesson-meta')?.insertAdjacentHTML('beforeend',`<span class="done-mark">${seal()}완료한 배움</span>`);
+  toast('세 문제를 모두 마쳤어요. 새싹 도장을 찍었어요.');
+ }
+}
 function checkQuestion(i){
- const l=currentLesson();if(!l)return;const q=l.questions[i],feedback=document.getElementById('feedback-'+i);feedback.classList.remove('is-wrong');
+ const l=currentLesson();if(!l)return;const q=l.questions[i],graded=isAutoGradable(l,q);
+ if(q.type!=='choice'&&!graded){setFeedback(i,'예시와 나의 답을 비교해 봐요.');settle(i);return;}
+ let correct;
  if(q.type==='choice'){
   const selection=document.querySelector(`input[name="q-${i}"]:checked`);
-  if(!selection){feedback.textContent='먼저 보기를 하나 골라보세요.';return;}
-  const correct=q.options[Number(selection.value)]===q.answer;
-  feedback.textContent=correct?'맞았어요! 생각의 새싹이 자랐어요.':'해설을 읽고 다시 생각해 봐요.';
-  feedback.classList.toggle('is-wrong',!correct);
- }else feedback.textContent='예시와 나의 답을 비교해 봐요.';
- showSolution(i);
+  if(!selection){setFeedback(i,'먼저 보기를 하나 골라 보세요.');return;}
+  correct=q.options[Number(selection.value)]===q.answer;
+ }else{
+  const input=document.getElementById('response-'+i);
+  if(!input.value.trim()){setFeedback(i,'답을 먼저 써 보세요.');input.focus();return;}
+  correct=gradeShort(q,input.value);
+ }
+ attempts[i]=(attempts[i]||0)+1;
+ if(correct){setFeedback(i,attempts[i]===1?'정답이에요. 잘 생각했어요.':'정답이에요. 다시 생각해서 찾아냈어요.','right');settle(i);}
+ else if(attempts[i]<2){setFeedback(i,'조금 아쉬워요. 설명을 다시 읽고 한 번 더 해 볼까요?','wrong');document.querySelector(`[data-show-answer="${i}"]`)?.removeAttribute('hidden');}
+ else{setFeedback(i,'괜찮아요. 해설을 읽고 내 생각과 비교해 봐요.','wrong');settle(i);}
 }
 function speak(){
  const l=currentLesson(),status=document.querySelector('.audio-status');if(!l?.speech)return;

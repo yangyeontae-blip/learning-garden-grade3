@@ -3,6 +3,7 @@ import {fileURLToPath} from 'node:url';
 import {resolve,dirname} from 'node:path';
 import assert from 'node:assert/strict';
 import {exchangeModels,renderUnitGuide} from '../dist/unit-guide.js';
+import {shuffledOptions,isAutoGradable,gradeShort} from '../dist/practice.js';
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');
 const read=async p=>JSON.parse((await readFile(resolve(root,p),'utf8')).replace(/^\uFEFF/,''));
 const lessons=await read('dist/data/lessons.json'),standards=await read('dist/data/standards.json'),manifest=await read('dist/data/manifest.json');
@@ -56,4 +57,14 @@ assert.deepEqual(exchangeModels.subtract.steps[2].counts,[3,9,12]);
 const guideHTML=renderUnitGuide({lessons,standard:standards['4수01-03'].verified,card:l=>`<a href="#lesson=${l.id}">${l.title}</a>`,escape:v=>String(v),link:(t,u)=>`<a href="${u}">${t}</a>`,breadcrumbs:()=>''});
 for(const unwanted of ['패들릿','딸깍','GRADUATE COURSE','PUBLIC','과제 안내'])assert.ok(!guideHTML.includes(unwanted),'Submission instructions must not appear in the teaching guide: '+unwanted);
 for(const required of ['오류 진단','자릿값','교육과정 출처','실제 학생에게서 수집한 응답','생성형 AI','math-01','math-02'])assert.ok(guideHTML.includes(required),'Teaching guide missing '+required);
+// Student practice: every auto-graded answer accepts itself, common variants pass, wrong answers fail.
+let graded=0;const positions=[0,0,0];
+for(const l of lessons)l.questions.forEach((q,i)=>{
+ if(isAutoGradable(l,q)){graded++;assert.ok(gradeShort(q,q.answer),`${l.id} Q${i+1} must accept its own answer`);for(const alt of q.accept||[])assert.ok(gradeShort(q,alt),`${l.id} accept`);}
+ if(q.type==='choice'){const order=shuffledOptions(l.id,i,q.options);assert.deepEqual(order.map(o=>o.option).sort(),[...q.options].sort(),l.id+' shuffle must keep options');assert.deepEqual(shuffledOptions(l.id,i,q.options),order,l.id+' shuffle must be stable');const p=order.findIndex(o=>o.option===q.answer);if(q.options.length===3)positions[p]++;}
+});
+assert.ok(graded>=40,'Math short answers should be auto-graded');
+const total=positions.reduce((a,b)=>a+b,0);for(const n of positions)assert.ok(n/total>=.2,'Choice answers must be spread across positions: '+positions);
+for(const [answer,input] of [['425권','425'],['425권',' 425 권'],['567','567 '],['4분 15초','4분15초'],['몫 5, 나머지 3','몫5 나머지3'],['3250m','3,250m'],['6','６'],['2와 2/3','2와2/3']])assert.ok(gradeShort({answer},input),`${input} should match ${answer}`);
+for(const [answer,input] of [['567','576'],['425권','425명'],['4분 15초','4분'],['3250m','3250cm'],['7/4','4/7'],['567','']])assert.ok(!gradeShort({answer},input),`${input} should not match ${answer}`);
 console.log(`PASS: ${lessons.length} lessons / ${lessons.length*3} questions / 9 subjects; ${verified} PDF verification links; schema, curriculum alignment, answers, sources, and coverage checked.`);

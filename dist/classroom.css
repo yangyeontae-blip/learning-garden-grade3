@@ -1,0 +1,91 @@
+/* Classroom layer: readable sizes for grade 3, student/teacher views, practice states. */
+:root{--muted:#55635a;--ink-soft:#3f5546;--leaf:#5b7e3c;--wrong:#a35f2c}
+
+/* Student view hides teacher-facing material; teacher view shows the original site. */
+body:not(.teacher-mode) .teacher-only{display:none!important}
+body:not(.teacher-mode) .section-kicker,body:not(.teacher-mode) .eyebrow{display:none}
+body:not(.teacher-mode) .section-heading h2{margin-top:4px}
+
+/* Reading */
+.lesson-explanation p{font-size:18px;line-height:2;color:var(--ink-soft)}
+.example-box p{font-size:17px;line-height:1.95}
+.example-label{font-size:13px;letter-spacing:0}
+.lesson-goal{font-size:17px;color:var(--muted)}
+.lesson-meta,.breadcrumbs{font-size:13px;color:#66745f}
+.hero-description{font-size:18px;color:var(--muted)}
+.subject-text p{font-size:14px;color:var(--muted)}
+.subject-text small{font-size:12px;color:#6c7a64}
+.lesson-card h3{font-size:19px}
+.lesson-card p{font-size:14px;color:var(--muted)}
+.lesson-card-top>span,.lesson-card-bottom{font-size:12px;color:#6c7a64}
+.subject-label{font-size:12px}
+.semester-tabs button{font-size:14px;padding:10px 20px;color:#5f6d59}
+.chip{font-size:14px;padding:9px 16px;color:#5f6d59}
+.search-box{height:50px}
+.search-box input{font-size:15px}
+.catalog-count{font-size:14px}
+.subject-note{font-size:13px;color:#5f7052}
+.section-heading>p{font-size:15px}
+.aside-tip p{font-size:13px;color:#66765a}
+.lesson-toc a{font-size:14px}
+.lesson-next a{font-size:14px}
+.audio-top strong{font-size:14px}.audio-top small{font-size:12px}.audio-box p{font-size:17px}.audio-status{font-size:13px}
+.closing-note p{font-size:14px}
+.footer-inner p{font-size:13px}
+
+/* Questions */
+.question-type{font-size:12px;color:#6c7a64;letter-spacing:.2px}
+.question-number{width:30px;height:30px;font-size:13px}
+.question h3{font-size:19px;font-weight:600;line-height:1.8;color:var(--ink)}
+.options{gap:10px}
+.option{position:relative;min-height:58px;padding:14px 18px;font-size:17px;line-height:1.6;border-radius:15px;gap:14px;background:#fff}
+.option input{position:absolute;opacity:0;width:1px;height:1px}
+.option-mark{flex-shrink:0;display:grid;place-items:center;width:30px;height:30px;border-radius:50%;border:1.5px solid #cdd8c4;font-size:14px;font-weight:600;color:#6f8160;transition:background .15s,border-color .15s,color .15s}
+.option:has(input:checked){border-color:var(--forest);background:#f1f6e8;box-shadow:inset 0 0 0 1px var(--forest)}
+.option:has(input:checked) .option-mark{background:var(--forest);border-color:var(--forest);color:#fff}
+.option:has(input:focus-visible){outline:3px solid #75973d;outline-offset:3px}
+.answer-field{display:block;width:100%;max-width:340px;height:56px;padding:0 18px;border:1px solid #cfd9c6;border-radius:15px;background:#fcfdf9;font-size:20px;font-weight:600;color:var(--ink);letter-spacing:.3px}
+.answer-field::placeholder{font-size:16px;font-weight:400;color:#8f9b86}
+.answer-field:focus{outline:none;border-color:var(--forest);box-shadow:0 0 0 3px #dcebc4}
+.answer-input{font-size:16px;min-height:88px;border-radius:15px}
+.answer-input::placeholder{color:#8f9b86}
+.question-actions{flex-wrap:wrap;gap:10px 14px;margin-top:16px}
+.question-actions .check-button{min-height:48px;padding:0 24px;border-radius:50px;background:var(--forest);color:#fff;font-size:15px;font-weight:600;text-decoration:none;box-shadow:0 6px 14px #244e3c1c;transition:background .2s,transform .2s}
+.question-actions .check-button:hover{background:#183e2d;transform:translateY(-1px)}
+.question-actions .give-up{min-height:48px;padding:0 6px;font-size:14px;color:#617a4c}
+.question-actions .give-up[hidden]{display:none}
+.is-settled .check-button{background:#e9efe1;color:#4d6a39;box-shadow:none}
+.answer-feedback{font-size:15px;font-weight:500;color:#58704a}
+.answer-feedback.is-right{color:var(--leaf)}
+.answer-feedback.is-right:before{content:'';display:inline-block;width:7px;height:12px;border:solid currentColor;border-width:0 2px 2px 0;transform:rotate(45deg) translateY(-2px);margin-right:10px}
+.answer-feedback.is-wrong{color:var(--wrong)}
+.solution{font-size:16px;padding:20px 22px;border-radius:15px}
+.solution .solution-label{font-size:12px;letter-spacing:.5px}
+.solution strong{font-size:17px}
+.solution p{font-size:15px;color:#5a6e4c}
+.question-footer p{font-size:13px;color:#66765a;max-width:340px}
+
+/* Progress */
+.seal{width:18px;height:18px;flex-shrink:0}
+.done-mark{display:inline-flex;align-items:center;gap:7px;color:var(--leaf)!important;font-weight:600}
+.lesson-meta .done-mark{padding:4px 11px 4px 8px!important;border:1px solid #d3e2c0!important;border-radius:30px;background:#f1f6e8}
+.lesson-card.is-done{border-color:#d3e2c0;background:linear-gradient(#fff,#fbfdf7)}
+.lesson-card-bottom .done-mark{font-weight:600}
+.done-count{font-weight:600;color:var(--leaf)}
+.subject-meter{display:block;height:3px;margin-top:10px;border-radius:3px;background:#edf1e7;overflow:hidden;width:120px;max-width:100%}
+.subject-meter i{display:block;height:100%;background:#86a85c;border-radius:3px}
+
+/* Footer tools */
+.footer-tools{display:flex;gap:18px;flex-wrap:wrap}
+.footer-tools button{border:0;background:none;padding:10px 0;font-size:12px;color:#6c7a64}
+.footer-tools button:hover{color:var(--forest);text-decoration:underline;text-underline-offset:4px}
+.toast{font-size:14px}
+
+@media (max-width:640px){
+ .lesson-explanation p{font-size:17px}
+ .question h3{font-size:18px}
+ .option{font-size:16px}
+ .answer-field{max-width:none}
+ .footer-bottom{flex-wrap:wrap;gap:8px}
+}
+@media print{.footer-tools,.give-up{display:none!important}}
