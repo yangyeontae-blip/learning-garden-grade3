@@ -5,6 +5,12 @@
 
 **[웹사이트 열기](https://yangyeontae-blip.github.io/learning-garden-grade3/)** · 9개 교과 · 157개 학습자료 · 471문항 · 공식 PDF와 대조한 연결 성취기준 164개
 
+## 배움정원이 성장한 이야기
+
+**[정원의 성장 일기 읽기](https://yangyeontae-blip.github.io/learning-garden-grade3/#story)**
+
+홈 마지막에서 첫 제작, 교과 그림, 수학 지도 자료, 채점·새싹 기록, 배움 노트 개편까지의 변화를 읽을 수 있습니다. 실제 커밋을 근거로 작성했고 각 항목에서 원래 변경 기록을 열 수 있습니다. 새로운 주요 업데이트는 `dist/growth-story.js`에 날짜·설명·근거 커밋을 추가해 관리합니다.
+
 ## 단원 설계 자료
 
 **[세 자리 수의 덧셈과 뺄셈 — 지도·평가 자료](https://yangyeontae-blip.github.io/learning-garden-grade3/#assignment)**

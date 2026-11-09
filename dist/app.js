@@ -1,4 +1,5 @@
 import {renderUnitGuide, handleGuideAction} from './unit-guide.js';
+import {renderGrowthStory} from './growth-story.js';
 import {shuffledOptions, isAutoGradable, gradeShort, readProgress, markComplete, clearProgress, isTeacherMode, setTeacherMode} from './practice.js';
 const subjects = [
   {id:'korean',name:'국어',en:'KOREAN',tag:'말과 글로 만나는 세상',soft:'#f3e9dc',accent:'#ac8054',icon:'book'},
@@ -20,7 +21,7 @@ const lessonTerm = l => termLabel(l.semester)+(l.supplement ? ' · 보충' : '')
 const safeURL = value => {try {const u = new URL(value); return ['https:','http:'].includes(u.protocol) ? escape(u.href) : '#sources';} catch {return '#sources';}};
 const link = (title,url) => `<a href="${safeURL(url)}" target="_blank" rel="noopener noreferrer">${escape(title)} <span aria-hidden="true">↗</span><span class="sr-only"> (새 창)</span></a>`;
 let lessons = [], standards = {}, manifest = {}, state = {subject:'all',semester:'all',search:'',limit:9};
-let toastTimer, progress = readProgress(), attempts = {}, settled = new Set();
+let toastTimer, homeSection, progress = readProgress(), attempts = {}, settled = new Set();
 const isDone = id => Boolean(progress[id]?.done);
 const doneCount = s => lessons.filter(l => l.subject === s.name && isDone(l.id)).length;
 const seal = () => `<svg class="seal" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="17.5" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="20" cy="20" r="14" fill="none" stroke="currentColor" stroke-width=".8" stroke-dasharray="1.6 2.2"/><path d="M20 29v-9m0 4.5c-5.6 0-6.6-3.6-6.2-7.3 4-.6 6.9 2 6.2 7.3Zm0-4.5c-.2-4.3 3.2-6.8 7-6.5 0 4-2.7 6.8-7 6.5Z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
@@ -51,23 +52,28 @@ function icon(name) {
 }
 
 function bookIcon(s) {return `<img class="magic-book" src="./assets/books/${s.id}.webp" width="384" height="384" alt="" loading="lazy" decoding="async">`;}
-function subjectLabel(s) {return `<span class="subject-label" style="${styleOf(s)}">${bookIcon(s)}${s.name}</span>`;}
+function subjectLabel(s) {return `<span class="subject-label" style="${styleOf(s)}">${icon(s.icon)}${s.name}</span>`;}
 function toast(message) {const t=document.querySelector('.toast');t.textContent=message;t.classList.add('visible');clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove('visible'),3500);}
 function breadcrumbs(items) {return `<nav class="breadcrumbs" aria-label="현재 위치"><a href="#home">배움정원</a>${items.map(i=>`<span aria-hidden="true">/</span>${i.href?`<a href="${i.href}">${escape(i.label)}</a>`:`<span aria-current="page">${escape(i.label)}</span>`}`).join('')}</nav>`;}
 function countOf(s) {return lessons.filter(l=>l.subject===s.name).length;}
 
 function renderHome() {
  document.title='배움정원 — 호기심이 자라는 3학년';
+ const completed=lessons.filter(l=>isDone(l.id));
+ const picks=['국어','수학','과학'].map(name=>lessons.find(l=>l.subject===name&&!isDone(l.id))||lessons.find(l=>l.subject===name));
  main.innerHTML=`<div class="container">
   <section class="hero" aria-labelledby="hero-title">
-   <div class="hero-copy reveal"><p class="eyebrow">A LITTLE CURIOSITY, A BIG DISCOVERY</p><h1 id="hero-title">작은 호기심이,<br><em>큰 배움으로.</em></h1><p class="hero-description">알아가는 즐거움으로 채우는 나의 3학년. <br>쉬운 설명과 세 가지 문제로, 오늘의 배움을 시작해요.</p><div class="hero-actions"><button class="button button-primary" data-scroll="subjects">나의 배움 시작하기 <span class="arrow" aria-hidden="true">↗</span></button><a class="button-quiet teacher-only" href="#sources">어떤 교육과정인가요? <span aria-hidden="true">↗</span></a></div><div class="hero-metrics"><span><strong>9</strong>개의 교과</span><span><strong>${lessons.length}</strong>개의 배움</span><span><strong>3</strong>문제씩 차근차근</span></div></div>
-   <div class="hero-art reveal"><img src="./assets/garden.svg" width="600" height="520" alt="초록 책에서 자라는 새싹과 수학 블록, 웃는 해가 있는 배움정원" fetchpriority="high"><span class="art-caption">생각의 새싹을 틔워봐!</span></div>
+   <div class="hero-copy reveal"><p class="garden-label"><span aria-hidden="true">✳</span> 호기심이 자라는 나의 작은 정원</p><h1 id="hero-title">오늘의 호기심을<br><em>한 뼘 더 키워요.</em></h1><p class="hero-description">읽어 보고, 생각하고, 하나씩 발견하는 즐거움.<br>하루 세 문제로 나만의 배움을 가꿔 보세요.</p><div class="hero-actions"><button class="button button-primary" data-scroll="subjects">어떤 과목을 만나볼까? <span class="arrow" aria-hidden="true">→</span></button></div><p class="hero-footnote">작은 시작도 괜찮아. 너의 속도로 자라면 돼.</p></div>
+   <div class="notebook-wrap reveal"><span class="notebook-flower" aria-hidden="true">✳</span><div class="learning-notebook"><div class="notebook-top"><span>나의 배움 노트</span><span>3학년 · 매일 조금씩</span></div><div class="notebook-heading"><div><p class="garden-label">TODAY’S DISCOVERY</p><h2>오늘은 이런 배움 어때?</h2></div>${icon('sprout')}</div><div class="notebook-picks">${picks.map((l,i)=>{const s=subjectOf(l.subject);return `<a href="#lesson=${l.id}" class="notebook-pick" style="${styleOf(s)}"><span class="pick-number">0${i+1}</span><span class="pick-copy"><small>${s.name} · ${escape(l.unit)}</small><strong>${escape(l.title)}</strong></span><span class="pick-arrow" aria-hidden="true">↗</span></a>`;}).join('')}</div><div class="notebook-bottom"><span class="note-pencil" aria-hidden="true"></span><span>설명 한 편 + 연습문제 세 개</span><span aria-hidden="true">좋아, 해보자!</span></div></div><span class="notebook-caption">한 장씩 채워 가는, 나의 가능성.</span></div>
   </section>
+  <div class="garden-facts"><span>${icon('book')}<b>9개 교과</b> 골고루 만나고</span><span>${icon('bulb')}<b>${lessons.length}개 배움</b> 궁금한 만큼 알아가고</span><span>${icon('sprout')}<b>나의 속도로</b> 차근차근 자라요</span></div>
   <div class="intro-strip teacher-only"><div class="strip-icon">${icon('shield')}<span><strong>교육과정에 뿌리를 둔 배움.</strong> 2022 개정 성취기준과 연결했어요.</span></div><a href="#sources">근거 살펴보기 <span aria-hidden="true">↗</span></a></div>
   <a class="assignment-spotlight teacher-only" href="#assignment"><span class="assignment-seal">수학 수업</span><span><strong>받아올림과 받아내림, 자릿값으로 이해하기</strong><small>수 모형, 예상 오류, 문항별 평가 기준을 연결한 3학년 수학 단원 자료입니다.</small></span><span class="spotlight-action">단원 자료 보기 ↗</span></a>
-  <section id="subjects" style="scroll-margin-top:110px" aria-labelledby="subjects-title"><div class="section-heading"><div><p class="section-kicker">NINE WAYS TO GROW</p><h2 id="subjects-title">오늘은 무엇을 배워볼까?</h2></div><p>마음이 가는 과목부터, 가볍게.</p></div><div class="subjects-grid">${subjects.map(s=>`<a class="subject-card reveal" href="#subject=${s.id}" style="${styleOf(s)}"><span class="subject-icon">${bookIcon(s)}</span><span class="subject-text"><h3>${s.name}</h3><p>${s.tag}</p><small>${countOf(s)}개의 배움${doneCount(s)?` · <b class="done-count">${doneCount(s)}개 완료</b>`:' · 3학년'}</small>${doneCount(s)?`<span class="subject-meter" aria-hidden="true"><i style="width:${Math.round(doneCount(s)/countOf(s)*100)}%"></i></span>`:''}</span><span class="card-arrow" aria-hidden="true">↗</span></a>`).join('')}</div></section>
-  <section class="browse-section" id="browse" aria-labelledby="browse-title"><div class="section-heading"><div><p class="section-kicker">YOUR LEARNING COLLECTION</p><h2 id="browse-title">차근차근, 배움 한 조각</h2></div><p>궁금한 주제를 찾아보세요.</p></div>${catalogControls(true)}<div id="catalog-results"></div></section>
-  <section class="closing-note"><div><h2>빨리보다, 즐겁게 배우는 마음.</h2><p>모르는 건 괜찮아요. 읽고, 생각하고, 다시 도전해요.<br>작은 발견이 모여 나만의 정원이 될 거예요.</p></div><button class="button" data-scroll="subjects">다른 과목도 만나보기 <span class="arrow" aria-hidden="true">↗</span></button></section>
+  <section id="subjects" class="subjects-section" aria-labelledby="subjects-title"><div class="section-heading"><div><p class="garden-label">01 &nbsp; 배움의 책장</p><h2 id="subjects-title">어느 정원으로 가볼까?</h2></div><p>마음이 가는 과목부터 시작해요.</p></div><div class="subjects-grid">${subjects.map((s,i)=>`<a class="subject-card reveal" href="#subject=${s.id}" style="${styleOf(s)}"><span class="subject-icon">${icon(s.icon)}</span><span class="subject-text"><h3>${s.name}<span class="subject-en" aria-hidden="true">${s.en}</span></h3><p>${s.tag}</p><small>${countOf(s)}개의 배움${doneCount(s)?` · <b class="done-count">${doneCount(s)}개 완료</b>`:''}</small>${doneCount(s)?`<span class="subject-meter" aria-hidden="true"><i style="width:${Math.round(doneCount(s)/countOf(s)*100)}%"></i></span>`:''}</span><span class="card-arrow" aria-hidden="true">↗</span></a>`).join('')}</div></section>
+  <section class="browse-section" id="browse" aria-labelledby="browse-title"><div class="section-heading"><div><p class="garden-label">02 &nbsp; 궁금함을 따라</p><h2 id="browse-title">찾아보자, 나의 다음 배움</h2></div><p>학기와 과목으로 골라 볼 수 있어요.</p></div>${catalogControls(true)}<div id="catalog-results"></div></section>
+  <section class="my-garden" id="my-garden" aria-labelledby="garden-title"><div class="garden-progress-copy"><p class="garden-label">03 &nbsp; 나의 새싹 기록</p><h2 id="garden-title">${completed.length?'이만큼 자랐어요.':'첫 새싹을 기다리고 있어요.'}</h2><p>${completed.length?`지금까지 <strong>${completed.length}개</strong>의 배움을 마쳤어요. 하나하나 쌓인 발견이 멋져요.`:'세 문제를 모두 마치면 새싹 도장을 받아요.<br>작은 발견 하나로, 나의 정원이 시작돼요.'}</p><button class="button button-secondary" data-scroll="subjects">${completed.length?'다음 새싹 키우러 가기':'첫 번째 새싹 키우기'} <span aria-hidden="true">→</span></button><small>기록은 이 기기의 브라우저에만 보관돼요.</small></div><div class="garden-stamps">${subjects.map(s=>`<a href="#subject=${s.id}" class="garden-stamp${doneCount(s)?' has-grown':''}" aria-label="${s.name} ${doneCount(s)}개 완료">${icon('sprout')}<span>${s.name}</span><small>${doneCount(s)?doneCount(s)+'개 완료':'아직 씨앗'}</small></a>`).join('')}</div></section>
+  <div class="garden-signoff">${icon('sprout')}<p>매일 조금씩, 나만의 속도로.</p><span>배움정원</span></div>
+  ${renderGrowthStory()}
  </div>`;
  renderCatalog();
 }
@@ -148,6 +154,7 @@ function renderAssignment() {
 function route() {
  if('speechSynthesis' in window)window.speechSynthesis.cancel();
  const hash=location.hash.slice(1), params=new URLSearchParams(hash);
+ if(hash==='story')homeSection='growth-story';
  if(['assignment','sources'].includes(hash)&&!isTeacherMode())setTeacherMode(true);
  applyMode();
  document.querySelectorAll('[data-nav]').forEach(a=>{const selected=a.dataset.nav===(hash==='assignment'?'assignment':hash==='sources'?'sources':'home');a.classList.toggle('active',selected);if(selected)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
@@ -158,6 +165,7 @@ function route() {
  else {state={subject:'all',semester:'all',search:'',limit:9};renderHome();}
  window.scrollTo({top:0,behavior:'instant'});
  main.focus({preventScroll:true});
+ if(homeSection){document.getElementById(homeSection)?.scrollIntoView({block:'start'});homeSection=null;}
 }
 function renderNotFound(){document.title='배움을 찾을 수 없어요 — 배움정원';main.innerHTML=`<div class="container page-top"><div class="empty-state"><strong>이 배움은 아직 찾을 수 없어요.</strong><p>주소를 확인하거나 다른 배움을 만나보세요.</p><a class="button button-primary" href="#home">배움정원으로 돌아가기 ↗</a></div></div>`;}
 
@@ -165,6 +173,7 @@ document.addEventListener('input',e=>{if(e.target.id==='lesson-search'){state.se
 document.addEventListener('keydown',e=>{const field=e.target.closest?.('[data-answer]');if(field&&e.key==='Enter'&&!e.isComposing){e.preventDefault();checkQuestion(Number(field.dataset.answer));}});
 document.addEventListener('click',e=>{
  if(handleGuideAction(e))return;
+ const homeLink=e.target.closest('[data-home-section]');if(homeLink){homeSection=homeLink.dataset.homeSection;if(!location.hash||location.hash==='#home'){e.preventDefault();document.getElementById(homeSection)?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth',block:'start'});homeSection=null;}return;}
  if(e.target.closest('.skip-link')){e.preventDefault();main.focus();main.scrollIntoView({block:'start'});return;}
  const scroll=e.target.closest('[data-scroll]');if(scroll){e.preventDefault();const el=document.getElementById(scroll.dataset.scroll);if(el?.tagName==='DETAILS')el.open=true;el?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth',block:'start'});return;}
  const term=e.target.closest('[data-term]');if(term){state.semester=term.dataset.term;state.limit=12;document.querySelectorAll('[data-term]').forEach(b=>{b.classList.toggle('active',b===term);b.setAttribute('aria-pressed',b===term);});renderCatalog();return;}
