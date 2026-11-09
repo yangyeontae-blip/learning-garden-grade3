@@ -236,6 +236,51 @@ h1,h2,h3 {word-break:keep-all}
   .source-content,.source-item blockquote,.source-details>summary {font-size:13px}.lesson-next a {font-size:13px}.source-panel p,.source-panel li {font-size:14px}.source-panel .source-link-row {font-size:12px}
   .toast {width:max-content;max-width:calc(100% - 32px);font-size:13px;line-height:1.8}
 }
+/* A dated garden journal, grounded in the linked source commits. */
+.growth-story {border-top:1px solid var(--line);padding:45px 0 52px;scroll-margin-top:110px}
+.growth-story .section-heading {align-items:center;margin-bottom:16px}
+.story-flower {color:#b49b61;font-size:44px;line-height:1}
+.story-intro {font-size:16px;line-height:1.9;color:var(--muted);margin-bottom:30px}
+.story-timeline {list-style:none;margin:0;padding:0}
+.story-entry {display:grid;grid-template-columns:145px minmax(0,1fr);gap:28px;position:relative;padding:0 0 30px}
+.story-entry:before {content:'';position:absolute;left:143px;top:10px;bottom:-10px;border-left:1px solid #d6ddcb}
+.story-entry:last-child:before {bottom:30px}
+.story-date {padding-top:5px;display:flex;flex-direction:column;align-items:flex-start;gap:9px}
+.story-date time {font-size:12px;color:#66755e;font-variant-numeric:tabular-nums;letter-spacing:.03em}
+.story-date>span {font-size:11px;color:#6e805c;background:#e9eedf;border-radius:4px;padding:4px 8px}
+.story-content {position:relative;padding:1px 0 0 2px}
+.story-content:before {content:'';position:absolute;width:9px;height:9px;border-radius:50%;background:#97a67c;left:-34px;top:9px;border:3px solid var(--paper);box-sizing:content-box}
+.story-content h3 {font-size:20px;line-height:1.65;font-weight:650;letter-spacing:-.025em;margin:0 0 8px}
+.story-content>p {font-size:16px;line-height:1.9;color:#64715d;max-width:800px;margin:0 0 10px;word-break:keep-all;overflow-wrap:anywhere}
+.story-evidence {display:flex;flex-wrap:wrap;gap:6px 20px}
+.story-evidence a,.story-bottom a {font-size:12px;color:#536c42;text-decoration:underline;text-decoration-color:#b7c3a8;text-underline-offset:4px;line-height:1.9}
+.story-evidence a:hover,.story-bottom a:hover {color:var(--forest);text-decoration-color:currentColor}
+.story-latest {display:inline-block;margin-left:12px;vertical-align:middle;padding:2px 7px;border-radius:4px;font-size:10px;font-weight:500;color:#476238;background:#e4ecd9;white-space:nowrap}
+.is-latest .story-content:before {background:#3f6541;box-shadow:0 0 0 3px #e0e8d5}
+.story-bottom {display:flex;justify-content:space-between;gap:15px;align-items:center;padding-top:20px;border-top:1px dashed #d4dcca}
+.story-bottom p {font-size:12px;color:#75816b;margin:0;line-height:1.9}
+.footer-story {font-size:12px;color:#65765a;margin-left:auto;white-space:nowrap;padding:10px 0}
+@media(max-width:560px) {
+  .growth-story {padding:30px 0 36px}
+  .growth-story .section-heading h2 {font-size:23px}
+  .story-flower {display:none}
+  .story-intro {font-size:15px;margin-bottom:25px}
+  .story-entry {grid-template-columns:minmax(0,1fr);gap:10px;padding:0 0 27px 24px}
+  .story-entry:before {left:5px;top:10px;bottom:-10px}
+  .story-entry:last-child:before {bottom:30px}
+  .story-date {flex-direction:row;align-items:center;gap:10px;padding:0}
+  .story-date time {font-size:11px}
+  .story-date>span {font-size:10px;padding:3px 7px}
+  .story-content {padding:0}
+  .story-content:before {left:-25px;top:-32px;width:7px;height:7px}
+  .story-content h3 {font-size:19px;line-height:1.7;margin-bottom:9px}
+  .story-content>p {font-size:15px;line-height:1.95;word-break:normal}
+  .story-latest {margin-left:7px;font-size:9px}
+  .story-evidence {gap:5px 16px}
+  .story-evidence a,.story-bottom a {font-size:12px}
+  .story-bottom {flex-direction:column;align-items:flex-start;gap:10px;padding-top:18px}
+  .story-bottom p {font-size:11px}
+}
 @media(prefers-reduced-motion:reduce) {
   *,*:before,*:after {animation:none!important;transition:none!important;scroll-behavior:auto!important}
 }

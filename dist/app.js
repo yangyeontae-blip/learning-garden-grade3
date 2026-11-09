@@ -1,4 +1,5 @@
 import {renderUnitGuide, handleGuideAction} from './unit-guide.js';
+import {renderGrowthStory} from './growth-story.js';
 import {shuffledOptions, isAutoGradable, gradeShort, readProgress, markComplete, clearProgress, isTeacherMode, setTeacherMode} from './practice.js';
 const subjects = [
   {id:'korean',name:'국어',en:'KOREAN',tag:'말과 글로 만나는 세상',soft:'#f3e9dc',accent:'#ac8054',icon:'book'},
@@ -72,6 +73,7 @@ function renderHome() {
   <section class="browse-section" id="browse" aria-labelledby="browse-title"><div class="section-heading"><div><p class="garden-label">02 &nbsp; 궁금함을 따라</p><h2 id="browse-title">찾아보자, 나의 다음 배움</h2></div><p>학기와 과목으로 골라 볼 수 있어요.</p></div>${catalogControls(true)}<div id="catalog-results"></div></section>
   <section class="my-garden" id="my-garden" aria-labelledby="garden-title"><div class="garden-progress-copy"><p class="garden-label">03 &nbsp; 나의 새싹 기록</p><h2 id="garden-title">${completed.length?'이만큼 자랐어요.':'첫 새싹을 기다리고 있어요.'}</h2><p>${completed.length?`지금까지 <strong>${completed.length}개</strong>의 배움을 마쳤어요. 하나하나 쌓인 발견이 멋져요.`:'세 문제를 모두 마치면 새싹 도장을 받아요.<br>작은 발견 하나로, 나의 정원이 시작돼요.'}</p><button class="button button-secondary" data-scroll="subjects">${completed.length?'다음 새싹 키우러 가기':'첫 번째 새싹 키우기'} <span aria-hidden="true">→</span></button><small>기록은 이 기기의 브라우저에만 보관돼요.</small></div><div class="garden-stamps">${subjects.map(s=>`<a href="#subject=${s.id}" class="garden-stamp${doneCount(s)?' has-grown':''}" aria-label="${s.name} ${doneCount(s)}개 완료">${icon('sprout')}<span>${s.name}</span><small>${doneCount(s)?doneCount(s)+'개 완료':'아직 씨앗'}</small></a>`).join('')}</div></section>
   <div class="garden-signoff">${icon('sprout')}<p>매일 조금씩, 나만의 속도로.</p><span>배움정원</span></div>
+  ${renderGrowthStory()}
  </div>`;
  renderCatalog();
 }
@@ -152,6 +154,7 @@ function renderAssignment() {
 function route() {
  if('speechSynthesis' in window)window.speechSynthesis.cancel();
  const hash=location.hash.slice(1), params=new URLSearchParams(hash);
+ if(hash==='story')homeSection='growth-story';
  if(['assignment','sources'].includes(hash)&&!isTeacherMode())setTeacherMode(true);
  applyMode();
  document.querySelectorAll('[data-nav]').forEach(a=>{const selected=a.dataset.nav===(hash==='assignment'?'assignment':hash==='sources'?'sources':'home');a.classList.toggle('active',selected);if(selected)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
